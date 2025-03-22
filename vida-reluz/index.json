@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Quero Ver o Céu",
+    "path": "quero-ver-o-ceu",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Recomeçar",
+    "path": "recomecar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Reina soberano",
+    "path": "reina-soberano",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Restaurados Pra Adorar",
+    "path": "restaurados-pra-adorar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Rio de Bençãos",
+    "path": "rio-de-bencaos",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Sede Santos",
+    "path": "sede-santos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Seiva da minha vida",
+    "path": "seiva-da-minha-vida",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Senhor e Rei",
+    "path": "senhor-rei",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Sentença de Amor",
+    "path": "sentenca-de-amor",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Seu Amor Me Conquistou",
+    "path": "seu-amor-me-conquistou",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Simplesmente Amar",
+    "path": "simplesmente-amar",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Te deixas encontrar",
+    "path": "te-deixas-encontrar",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Terra de Santa Cruz",
+    "path": "terra-de-santa-cruz",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Tesouro sagrado",
+    "path": "tesouro-sagrado",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tocar o Céu",
+    "path": "tocar-ceu",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Toma o Teu Lugar, Senhor",
+    "path": "toma-teu-lugar-senhor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Toque de Deus",
+    "path": "toque-de-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Transbordará",
+    "path": "transbordara",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Um Coração Puro",
+    "path": "um-coracao-puro",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vem Eu Mostrarei",
+    "path": "vem-eu-mostrarei",
+    "default-tone": "D (forma dos acordes no tom de C)",
+    "categories": []
+  },
+  {
+    "name": "Vem sobre nós",
+    "path": "vem-sobre-nos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Venho Senhor",
+    "path": "venho-senhor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vinde Espírito Santo",
+    "path": "vinde-espirito-santo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Vinde, Espírito Santo",
+    "path": "vinde-espirito-santo-7448",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vinho Novo",
+    "path": "vinho-novo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Visão",
+    "path": "visao",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Vou me entregar a Deus",
+    "path": "vou-me-entregar-deus",
+    "default-tone": "C",
+    "categories": []
+  }
+]
