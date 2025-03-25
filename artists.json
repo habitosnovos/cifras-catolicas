@@ -14,5 +14,9 @@
   {
     "name": "Músicas Católicas",
     "path": "catolicas"
+  },
+  {
+    "name": "Anjos de Resgate",
+    "path": "anjos-de-resgate-musicas"
   }
 ]
