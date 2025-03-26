@@ -181,12 +181,6 @@
   },
   {
     "name": "Ha Poder",
-    "path": "ha-poder",
-    "default-tone": "C",
-    "categories": []
-  },
-  {
-    "name": "Ha Poder",
     "path": "ha-poder-",
     "default-tone": "C",
     "categories": []
@@ -194,6 +188,12 @@
   {
     "name": "Ha Poder",
     "path": "ha-poder--",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ha Poder",
+    "path": "ha-poder",
     "default-tone": "C",
     "categories": []
   },
@@ -355,7 +355,7 @@
   },
   {
     "name": "Rasgue os Céus",
-    "path": "rasgue-os-ceus-",
+    "path": "rasgue-os-ceus",
     "default-tone": "G",
     "categories": []
   },
@@ -367,7 +367,7 @@
   },
   {
     "name": "Rasgue os Céus",
-    "path": "rasgue-os-ceus",
+    "path": "rasgue-os-ceus-",
     "default-tone": "G",
     "categories": []
   },
