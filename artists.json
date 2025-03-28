@@ -1,6 +1,102 @@
 [
   {
-    "name": "Aline Brasil",
-    "path": "aline-brasil"
+    "name": "Padre Marcelo Rossi",
+    "path": "padre-marcelo-rossi"
+  },
+  {
+    "name": "Padre Fabio de Melo",
+    "path": "padre-fabio-de-melo"
+  },
+  {
+    "name": "Padre Jonas Abib",
+    "path": "padre-jonas-abib"
+  },
+  {
+    "name": "Pe. Antônio Maria",
+    "path": "pe-antonio-maria"
+  },
+  {
+    "name": "Pe Zezinho",
+    "path": "pe-zezinho"
+  },
+  {
+    "name": "Pe. Joãozinho",
+    "path": "pe-joaozinho"
+  },
+  {
+    "name": "Ministério Amor e Adoração",
+    "path": "ministerio-amor-e-adoracao"
+  },
+  {
+    "name": "Ministerio Filhos de Davi",
+    "path": "ministerio-filhos-de-davi"
+  },
+  {
+    "name": "Ministério Totus Tuus",
+    "path": "ministerio-totus-tuus"
+  },
+  {
+    "name": "Ministério Ruah",
+    "path": "ministerio-ruah"
+  },
+  {
+    "name": "Eros Biondini",
+    "path": "eros-biondini"
+  },
+  {
+    "name": "Davidson Silva",
+    "path": "davidson-silva"
+  },
+  {
+    "name": "Banda Dominus",
+    "path": "banda-dominus"
+  },
+  {
+    "name": "Banda Iahweh",
+    "path": "banda-iahweh"
+  },
+  {
+    "name": "Banda Arkanjos",
+    "path": "banda-arkanjos"
+  },
+  {
+    "name": "Banda Scala",
+    "path": "banda-scala"
+  },
+  {
+    "name": "Banda Luz Divina",
+    "path": "banda-luz-divina"
+  },
+  {
+    "name": "Banda Gratidão",
+    "path": "banda-gratidao"
+  },
+  {
+    "name": "Banda Servos",
+    "path": "banda-servos"
+  },
+  {
+    "name": "Banda Kyrios",
+    "path": "banda-kyrios"
+  },
+  {
+    "name": "Banda Eterna Aliança",
+    "path": "banda-eterna-alianca"
+  },
+  {
+    "name": "Banda Magnificat",
+    "path": "banda-magnificat"
+  },
+  {
+    "name": "Ziza Fernandes",
+    "path": "ziza-fernandes"
+  },
+  {
+    "name": "Colo de Deus",
+    "path": "colo-de-deus"
+  },
+  {
+    "name": "Ministério Adoração e Vida",
+    "path": "ministerio-adoracao-vida"
   }
 ]

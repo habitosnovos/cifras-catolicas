@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Acredite",
+    "path": "acredite",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Coração Refém",
+    "path": "coracao-refem",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Cuidado",
+    "path": "cuidado",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Mudei Para Ser Feliz",
+    "path": "mudei-para-ser-feliz",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Nova Direção",
+    "path": "nova-direcao",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "O Filho Voltou",
+    "path": "o-filho-voltou",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "O Meu Deus É Mais",
+    "path": "tabs-baixo",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Para Todo Mundo Ouvir",
+    "path": "para-todo-mundo-ouvir",
+    "default-tone": "",
+    "categories": []
+  }
+]
