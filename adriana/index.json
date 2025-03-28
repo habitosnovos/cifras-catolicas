@@ -134,13 +134,13 @@
   {
     "name": "Coroação de Nossa Senhora",
     "path": "coroacao-de-nossa-senhora",
-    "default-tone": "G",
+    "default-tone": "",
     "categories": []
   },
   {
     "name": "Deus de Milagres",
     "path": "deus-de-milagres",
-    "default-tone": "G",
+    "default-tone": "",
     "categories": []
   },
   {
@@ -152,7 +152,7 @@
   {
     "name": "Diário de Maria",
     "path": "diario-de-maria",
-    "default-tone": "C",
+    "default-tone": "",
     "categories": []
   },
   {
@@ -164,25 +164,25 @@
   {
     "name": "Doce Jesus",
     "path": "doce-jesus",
-    "default-tone": "D",
+    "default-tone": "",
     "categories": []
   },
   {
     "name": "Dominio",
     "path": "dominio",
-    "default-tone": "D",
+    "default-tone": "",
     "categories": []
   },
   {
     "name": "É Natal",
     "path": "-natal",
-    "default-tone": "C",
+    "default-tone": "",
     "categories": []
   },
   {
     "name": "É Tão Bom",
     "path": "e-tao-bom",
-    "default-tone": "A",
+    "default-tone": "",
     "categories": []
   },
   {
