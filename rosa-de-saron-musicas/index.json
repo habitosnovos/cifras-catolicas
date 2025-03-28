@@ -1,0 +1,1040 @@
+[
+  {
+    "name": "A Fênix",
+    "path": "a-fenix",
+    "default-tone": "Fm (forma dos acordes no tom de Em)",
+    "categories": []
+  },
+  {
+    "name": "A Rosa e o Espinho",
+    "path": "a-rosa-e-o-espinho",
+    "default-tone": "F# (forma dos acordes no tom de G)",
+    "categories": []
+  },
+  {
+    "name": "Abba",
+    "path": "abba",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Acenda a Luz",
+    "path": "acenda-a-luz",
+    "default-tone": "F# (forma dos acordes no tom de G)",
+    "categories": []
+  },
+  {
+    "name": "Ainda Me Pergunto",
+    "path": "ainda-me-pergunto",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Além do Meu Jardim",
+    "path": "alem-do-meu-jardim",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Algoritmo",
+    "path": "algoritmo",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Ambivertido",
+    "path": "ambivertido",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Amor Perdido",
+    "path": "amor-perdido",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Amor Sincero",
+    "path": "amor-sincero",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Angústia Suprema",
+    "path": "angustia-suprema-acustico-ao-vivo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Anjos Das Ruas",
+    "path": "anjos-das-ruas",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Antes",
+    "path": "antes",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Apenas Uma Canção de Amor",
+    "path": "apenas-uma-cancao-de-amor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "As Dores do Silêncio",
+    "path": "as-dores-do-silencio",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "As Horas",
+    "path": "as-horas",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Até o Fim",
+    "path": "ate-o-fim",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Aurora",
+    "path": "aurora",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Autor Desconhecido",
+    "path": "autor-desconhecido",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Baile Das Máscaras",
+    "path": "baile-das-mascaras",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Balança Jesus",
+    "path": "balanca-jesus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Basta Querer",
+    "path": "basta-querer",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Caminho de Emaús",
+    "path": "caminho-de-emaus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Carregue Os Feridos",
+    "path": "carregue-os-feridos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Cartas Ao Remetente",
+    "path": "cartas-ao-remetente",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Casa Dos Espelhos",
+    "path": "casa-dos-espelhos",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Casino Boulevard",
+    "path": "casino-boulevard",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Chance",
+    "path": "chance",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Como Eu Te Vejo",
+    "path": "como-eu-te-vejo",
+    "default-tone": "Eb (forma dos acordes no tom de E)",
+    "categories": []
+  },
+  {
+    "name": "Comunhão",
+    "path": "comunhao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Cuida de Mim",
+    "path": "cuida-de-mim",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Dançando Na Chuva",
+    "path": "dancando-na-chuva",
+    "default-tone": "F#m (forma dos acordes no tom de Fm)",
+    "categories": []
+  },
+  {
+    "name": "Densas Nuvens, Tempestades",
+    "path": "densas-nuvens-tempestades",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Deo Vero",
+    "path": "deo-vero",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Diante da Cruz",
+    "path": "diante-da-cruz",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Dias Assim",
+    "path": "dias-assim",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Distante do Que Sou",
+    "path": "distante-do-que-sou",
+    "default-tone": "B (forma dos acordes no tom de C)",
+    "categories": []
+  },
+  {
+    "name": "Do Alto da Pedra",
+    "path": "do-alto-da-pedra",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Do Jeito Que Era Antes",
+    "path": "do-jeito-que-era-antes",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Dossel",
+    "path": "dossel",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Dualismo",
+    "path": "dualismo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "E Sempre",
+    "path": "e-sempre",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ébrio Habito",
+    "path": "brio-habito",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "El Sol de Medianoche",
+    "path": "el-sol-de-medianoche",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Em Espírito Em Verdade",
+    "path": "em-espirito-em-verdade",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Enquanto o Sono Não Vem",
+    "path": "enquanto-sono-nao-vem",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Entre Aspas",
+    "path": "entre-aspas",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Esperando Na Janela",
+    "path": "esperando-na-janela",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Espera",
+    "path": "espera",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Esperando Na Janela (Acoustic Cover)",
+    "path": "esperando-na-janela-acoustic-cover",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Estar Com Você",
+    "path": "estar-com-voce",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Estrangeiro",
+    "path": "estrangeiro",
+    "default-tone": "Gm (forma dos acordes no tom de F#m)",
+    "categories": []
+  },
+  {
+    "name": "Et Circenses",
+    "path": "et-circenses",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Eu Quero Voltar",
+    "path": "eu-quero-voltar",
+    "default-tone": "Db (forma dos acordes no tom de C)",
+    "categories": []
+  },
+  {
+    "name": "Extraña Calma",
+    "path": "extrana-calma",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Faça Valer (part. Juninho Afram)",
+    "path": "faca-valer-part-juninho-afram",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Fleur de Ma Vie",
+    "path": "fleur-de-ma-vie",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Folhas do Chão",
+    "path": "folhas-no-chao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Girassol ",
+    "path": "girassol-rosa-de-saron",
+    "default-tone": "Bb (forma dos acordes no tom de G)",
+    "categories": []
+  },
+  {
+    "name": "Gran Paradiso",
+    "path": "gran-paradiso",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Gratidão",
+    "path": "gratidao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Incompletude",
+    "path": "incompletude",
+    "default-tone": "Eb (forma dos acordes no tom de E)",
+    "categories": []
+  },
+  {
+    "name": "Invernia",
+    "path": "invernia",
+    "default-tone": "Bb (forma dos acordes no tom de C)",
+    "categories": []
+  },
+  {
+    "name": "Invisibili Orme",
+    "path": "invisibili-orme",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Invisível",
+    "path": "invisivel",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ironia S/A",
+    "path": "ironia-sa",
+    "default-tone": "F (forma dos acordes no tom de G)",
+    "categories": []
+  },
+  {
+    "name": "Jamais Será Tarde Demais",
+    "path": "jamais-sera-tarde-demais",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Koyaanisqatsi",
+    "path": "koyaanisqatsi",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Latas Retorcidas",
+    "path": "latas-retorcidas",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Latitude, Longitude",
+    "path": "latitude-longitude",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Láureas",
+    "path": "laureas",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Lembranças",
+    "path": "lembrancas",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Liberdade",
+    "path": "liberdade",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Linda Menina",
+    "path": "linda-menina",
+    "default-tone": "Eb (forma dos acordes no tom de D)",
+    "categories": []
+  },
+  {
+    "name": "Livre",
+    "path": "livre",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Logo Após o Temporal",
+    "path": "logo-apos-temporal",
+    "default-tone": "F# (forma dos acordes no tom de G)",
+    "categories": []
+  },
+  {
+    "name": "Longe Demais",
+    "path": "longe-demais",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Lunação",
+    "path": "lunacao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Mais Além",
+    "path": "mais-alem",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Mais Que Um Mero Poema",
+    "path": "mais-que-um-mero-poema",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Mais Uma Vez",
+    "path": "mais-uma-vez",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Máquina do Tempo",
+    "path": "maquina-do-tempo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Marcas",
+    "path": "marcas",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Memories",
+    "path": "memories",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Meninas da Cidade",
+    "path": "meninas-da-cidade",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Menos de Um Segundo",
+    "path": "menos-de-um-segundo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Mentiras da Agulha",
+    "path": "mentiras-da-agulha",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Mesma Brisa",
+    "path": "mesma-brisa",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Mesmo Assim",
+    "path": "mesmo-assim",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Metade de Mim",
+    "path": "metade-de-mim",
+    "default-tone": "B (forma dos acordes no tom de C)",
+    "categories": []
+  },
+  {
+    "name": "Meu Abandono",
+    "path": "voce-tudo-pra-mim",
+    "default-tone": "F# (forma dos acordes no tom de G)",
+    "categories": []
+  },
+  {
+    "name": "Meu Lugar",
+    "path": "meu-lugar",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Meus Medos",
+    "path": "meus-medos",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Minha Triste Imperfeição",
+    "path": "minha-triste-imperfeicao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Mire as Estrelas",
+    "path": "mire-as-estrelas",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Monte Inverno",
+    "path": "monte-inverno",
+    "default-tone": "Db (forma dos acordes no tom de D)",
+    "categories": []
+  },
+  {
+    "name": "Muitos Choram",
+    "path": "muitos-choram",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Na Chuva Ao Fim da Tarde",
+    "path": "na-chuva-ao-fim-da-tarde",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Nada Entre o Valor e a Vergonha",
+    "path": "nada-entre-o-valor-e-a-vergonha",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Neumas D'Arezzo",
+    "path": "neumas-darezzo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ninguém Mais",
+    "path": "ninguem-mais",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ninguem Te Ama Como Eu",
+    "path": "ninguem-te-ama-como-eu",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "No Matter What",
+    "path": "no-matter-what",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "No Meu Coração",
+    "path": "no-meu-coracao",
+    "default-tone": "Eb (forma dos acordes no tom de E)",
+    "categories": []
+  },
+  {
+    "name": "Noite Fria",
+    "path": "noite-fria-",
+    "default-tone": "Db (forma dos acordes no tom de D)",
+    "categories": []
+  },
+  {
+    "name": "Nova Primavera",
+    "path": "nova-primavera",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Novo Templo",
+    "path": "novo-templo",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "O Amor e o Autor",
+    "path": "o-amor-e-o-autor",
+    "default-tone": "F# (forma dos acordes no tom de D)",
+    "categories": []
+  },
+  {
+    "name": "O Meio e o Fim",
+    "path": "o-meio-e-o-fim",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "O Mestre Dos Ventos",
+    "path": "o-mestre-dos-ventos",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "O Que Me Espera (part. Malta)",
+    "path": "o-que-me-espera-part-malta",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "O Rio e o Mar",
+    "path": "o-rio-e-o-mar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Sol Ainda Brilha",
+    "path": "o-sol-ainda-brilha",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "O Sol da Meia-Noite",
+    "path": "o-sol-da-meia-noite",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Obrigado Por Estar Aqui",
+    "path": "obrigado-por-estar-aqui",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Olhando de Frente",
+    "path": "olhando-de-frente",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Olhos Vermelhos",
+    "path": "olhos-vermelhos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Onde Os Olhos Não Veem",
+    "path": "onde-os-olhos-nao-veem",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Open Your Eyes",
+    "path": "open-your-eyes",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Outubro",
+    "path": "outubro",
+    "default-tone": "A (forma dos acordes no tom de Ab)",
+    "categories": []
+  },
+  {
+    "name": "Parusia",
+    "path": "parusia",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Passos Lentos",
+    "path": "passos-lentos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Perto, Longe Ou Depois",
+    "path": "perto-longe-ou-depois",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Perto (part. Eduardo Ardanuy)",
+    "path": "perto-part-eduardo-ardanuy",
+    "default-tone": "Bm (forma dos acordes no tom de Bbm)",
+    "categories": []
+  },
+  {
+    "name": "Presos e Abertos",
+    "path": "presos-e-abertos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Projecto Juno",
+    "path": "projecto-juno",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Quadro Novo",
+    "path": "quadro-novo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quando Perder",
+    "path": "quando-perder",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quando Tiver Sessenta",
+    "path": "quando-tiver-sessenta",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Quem de Nós?",
+    "path": "quem-de-nos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Rara Calma",
+    "path": "rara-calma",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Real Em Mim",
+    "path": "real-em-mim",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Recomeçar",
+    "path": "recomecar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Reis e Princesas",
+    "path": "reis-e-pincesas",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Roda Gigante",
+    "path": "roda-gigante",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Romaria",
+    "path": "romaria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Rubra Alma",
+    "path": "rubra-alma",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Sacrifício Perfeito",
+    "path": "sacrificio-perfeito",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Sangria",
+    "path": "sangria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Se",
+    "path": "se",
+    "default-tone": "Bbm",
+    "categories": []
+  },
+  {
+    "name": "Século I",
+    "path": "seculo-i",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Seis Nações",
+    "path": "seis-nacoes",
+    "default-tone": "Db (forma dos acordes no tom de D)",
+    "categories": []
+  },
+  {
+    "name": "Sem Voc",
+    "path": "sem-voc",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Sem Você",
+    "path": "sem-voce",
+    "default-tone": "Ebm (forma dos acordes no tom de Em)",
+    "categories": []
+  },
+  {
+    "name": "Ser Diferente",
+    "path": "ser-diferente",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Só Por Ti Jesus",
+    "path": "so-por-ti-jesus",
+    "default-tone": "B (forma dos acordes no tom de C)",
+    "categories": []
+  },
+  {
+    "name": "Sobre a Dúvida (part. Leonardo Gonçalves)",
+    "path": "sobre-a-duvida",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Sobre Marés e Angra",
+    "path": "sobre-mares-angra",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Solte As Mãos (Part. Mandume)",
+    "path": "solte-as-maos-part-mandume",
+    "default-tone": "Dm (forma dos acordes no tom de Bm)",
+    "categories": []
+  },
+  {
+    "name": "Solte-Me",
+    "path": "solte-me",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Somos (part. Thiago Brado)",
+    "path": "somos-part-thiago-brado",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Somos",
+    "path": "somos",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Sonora",
+    "path": "sonora",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Summer Beats",
+    "path": "summer-beats",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Te Louvo Em Verdade",
+    "path": "te-louvo-em-verdade",
+    "default-tone": "Eb (forma dos acordes no tom de E)",
+    "categories": []
+  },
+  {
+    "name": "Tempo",
+    "path": "tempo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Terra do Nunca",
+    "path": "terra-do-nunca-2",
+    "default-tone": "Cm (forma dos acordes no tom de Bm)",
+    "categories": []
+  },
+  {
+    "name": "Terra do Nunca",
+    "path": "terra-do-nunca",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Três Reis",
+    "path": "tres-reis",
+    "default-tone": "Db (forma dos acordes no tom de C)",
+    "categories": []
+  },
+  {
+    "name": "Tudo o Que É Meu",
+    "path": "tudo-que-meu",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Tudo o Que Eu Não Soube Ver",
+    "path": "tudo-que-eu-nao-soube-ver",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Última Lágrima",
+    "path": "ultima-lagrima",
+    "default-tone": "Ab (forma dos acordes no tom de G)",
+    "categories": []
+  },
+  {
+    "name": "Um Dia",
+    "path": "um-dia",
+    "default-tone": "Eb (forma dos acordes no tom de E)",
+    "categories": []
+  },
+  {
+    "name": "Um Leve Adeus",
+    "path": "um-leve-adeus",
+    "default-tone": "Db (forma dos acordes no tom de G)",
+    "categories": []
+  },
+  {
+    "name": "Um Novo Adeus",
+    "path": "um-novo-adeus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Uma Trilha Sem Dor",
+    "path": "uma-trilha-sem-dor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Velha Cicatriz",
+    "path": "velha-cicatriz",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Velhos Outonos",
+    "path": "velhos-outonos",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Vendetta! Vendetta!",
+    "path": "vendetta-vendetta",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Verdade / Mentira",
+    "path": "verdade--mentira",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Versos",
+    "path": "versos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vinte e Seis",
+    "path": "vinte-e-seis",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Without You",
+    "path": "without-you",
+    "default-tone": "F# (forma dos acordes no tom de G)",
+    "categories": []
+  }
+]

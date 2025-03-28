@@ -154,5 +154,425 @@
     "path": "diante-do-rei",
     "default-tone": "",
     "categories": []
+  },
+  {
+    "name": "Eis aí tua Mãe",
+    "path": "eis-ai-tua-mae",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Eis- Me Aqui. Envia-me",
+    "path": "eis-me-aqui-envia-me",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Eternamente",
+    "path": "eternamente",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Eu Não Sabia",
+    "path": "eu-nao-sabia",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Existe Um Céu",
+    "path": "existe-um-ceu",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Filho muito amado",
+    "path": "filho-muito-amado",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Gálatas 4,6",
+    "path": "galatas-46",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Gratidão",
+    "path": "gratidao-",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Gratidão",
+    "path": "gratidao",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Incendeia Minha Alma",
+    "path": "incendeia-minha-alma",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Já é tempo de Amar",
+    "path": "ja-tempo-de-amar",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Jesus é o Senhor",
+    "path": "jesus-o-senhor",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Jóia Rara",
+    "path": "joia-rara",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Justo é o Senhor",
+    "path": "justo-e-o-senhor",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Leão de Judá",
+    "path": "leao-de-juda",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Maior Motivo",
+    "path": "maior-motivo",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Maria da Eucaristia",
+    "path": "maria-da-eucaristia",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Menina Dos Olhos de Deus",
+    "path": "menina-dos-olhos-de-deus",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Mulher de Deus",
+    "path": "mulher-de-deus",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Na Comunhão Te Entregas a Mim",
+    "path": "na-comunhao-te-entregas-mim",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Na Comunhão Te Entregas a Mim",
+    "path": "partituras",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Nome Maravilhoso",
+    "path": "nome-maravilhoso",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Nossa Força",
+    "path": "nossa-forca",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Nova Criatura ",
+    "path": "nova-criatura",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "O Amado",
+    "path": "o-amado",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "O Reis dos reis",
+    "path": "o-reis-dos-reis",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "O Senhor É Rei",
+    "path": "o-senhor-e-rei",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "O Senhor Está Presente",
+    "path": "o-senhor-esta-presente",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Ó Senhora, Ó Rainha",
+    "path": "-senhora--rainha",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "O seu reino não terá fim",
+    "path": "o-seu-reino-nao-tera-fim",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Obra Nova",
+    "path": "obra-nova",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Obra Nova / Deus Quero Louvar-te (Pot-Pourri)",
+    "path": "obra-nova-deus-quero-louvar-te-pot-pourri",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Óleo Santo",
+    "path": "oleo-santo",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Ontem de Manhã",
+    "path": "ontem-de-manha",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Pare de Resistir",
+    "path": "pare-de-resistir",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Perfeito É Quem Te Criou",
+    "path": "perfeito-quem-te-criou",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Pisará Nosso Chão",
+    "path": "pisara-nosso-chao",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Primeiros Passos",
+    "path": "primeiros-passos",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Proclamam Vossa Glória",
+    "path": "proclamam-vossa-gloria",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Quando Uniam-se Os Músicos",
+    "path": "quando-uniam-se-os-musicos",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Quem É Filho de Deus",
+    "path": "quem-e-filho-de-deus",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Quem Não Te Louvará",
+    "path": "quem-nao-te-louvara",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Quem Poderá",
+    "path": "quem-podera",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Quero Ver o Céu",
+    "path": "quero-ver-o-ceu",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Recomeçar",
+    "path": "recomecar",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Reina soberano",
+    "path": "reina-soberano",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Restaurados Pra Adorar",
+    "path": "restaurados-pra-adorar",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Rio de Bençãos",
+    "path": "rio-de-bencaos",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Sede Santos",
+    "path": "sede-santos",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Seiva da minha vida",
+    "path": "seiva-da-minha-vida",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Senhor e Rei",
+    "path": "senhor-rei",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Sentença de Amor",
+    "path": "sentenca-de-amor",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Seu Amor Me Conquistou",
+    "path": "seu-amor-me-conquistou",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Simplesmente Amar",
+    "path": "simplesmente-amar",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Te deixas encontrar",
+    "path": "te-deixas-encontrar",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Terra de Santa Cruz",
+    "path": "terra-de-santa-cruz",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Tesouro sagrado",
+    "path": "tesouro-sagrado",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Tocar o Céu",
+    "path": "tocar-ceu",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Toma o Teu Lugar, Senhor",
+    "path": "toma-teu-lugar-senhor",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Toque de Deus",
+    "path": "toque-de-deus",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Transbordará",
+    "path": "transbordara",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Um Coração Puro",
+    "path": "um-coracao-puro",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Vem Eu Mostrarei",
+    "path": "vem-eu-mostrarei",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Vem sobre nós",
+    "path": "vem-sobre-nos",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Venho Senhor",
+    "path": "venho-senhor",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Vinde Espírito Santo",
+    "path": "vinde-espirito-santo",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Vinde, Espírito Santo",
+    "path": "vinde-espirito-santo-7448",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Vinho Novo",
+    "path": "vinho-novo",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Visão",
+    "path": "visao",
+    "default-tone": "",
+    "categories": []
+  },
+  {
+    "name": "Vou me entregar a Deus",
+    "path": "vou-me-entregar-deus",
+    "default-tone": "",
+    "categories": []
   }
 ]
