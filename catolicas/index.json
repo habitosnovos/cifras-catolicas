@@ -11728,5 +11728,11 @@
     "path": "shalom-aleluia",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "Pra Sempre Sê Bendito (3º Domingo da Quaresma)",
+    "path": "pra-sempre-se-bendito-3-domingo-da-quaresma",
+    "default-tone": "Dm",
+    "categories": []
   }
 ]
