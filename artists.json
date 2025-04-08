@@ -1,17 +1,5 @@
 [
   {
-    "name": "Músicas Católicas",
-    "path": "catolicas"
-  },
-  {
-    "name": "Pe Zezinho",
-    "path": "pe-zezinho"
-  },
-  {
-    "name": "Colo de Deus",
-    "path": "colo-de-deus"
-  },
-  {
     "name": "Vida Reluz",
     "path": "vida-reluz"
   },
@@ -20,39 +8,7 @@
     "path": "adriana"
   },
   {
-    "name": "Anjos de Resgate",
-    "path": "anjos-de-resgate-musicas"
-  },
-  {
-    "name": "Rosa de Saron",
-    "path": "rosa-de-saron-musicas"
-  },
-  {
     "name": "Banda Dominus",
     "path": "banda-dominus"
-  },
-  {
-    "name": "Eros Biondini",
-    "path": "eros-biondini"
-  },
-  {
-    "name": "Padre Marcelo Rossi",
-    "path": "padre-marcelo-rossi"
-  },
-  {
-    "name": "Padre Fabio de Melo",
-    "path": "padre-fabio-de-melo"
-  },
-  {
-    "name": "Padre Zezinho",
-    "path": "padre-zezinho"
-  },
-  {
-    "name": "Colo de Deus",
-    "path": "comunidade-catolica-colo-de-deus"
-  },
-  {
-    "name": "Pe. Fábio de Melo",
-    "path": "pe-fabio-de-melo"
   }
 ]

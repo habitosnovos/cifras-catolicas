@@ -42,12 +42,6 @@
     "categories": []
   },
   {
-    "name": "Amém",
-    "path": "partituras",
-    "default-tone": "",
-    "categories": []
-  },
-  {
     "name": "Amor que não se cansa",
     "path": "amor-que-nao-se-cansa",
     "default-tone": "C",
@@ -55,13 +49,13 @@
   },
   {
     "name": "Aprendendo a Ser Mãe",
-    "path": "aprendendo-a-ser-mae",
+    "path": "aprendendo-a-ser-mae-",
     "default-tone": "C",
     "categories": []
   },
   {
     "name": "Aprendendo a Ser Mãe",
-    "path": "aprendendo-a-ser-mae-",
+    "path": "aprendendo-a-ser-mae",
     "default-tone": "C",
     "categories": []
   },
@@ -91,13 +85,13 @@
   },
   {
     "name": "Chamado",
-    "path": "chamado",
+    "path": "chamado-",
     "default-tone": "E",
     "categories": []
   },
   {
     "name": "Chamado",
-    "path": "chamado-",
+    "path": "chamado",
     "default-tone": "E",
     "categories": []
   },
@@ -134,13 +128,13 @@
   {
     "name": "Coroação de Nossa Senhora",
     "path": "coroacao-de-nossa-senhora",
-    "default-tone": "",
+    "default-tone": "G",
     "categories": []
   },
   {
     "name": "Deus de Milagres",
     "path": "deus-de-milagres",
-    "default-tone": "",
+    "default-tone": "G",
     "categories": []
   },
   {
@@ -152,7 +146,7 @@
   {
     "name": "Diário de Maria",
     "path": "diario-de-maria",
-    "default-tone": "",
+    "default-tone": "C",
     "categories": []
   },
   {
@@ -164,25 +158,25 @@
   {
     "name": "Doce Jesus",
     "path": "doce-jesus",
-    "default-tone": "",
+    "default-tone": "D",
     "categories": []
   },
   {
     "name": "Dominio",
     "path": "dominio",
-    "default-tone": "",
+    "default-tone": "D",
     "categories": []
   },
   {
     "name": "É Natal",
     "path": "-natal",
-    "default-tone": "",
+    "default-tone": "C",
     "categories": []
   },
   {
     "name": "É Tão Bom",
     "path": "e-tao-bom",
-    "default-tone": "",
+    "default-tone": "A",
     "categories": []
   },
   {
