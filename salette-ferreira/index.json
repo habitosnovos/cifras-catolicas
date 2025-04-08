@@ -1,0 +1,332 @@
+[
+  {
+    "name": "A Poder Neste Lugar",
+    "path": "a-poder-neste-lugar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Abençoa-me",
+    "path": "abencoa-me",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Adoração, Louvor a Ti",
+    "path": "adoracao-louvor-ti",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Adorar",
+    "path": "adorar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Canto de Piedade",
+    "path": "canto-de-piedade",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Celebrar",
+    "path": "celebrar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Chegue a Vós Minha Oração",
+    "path": "chegue-a-vos-minha-oracao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Com Deus Vencerei",
+    "path": "com-deus-vencerei",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Conduzido Por Ti",
+    "path": "conduzido-por-ti",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Coração Em Chamas",
+    "path": "coracao-em-chamas",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Dá-me Forças",
+    "path": "da-me-forcas",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "De Braços Aberto",
+    "path": "de-bracos-aberto",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Deixa-te Moldar",
+    "path": "deixa-te-moldar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Deus Caminha Comigo",
+    "path": "deus-caminha-comigo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Deus Cuida de Mim",
+    "path": "deus-cuida-de-mim",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Deus Sabe o Que É Melhor Para Mim",
+    "path": "deus-sabe-o-que--melhor-para-mim",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Doce Suave Maria",
+    "path": "doce-suave-maria",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ele Está Entre Nós",
+    "path": "ele-esta-entre-nos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Envia Tua Graça",
+    "path": "envia-tua-graca",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Espírito de Amor",
+    "path": "espirito-de-amor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Eu Confio Em Vós",
+    "path": "eu-confio-em-vos",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Famílias Novas",
+    "path": "familias-novas",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Força do Alto",
+    "path": "forca-do-alto",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Há Poder Nesse Lugar",
+    "path": "ha-poder-nesse-lugar",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Honra e Glória",
+    "path": "honra-e-gloria",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Inunda",
+    "path": "inunda",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Jesus, Meu Amado",
+    "path": "jesus-meu-amado",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Jesus Quer Te Curar",
+    "path": "jesus-quer-te-curar",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Louvor",
+    "path": "louvor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Maria",
+    "path": "maria",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Nada de Tristeza",
+    "path": "nada-de-tristeza",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Não Tenhas Medo",
+    "path": "nao-tenhas-medo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Nas Águas Vivas",
+    "path": "nas-aguas-vivas",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "O Caminho é Jesus",
+    "path": "o-caminho-jesus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Pai Procura",
+    "path": "o-pai-procura",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Pai Das Misericórdias",
+    "path": "pai-das-misericordias",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Para Adorar a Deus",
+    "path": "para-adorar-deus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Por Entre Aclamações",
+    "path": "por-entre-aclamacoes",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Presença Real",
+    "path": "presenca-real",
+    "default-tone": "A (forma dos acordes no tom de G)",
+    "categories": []
+  },
+  {
+    "name": "Que Te Proclamem",
+    "path": "que-te-proclamem",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Reina, Senhor",
+    "path": "reina-senhor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ressuscitado",
+    "path": "ressuscitado",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Restaura Nossa Casa",
+    "path": "restaura-nossa-casa",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Salmo de Abandono",
+    "path": "salmo-de-abandono",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Se Deus É Por Nós",
+    "path": "se-deus-e-por-nos",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Seja Adorado",
+    "path": "seja-adorado",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Single Clamor de Mãe",
+    "path": "single-clamor-de-mae",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Single Clamor de Mãe",
+    "path": "single-clamor-de-mae-",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Te Adorar",
+    "path": "te-adorar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tudo Passa",
+    "path": "tudo-passa",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Tudo Pode Ser Mudado",
+    "path": "tudo-pode-ser-mudado",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Uncao Que Vem do Ceu",
+    "path": "uncao-que-vem-do-ceu",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Vem Orar em Mim",
+    "path": "vem-orar-em-mim",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Vem Santo Espírito",
+    "path": "vem-santo-espirito",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Virgem Mãe de Nazaré",
+    "path": "virgem-mae-de-nazare",
+    "default-tone": "C",
+    "categories": []
+  }
+]

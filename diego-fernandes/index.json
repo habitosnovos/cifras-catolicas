@@ -1,0 +1,272 @@
+[
+  {
+    "name": "A Medida do Amor",
+    "path": "a-medida-do-amor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Cântico de Adoração",
+    "path": "cantico-de-adoracao",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Converte-me Senhor",
+    "path": "converte-me-senhor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Dança de Avivamento",
+    "path": "danca-de-avivamento",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Dependente",
+    "path": "dependente",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Deus da Cura e Libertação",
+    "path": "deus-da-cura-libertacao",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Deus da Cura",
+    "path": "deus-da-cura",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Deus Se Apaixonou Por Mim",
+    "path": "deus-se-apaixonou-por-mim",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Deus Te Vê",
+    "path": "deus-te-ve",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Eu Não Esqueço",
+    "path": "eu-nao-esqueco",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Eu Não Esqueço",
+    "path": "eu-nao-esqueco-",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Eu Quero Te Experimentar",
+    "path": "eu-quero-te-experimentar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Folha Em Branco",
+    "path": "folha-em-branco",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Gálatas 5,1",
+    "path": "galatas-51",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Guerreiro",
+    "path": "guerreiro",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Há Esperança (parte 01)",
+    "path": "ha-esperanca-parte-01",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Infinitamente Mais",
+    "path": "infinitamente-mais",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Já Deu(s) Certo (part. Juninho Cassimiro)",
+    "path": "ja-deu-s-certo-part-juninho-cassimiro",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Leão da Tribo de Judá",
+    "path": "leao-da-tribo-de-juda",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Livre Acesso",
+    "path": "livre-acesso",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Marcado Pelo Fogo",
+    "path": "marcado-pelo-fogo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Minha Alegria",
+    "path": "minha-alegria",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Não Desista de Viver",
+    "path": "nao-desista-de-viver",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "No Colo de Maria",
+    "path": "no-colo-de-maria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Melhor Pra Mim",
+    "path": "o-melhor-pra-mim",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Onde Estás",
+    "path": "onde-estas",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Ovelha Ferida",
+    "path": "ovelha-ferida",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Pelo Poder da Tua Palavra",
+    "path": "pelo-poder-da-tua-palavra",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Pra Que O Medo",
+    "path": "pra-que-medo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Preciso Aprender",
+    "path": "preciso-aprender",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Quando Passar",
+    "path": "quando-passar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Queima Hoje",
+    "path": "queima-hoje",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Sabes Quem Sou",
+    "path": "sabes-quem-sou",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Senhor da Minha História",
+    "path": "senhor-da-minha-historia",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ser Diferente",
+    "path": "ser-diferente",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Seu Amor Me Transfigurou",
+    "path": "seu-amor-me-transfigurou",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Sou Deus Contigo",
+    "path": "sou-deus-contigo",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Templo Vivo",
+    "path": "templo-vivo-",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Templo Vivo",
+    "path": "templo-vivo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tempo de Celebração",
+    "path": "tempo-de-celebracao",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Tesouro Escondido",
+    "path": "tesouro-escondido",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Toma e Come",
+    "path": "toma-come",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Um Amor de Verdade",
+    "path": "um-amor-de-verdade",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Uma Nova História",
+    "path": "uma-nova-historia",
+    "default-tone": "B (forma dos acordes no tom de A)",
+    "categories": []
+  },
+  {
+    "name": "Volte Ao Primeiro Amor",
+    "path": "volte-ao-primeiro-amor",
+    "default-tone": "Eb",
+    "categories": []
+  }
+]

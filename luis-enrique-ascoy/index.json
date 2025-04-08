@@ -1,0 +1,398 @@
+[
+  {
+    "name": "A Los Humildes",
+    "path": "a-los-humildes",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Adorador",
+    "path": "adorador",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Amor de los amores",
+    "path": "amor-de-los-amores",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Amor Divino",
+    "path": "amor-divino",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Antes que se acabe el dia",
+    "path": "antes-que-se-acabe-el-dia",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Aquel nunca fui yo",
+    "path": "aquel-nunca-fui-yo",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Ave maria blues",
+    "path": "ave-maria-blues",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ave María solidaria",
+    "path": "ave-maria-solidaria",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Canción por la paz",
+    "path": "cancion-por-la-paz",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Canta de nuevo María",
+    "path": "canta-de-nuevo-maria",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Canto de Fé",
+    "path": "canto-de-fe",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Como te explico",
+    "path": "como-te-explico",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Credo",
+    "path": "credo",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Dama De Azul",
+    "path": "dama-de-azul",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Danza a mi pais",
+    "path": "danza-a-mi-pais",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Dibujos animados",
+    "path": "dibujos-animados",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Dime como dar",
+    "path": "dime-como-dar",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Dime",
+    "path": "dime",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Dónde estabas libertad?",
+    "path": "donde-estabas-libertad",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Encontrarse con Cristo",
+    "path": "encontrarse-con-cristo",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Estar con el Señor",
+    "path": "estar-con-el-senor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Fabula de los tres turistas",
+    "path": "fabula-de-los-tres-turistas",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Generación Zanahoria",
+    "path": "generacion-zanahoria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Guajira pa mi gente",
+    "path": "guajira-pa-mi-gente",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Hasta cuando salga el sol",
+    "path": "hasta-cuando-salga-el-sol",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Historia de un cantante sin futuro",
+    "path": "historia-de-un-cantante-sin-futuro",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Historia de un hippie cristiano",
+    "path": "historia-de-un-hippie-cristiano",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Hoy quisiera hablarte de mi canto",
+    "path": "hoy-quisiera-hablarte-de-mi-canto",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Invocación",
+    "path": "invocacion",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Juntos, siempre juntos",
+    "path": "juntos-siempre-juntos",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "La Iglesia Se Hace Pueblo",
+    "path": "la-iglesia-se-hace-pueblo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "La mañana de Aquel Dia",
+    "path": "la-manana-de-aquel-dia",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Landó para mi Dios dormido",
+    "path": "lando-para-mi-dios-dormido",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Madre",
+    "path": "madre",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Me juego por la libertad",
+    "path": "me-juego-por-la-libertad",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Mi amor primero",
+    "path": "mi-amor-primero",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Mi felicidad",
+    "path": "mi-felicidad",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Mientras me queden fuerzas",
+    "path": "mientras-me-queden-fuerzas",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Nada, nada, nada",
+    "path": "nada-nada-nada",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "No hay nadie como tu",
+    "path": "no-hay-nadie-como-tu",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "No hay navidad sin Jesús",
+    "path": "no-hay-navidad-sin-jesus",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "No nos callarán",
+    "path": "no-nos-callaran",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Otra mujer en mi vida",
+    "path": "otra-mujer-en-mi-vida",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Para Sanar El Corazon",
+    "path": "para-sanar-el-corazon",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Patria",
+    "path": "patria",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Piedras a un inocente",
+    "path": "piedras-a-un-inocente",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Porque sé que siempre me escuchas",
+    "path": "porque-se-que-siempre-me-escuchas",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Que sea por amor",
+    "path": "que-sea-por-amor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Quien conoce a un Dios",
+    "path": "quien-conoce-a-un-dios",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Renueva la faz de la tierra",
+    "path": "renueva-la-faz-de-la-tierra",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Rezo por ti",
+    "path": "rezo-por-ti",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Señor mio, yo te amo",
+    "path": "senor-mio-yo-te-amo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Siete minutos",
+    "path": "siete-minutos",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Sigue Aquí",
+    "path": "sigue-aqui",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Sonríanos padre, sonría",
+    "path": "sonrianos-padre-sonria",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Te Amo",
+    "path": "te-amo",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Tema de un Hippie Xtiano",
+    "path": "tema-de-un-hippie-xtiano",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tengo Sed",
+    "path": "tengo-sed",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Tú",
+    "path": "tu",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Un Domingo Cualquiera",
+    "path": "un-domingo-cualquiera",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Un soltero empedernido",
+    "path": "un-soltero-empedernido",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Valiente valiente seré",
+    "path": "valiente-valiente-sere",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Ven Sigueme",
+    "path": "ven-sigueme",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Vida",
+    "path": "vida",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Vuelve",
+    "path": "vuelve",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Yo Siempre Estuve Ahí",
+    "path": "yo-siempre-estuve-ahi",
+    "default-tone": "C",
+    "categories": []
+  }
+]
