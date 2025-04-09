@@ -1,0 +1,596 @@
+[
+  {
+    "name": "A Cruz da Salvação",
+    "path": "a-cruz-da-salvacao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "A Cruz Sagrada",
+    "path": "a-cruz-sagrada",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "A Paz Reinará",
+    "path": "a-paz-reinara",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "A Voz Que Te Chama",
+    "path": "a-voz-que-te-chama",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Abraço de Pai",
+    "path": "abraco-de-pai",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Adoração",
+    "path": "adoracao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Adoremos Ao Sangue de Jesus",
+    "path": "adoremos-ao-sangue-de-jesus",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Amado Amigo",
+    "path": "amado-amigo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Amigo Irmão",
+    "path": "amigo-irmao",
+    "default-tone": "F# (forma dos acordes no tom de F)",
+    "categories": []
+  },
+  {
+    "name": "Amigos Para Sempre",
+    "path": "amigos-para-sempre",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Amigos Pela Fé / Mais Que Amigos (Pot-Pourri)",
+    "path": "amigos-pela-fe-mais-que-amigos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Amigos Pela Fé",
+    "path": "amigos-pela-fe",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Amor Eterno",
+    "path": "amor-eterno",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Anjos de Resgate",
+    "path": "anjos-de-resgate",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Anjos Venham",
+    "path": "anjos-venham",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Aos Teus Pés",
+    "path": "aos-teus-pes",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Aquele Que Nos Guarda",
+    "path": "aquele-que-nos-guarda",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ato de Amor",
+    "path": "ato-de-amor",
+    "default-tone": "C (forma dos acordes no tom de D)",
+    "categories": []
+  },
+  {
+    "name": "Basta Ser Luz",
+    "path": "basta-ser-luz",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Benção Dos Cowboys",
+    "path": "bencao-dos-cowboys",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Cantando Glória",
+    "path": "cantando-gloria",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Chamando Deus de Pai",
+    "path": "chamando-deus-de-pai",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Com Os Anjos Te Adorar",
+    "path": "com-os-anjos-te-adorar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Como És Lindo",
+    "path": "como-es-lindo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Coração Chagado",
+    "path": "coracao-chagado",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Coragem",
+    "path": "coragem",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Cura-me",
+    "path": "cura-me",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Cura-me, Sana-me",
+    "path": "cura-me-sana-me",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Decidi Viver Em Paz",
+    "path": "decidi-viver-em-paz",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Deus Está No Ar",
+    "path": "deus-esta-no-ar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Em Teu Mar",
+    "path": "em-teu-mar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Em Ti",
+    "path": "em-ti",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Em Tua Presença",
+    "path": "em-tua-presenca",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Estou Aqui",
+    "path": "estou-aqui",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eternos Amigos",
+    "path": "eternos-amigos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Exaltado Entre As Nações",
+    "path": "exaltado-entre-as-nacoes",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Feridas Rasgadas",
+    "path": "feridas-rasgadas",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Foi Por Você",
+    "path": "foi-por-voce",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Glórias Ao Rei Jesus",
+    "path": "gloria-ao-rei-jesus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Inspiração de Amor",
+    "path": "inspiracao-de-amor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Interior",
+    "path": "interior",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Invade Minha Alma",
+    "path": "invade-minha-alma",
+    "default-tone": "F (forma dos acordes no tom de G)",
+    "categories": []
+  },
+  {
+    "name": "Jesus, Eu Te Adoro",
+    "path": "jesus-eu-te-adoro",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Lágrima",
+    "path": "lagrima",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Luz Das Nações",
+    "path": "luz-das-nacoes",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Mãe da Fé",
+    "path": "mae-da-fe",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Mãe de Nazaré",
+    "path": "mae-de-nazare",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Mais Que Amigos",
+    "path": "mais-que-amigos",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Majestosa Eucaristia",
+    "path": "majestosa-eucaristia",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Manda Teus Anjos",
+    "path": "manda-teus-anjos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Maria da Eucaristia",
+    "path": "maria-da-eucaristia",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Maria e o Anjo",
+    "path": "maria-o-anjo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Me Marque Na História",
+    "path": "me-marque-na-historia",
+    "default-tone": "F (forma dos acordes no tom de C)",
+    "categories": []
+  },
+  {
+    "name": "Meu Senhor",
+    "path": "meu-senhor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Minha Mãe, Minha Flor",
+    "path": "minha-mae-minha-flor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Minha Segurança e Proteção",
+    "path": "minha-seguranca-e-protecao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Minha Voz Te Louva",
+    "path": "minha-voz-te-louva",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Momento de Graça",
+    "path": "momento-de-graca",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Noites Traiçoeiras",
+    "path": "noites-traicoeiras",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Céu Está Rezando Por Ti",
+    "path": "o-ceu-esta-rezando-por-ti",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Meu Pastor",
+    "path": "o-meu-pastor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "O Primeiro Olhar",
+    "path": "o-primeiro-olhar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Senhor É Rei",
+    "path": "o-senhor--rei",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Oceano de Misericórdia",
+    "path": "oceano-de-misericordia",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Pai Nosso Tu Que Estás",
+    "path": "pai-nosso-tu-que-estas",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Pão Dos Anjos",
+    "path": "pao-dos-anjos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Peregrino do Amor",
+    "path": "peregrino-do-amor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Plano de Amor",
+    "path": "plano-de-amor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Por Amor",
+    "path": "por-amor",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Por Tuas Chagas",
+    "path": "por-tuas-chagas",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Por Tuas Chagas (part. Batista Lima)",
+    "path": "por-tuas-chagas-part-batista-lima",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Quando Os Anjos Cantam Glória",
+    "path": "quando-os-anjos-cantam-gloria",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Quando Os Anjos Cantam II",
+    "path": "quando-os-anjos-cantam-ii",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Quem Quiser o Céu",
+    "path": "quem-quiser-o-ceu",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Recomeçar",
+    "path": "recomecar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Reconciliar",
+    "path": "reconciliar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Sacramento da Comunhão",
+    "path": "sacramento-da-comunhao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Santo Espírito Vem Sobre Nós",
+    "path": "santo-espirito-vem-sobre-nos-",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Santo Espírito",
+    "path": "santo-espirito",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Seja Luz",
+    "path": "seja-luz",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Sem Palavras",
+    "path": "sem-palavras",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Senhora de Todos Os Povos",
+    "path": "senhora-de-todos-os-povos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sobreviverei",
+    "path": "sobreviverei",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Somos Irmãos",
+    "path": "somos-irmaos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sou o Teu Deus",
+    "path": "sou-teu-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Sou Teu Anjo",
+    "path": "sou-teu-anjo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Sua Prova",
+    "path": "sua-prova",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Tenha Sede de Deus",
+    "path": "tenha-sede-de-deus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Teu Anjo",
+    "path": "teu-anjo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Todos Os Anjos",
+    "path": "todos-os-anjos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Tua Família",
+    "path": "tua-familia",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Tudo Em Tuas Mãos",
+    "path": "tudo-em-tuas-maos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Um Passo Pra Jesus",
+    "path": "um-passo-para-jesus",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Um Só Coração",
+    "path": "um-so-coracao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Uma Nova Luz",
+    "path": "uma-nova-luz",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Vem Cuidar de Mim",
+    "path": "vem-cuidar-de-mim",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Vem Santo Espírito",
+    "path": "vem-santo-espirito",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Voltei, Senhor",
+    "path": "voltei-senhor-abre-teus-bracos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vou Viver",
+    "path": "vou-viver",
+    "default-tone": "Bb",
+    "categories": []
+  }
+]
