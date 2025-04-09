@@ -20,10 +20,6 @@
     "path": "padre-reginaldo-manzotti"
   },
   {
-    "name": "Pe. Zezinho SCJ",
-    "path": "pe-zezinho-scj"
-  },
-  {
     "name": "Nelsinho Corrêa",
     "path": "nelsinho-correa"
   },
@@ -40,24 +36,8 @@
     "path": "kelly-patricia"
   },
   {
-    "name": "Rising Cross",
-    "path": "rising-cross"
-  },
-  {
     "name": "Comunidade Católica Shalom",
     "path": "comunidade-catolica-shalom"
-  },
-  {
-    "name": "Pablo Martinez",
-    "path": "pablo-martinez"
-  },
-  {
-    "name": "Colégio Mayor P. José Kentenich",
-    "path": "colegio-mayor-p-jose-kentenich"
-  },
-  {
-    "name": "Siervas",
-    "path": "siervas"
   },
   {
     "name": "Luis Enrique Ascoy",
@@ -68,20 +48,8 @@
     "path": "eduardo-meana"
   },
   {
-    "name": "Schoenstatt",
-    "path": "schoenstatt"
-  },
-  {
     "name": "Migueli",
     "path": "migueli"
-  },
-  {
-    "name": "Sagrra",
-    "path": "sagrra"
-  },
-  {
-    "name": "Banda Angelus",
-    "path": "banda-angelus"
   },
   {
     "name": "Iahweh",
@@ -100,10 +68,6 @@
     "path": "jaire"
   },
   {
-    "name": "Padre Jony",
-    "path": "padre-jony"
-  },
-  {
     "name": "The Flanders",
     "path": "the-flanders"
   },
@@ -120,15 +84,19 @@
     "path": "martin-valverde"
   },
   {
-    "name": "Beatrix",
-    "path": "beatrix"
-  },
-  {
     "name": "Ziza Fernandes",
     "path": "ziza-fernandes"
   },
   {
     "name": "Anjos de Resgate",
     "path": "anjos-de-resgate-musicas"
+  },
+  {
+    "name": "Padre Zezinho",
+    "path": "padre-zezinho"
+  },
+  {
+    "name": "Músicas Católicas",
+    "path": "catolicas"
   }
 ]
