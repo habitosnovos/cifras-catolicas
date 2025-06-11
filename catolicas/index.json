@@ -37,14 +37,14 @@
   },
   {
     "name": "A Barca",
-    "path": "a-barca-2",
-    "default-tone": "A",
+    "path": "a-barca",
+    "default-tone": "G",
     "categories": []
   },
   {
     "name": "A Barca",
-    "path": "a-barca",
-    "default-tone": "G",
+    "path": "a-barca-2",
+    "default-tone": "A",
     "categories": []
   },
   {
@@ -56,7 +56,7 @@
   {
     "name": "A Bíblia É a Palavra de Deus",
     "path": "a-biblia--a-palavra-de-deus",
-    "default-tone": "F (forma dos acordes no tom de E)",
+    "default-tone": "F",
     "categories": []
   },
   {
@@ -206,19 +206,19 @@
   {
     "name": "A Mesa Santa",
     "path": "a-mesa-santa-que-preparamos-845",
-    "default-tone": "Bb (forma dos acordes no tom de A)",
-    "categories": []
-  },
-  {
-    "name": "A Minha Paz",
-    "path": "a-minha-paz",
-    "default-tone": "F (forma dos acordes no tom de Eb)",
+    "default-tone": "Bb",
     "categories": []
   },
   {
     "name": "A Minha Paz Eu Vos Dou",
     "path": "a-minha-paz-eu-vos-dou",
     "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "A Minha Paz",
+    "path": "a-minha-paz",
+    "default-tone": "F",
     "categories": []
   },
   {
@@ -282,6 +282,12 @@
     "categories": []
   },
   {
+    "name": "A Palavra de Deus",
+    "path": "a-palavra-de-deus",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
     "name": "A Palavra de Deus Iluminando a Nossa Vida",
     "path": "a-palavra-de-deus-iluminando-nossa-vida",
     "default-tone": "G",
@@ -294,15 +300,15 @@
     "categories": []
   },
   {
-    "name": "A Palavra de Deus",
-    "path": "a-palavra-de-deus",
-    "default-tone": "E",
-    "categories": []
-  },
-  {
     "name": "A Palavra Se Fez Carne - Refrão da Palavra",
     "path": "a-palavra-se-fez-carne-refrao-da-palavra",
     "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "A Paz",
+    "path": "a-paz",
+    "default-tone": "D",
     "categories": []
   },
   {
@@ -315,12 +321,6 @@
     "name": "A Paz Esteja Convosco",
     "path": "a-paz-esteja-convosco",
     "default-tone": "C",
-    "categories": []
-  },
-  {
-    "name": "A Paz",
-    "path": "a-paz",
-    "default-tone": "D",
     "categories": []
   },
   {
@@ -540,15 +540,15 @@
     "categories": []
   },
   {
-    "name": "Aclamação",
-    "path": "aclamacao",
-    "default-tone": "C",
-    "categories": []
-  },
-  {
     "name": "Aclamação 1° Domingo do Advento",
     "path": "aclamacao-1-domingo-do-advento",
     "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Aclamação",
+    "path": "aclamacao",
+    "default-tone": "C",
     "categories": []
   },
   {
@@ -588,6 +588,12 @@
     "categories": []
   },
   {
+    "name": "Acusai Senhor",
+    "path": "acusai-senhor",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
     "name": "Adeste Fideles (latim)",
     "path": "adeste-fideles-latim",
     "default-tone": "C",
@@ -618,26 +624,26 @@
     "categories": []
   },
   {
-    "name": "Agnus Dei I",
-    "path": "agnus-dei-i",
-    "default-tone": "E",
-    "categories": []
-  },
-  {
     "name": "Agnus Dei",
     "path": "agnus-dei",
     "default-tone": "G",
     "categories": []
   },
   {
-    "name": "Agora É Tempo de Ser Igreja",
-    "path": "agora-e-tempo-de-ser-igreja",
-    "default-tone": "D",
+    "name": "Agnus Dei I",
+    "path": "agnus-dei-i",
+    "default-tone": "E",
     "categories": []
   },
   {
     "name": "Agora É Tempo",
     "path": "agora-tempo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Agora É Tempo de Ser Igreja",
+    "path": "agora-e-tempo-de-ser-igreja",
     "default-tone": "D",
     "categories": []
   },
@@ -699,6 +705,12 @@
     "name": "Alegrai-vos No Senhor",
     "path": "alegrai-vos-no-senhor",
     "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Alegrai-vos, Ó Theotokos",
+    "path": "alegrai-vos-o-theotokos",
+    "default-tone": "Em",
     "categories": []
   },
   {
@@ -786,15 +798,15 @@
     "categories": []
   },
   {
-    "name": "Aleluia a Minh'alma Abrirei",
-    "path": "aleluia-a-minhalma-abrirei-",
-    "default-tone": "Ab (forma dos acordes no tom de C)",
-    "categories": []
-  },
-  {
     "name": "Aleluia, a Minh'alma Abrirei",
     "path": "aleluia-a-minhalma-abrirei",
     "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Aleluia a Minh'alma Abrirei",
+    "path": "aleluia-a-minhalma-abrirei-",
+    "default-tone": "Ab",
     "categories": []
   },
   {
@@ -812,7 +824,7 @@
   {
     "name": "Aleluia, Aclamemos a Palavra do Senhor",
     "path": "aleluia-aclamemos-a-palavra-do-senhor",
-    "default-tone": "Cm (forma dos acordes no tom de Dm)",
+    "default-tone": "Cm",
     "categories": []
   },
   {
@@ -822,15 +834,21 @@
     "categories": []
   },
   {
-    "name": "Aleluia, Aleluia, Aleluia, Alelu...u...u...uia",
-    "path": "aleluia-aleluia-aleluia-alelu-u-u-uia",
-    "default-tone": "A",
-    "categories": []
-  },
-  {
     "name": "Aleluia, Aleluia, Minha Gente",
     "path": "aleluia-aleluia-minha-gente",
     "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Aleluia",
+    "path": "aleluia",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Aleluia, Aleluia, Aleluia, Alelu...u...u...uia",
+    "path": "aleluia-aleluia-aleluia-alelu-u-u-uia",
+    "default-tone": "A",
     "categories": []
   },
   {
@@ -900,15 +918,15 @@
     "categories": []
   },
   {
-    "name": "Aleluia, Eu Sou o Pão Vivo",
-    "path": "aleluia-eu-sou-o-pao-vivo",
-    "default-tone": "D",
-    "categories": []
-  },
-  {
     "name": "Aleluia Eu Sou o Pão Vivo Descido do Céu",
     "path": "aleluia-eu-sou-o-pao-vivo-descido-do-ceu",
     "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Aleluia, Eu Sou o Pão Vivo",
+    "path": "aleluia-eu-sou-o-pao-vivo",
+    "default-tone": "D",
     "categories": []
   },
   {
@@ -981,12 +999,6 @@
     "name": "Aleluia, Pode Entrar",
     "path": "aleluia-pode-entrar",
     "default-tone": "A",
-    "categories": []
-  },
-  {
-    "name": "Aleluia",
-    "path": "aleluia",
-    "default-tone": "C",
     "categories": []
   },
   {
@@ -1092,6 +1104,12 @@
     "categories": []
   },
   {
+    "name": "Amado Jesus",
+    "path": "amado-jesus",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
     "name": "Amadurece a Cada Instante Uma Esperança!",
     "path": "amadurece-a-cada-instante-uma-esperanca",
     "default-tone": "E",
@@ -1116,12 +1134,6 @@
     "categories": []
   },
   {
-    "name": "Amém ",
-    "path": "amem-solene",
-    "default-tone": "A",
-    "categories": []
-  },
-  {
     "name": "Amém, Aleluia! Vi Cantar No Céu",
     "path": "amem-aleluia-vi-cantar-no-ceu",
     "default-tone": "F",
@@ -1137,6 +1149,12 @@
     "name": "Amém Versão 2",
     "path": "amem-versao-2",
     "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Amém ",
+    "path": "amem-solene",
+    "default-tone": "A",
     "categories": []
   },
   {
@@ -1370,7 +1388,7 @@
   {
     "name": "As Nossas Mãos Se Abrem",
     "path": "as-nossas-maos-se-abrem",
-    "default-tone": "E (forma dos acordes no tom de D)",
+    "default-tone": "E",
     "categories": []
   },
   {
@@ -1458,18 +1476,6 @@
     "categories": []
   },
   {
-    "name": "Ato Penitencial ",
-    "path": "ato-penitencial-eu-confesso-a-deus-e-vos-irmaos",
-    "default-tone": "Bm",
-    "categories": []
-  },
-  {
-    "name": "Ato Penitencial",
-    "path": "ato-penitencial",
-    "default-tone": "C",
-    "categories": []
-  },
-  {
     "name": "Ato Penitencial - Senhor Bom Pastor",
     "path": "ato-penitencial-senhor-bom-pastor",
     "default-tone": "Ab",
@@ -1479,6 +1485,18 @@
     "name": "Ato Penitencial do Advento",
     "path": "ato-penitencial-do-advento",
     "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Ato Penitencial ",
+    "path": "ato-penitencial-eu-confesso-a-deus-e-vos-irmaos",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Ato Penitencial",
+    "path": "ato-penitencial",
+    "default-tone": "C",
     "categories": []
   },
   {
@@ -1506,12 +1524,6 @@
     "categories": []
   },
   {
-    "name": "Ave Maria",
-    "path": "ave-maria",
-    "default-tone": "G",
-    "categories": []
-  },
-  {
     "name": "Ave Maria (Catedral de Sant'anna)",
     "path": "ave-maria-catedral-de-sant-anna",
     "default-tone": "B",
@@ -1524,12 +1536,6 @@
     "categories": []
   },
   {
-    "name": "Ave Maria, Mãe da Igreja",
-    "path": "ave-maria-mae-da-igreja",
-    "default-tone": "G",
-    "categories": []
-  },
-  {
     "name": "Ave Maria, Mãe do Salvador",
     "path": "ave-maria-mae-do-salvador",
     "default-tone": "E",
@@ -1539,6 +1545,18 @@
     "name": "Ave Maria (Refrão Meditativo)",
     "path": "ave-maria-2",
     "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ave Maria",
+    "path": "ave-maria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ave Maria, Mãe da Igreja",
+    "path": "ave-maria-mae-da-igreja",
+    "default-tone": "G",
     "categories": []
   },
   {
@@ -1566,6 +1584,12 @@
     "categories": []
   },
   {
+    "name": "Banhados Em Cristo - Versão Sem Aleluia",
+    "path": "banhados-em-cristo-versao-sem-aleluia",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
     "name": "Banquete da Aliança",
     "path": "banquete-da-alianca",
     "default-tone": "C",
@@ -1584,14 +1608,14 @@
     "categories": []
   },
   {
-    "name": "Bato Palmas de Alegria",
-    "path": "bato-palmas-de-alegria",
+    "name": "Bato Palmas de Alegria a Jesus Que Vai Falar",
+    "path": "bato-palmas-de-alegria-a-jesus-que-vai-falar-aclamacao-ao-evangelho",
     "default-tone": "D",
     "categories": []
   },
   {
-    "name": "Bato Palmas de Alegria a Jesus Que Vai Falar",
-    "path": "bato-palmas-de-alegria-a-jesus-que-vai-falar-aclamacao-ao-evangelho",
+    "name": "Bato Palmas de Alegria",
+    "path": "bato-palmas-de-alegria",
     "default-tone": "D",
     "categories": []
   },
@@ -1656,14 +1680,14 @@
     "categories": []
   },
   {
-    "name": "Bendita e Louvada Seja No Céu a Divina Luz",
-    "path": "bendita-e-louvada-seja-no-ceu-a-divina-luz",
+    "name": "Bendita e Louvada Seja",
+    "path": "bendita-louvada-seja",
     "default-tone": "D",
     "categories": []
   },
   {
-    "name": "Bendita e Louvada Seja",
-    "path": "bendita-louvada-seja",
+    "name": "Bendita e Louvada Seja No Céu a Divina Luz",
+    "path": "bendita-e-louvada-seja-no-ceu-a-divina-luz",
     "default-tone": "D",
     "categories": []
   },
@@ -1698,21 +1722,21 @@
     "categories": []
   },
   {
-    "name": "Bendito Seja Deus Pai",
-    "path": "bendito-seja-deus-pai",
-    "default-tone": "E",
-    "categories": []
-  },
-  {
     "name": "Bendito Seja Deus",
     "path": "bendito-seja-deus",
     "default-tone": "Dm",
     "categories": []
   },
   {
+    "name": "Bendito Seja Deus Pai",
+    "path": "bendito-seja-deus-pai",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
     "name": "Bendito Seja o Santuário",
     "path": "bendito-seja-o-santuario",
-    "default-tone": "Bbm (forma dos acordes no tom de Am)",
+    "default-tone": "Bbm",
     "categories": []
   },
   {
@@ -1860,15 +1884,15 @@
     "categories": []
   },
   {
-    "name": "Cante Ao Senhor a Terra Inteira",
-    "path": "cante-ao-senhor-a-terra-inteira",
-    "default-tone": "A",
-    "categories": []
-  },
-  {
     "name": "Cante Ao Senhor",
     "path": "cante-ao-senhor",
     "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Cante Ao Senhor a Terra Inteira",
+    "path": "cante-ao-senhor-a-terra-inteira",
+    "default-tone": "A",
     "categories": []
   },
   {
@@ -1976,7 +2000,7 @@
   {
     "name": "Catequista",
     "path": "catequista",
-    "default-tone": "D (forma dos acordes no tom de C)",
+    "default-tone": "D",
     "categories": []
   },
   {
@@ -2238,6 +2262,12 @@
     "categories": []
   },
   {
+    "name": "Confesso a Deus Todo Poderoso",
+    "path": "confesso-a-deus-todo-poderoso",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
     "name": "Confia Em Mim",
     "path": "confia-em-mim",
     "default-tone": "C",
@@ -2353,20 +2383,8 @@
   },
   {
     "name": "Cordeiro de Deus",
-    "path": "cordeiro-de-deus",
-    "default-tone": "Am",
-    "categories": []
-  },
-  {
-    "name": "Cordeiro de Deus",
     "path": "cordeiro-de-deus-3",
     "default-tone": "D",
-    "categories": []
-  },
-  {
-    "name": "Cordeiro de Deus",
-    "path": "cordeiro-de-deus-4",
-    "default-tone": "Dm",
     "categories": []
   },
   {
@@ -2377,7 +2395,25 @@
   },
   {
     "name": "Cordeiro de Deus",
+    "path": "cordeiro-de-deus-4",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro de Deus",
+    "path": "cordeiro-de-deus",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro de Deus",
     "path": "cordeiro-de-deus-versao-lirica",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro de Deus I",
+    "path": "cordeiro-de-deus-i",
     "default-tone": "Dm",
     "categories": []
   },
@@ -2391,12 +2427,6 @@
     "name": "Cordeiro",
     "path": "cordeiro",
     "default-tone": "D",
-    "categories": []
-  },
-  {
-    "name": "Cordeiro de Deus I",
-    "path": "cordeiro-de-deus-i",
-    "default-tone": "Dm",
     "categories": []
   },
   {
@@ -2425,14 +2455,14 @@
   },
   {
     "name": "Cordero de Dios",
-    "path": "cordero-de-dios-2",
-    "default-tone": "Em",
+    "path": "cordero-de-dios",
+    "default-tone": "D",
     "categories": []
   },
   {
     "name": "Cordero de Dios",
-    "path": "cordero-de-dios",
-    "default-tone": "D",
+    "path": "cordero-de-dios-2",
+    "default-tone": "Em",
     "categories": []
   },
   {
@@ -2480,7 +2510,7 @@
   {
     "name": "Cristãos, Vinde Todos",
     "path": "cristaos-vinde-todos",
-    "default-tone": "F (forma dos acordes no tom de E)",
+    "default-tone": "F",
     "categories": []
   },
   {
@@ -2647,13 +2677,13 @@
   },
   {
     "name": "De Fora do Mundo",
-    "path": "de-fora-do-mundo",
+    "path": "de-fora-do-mundo-2",
     "default-tone": "C",
     "categories": []
   },
   {
     "name": "De Fora do Mundo",
-    "path": "de-fora-do-mundo-2",
+    "path": "de-fora-do-mundo",
     "default-tone": "C",
     "categories": []
   },
@@ -2720,7 +2750,7 @@
   {
     "name": "Desde o Nascer Ao Pôr do Sol",
     "path": "desde-o-nascer-ao-por-do-sol",
-    "default-tone": "Bb (forma dos acordes no tom de A)",
+    "default-tone": "Bb",
     "categories": []
   },
   {
@@ -2864,7 +2894,7 @@
   {
     "name": "Discípulos e Missionários de Jesus Cristo",
     "path": "discipulos-e-missionarios-de-jesus-cristo",
-    "default-tone": "F (forma dos acordes no tom de D)",
+    "default-tone": "F",
     "categories": []
   },
   {
@@ -3042,6 +3072,12 @@
     "categories": []
   },
   {
+    "name": "Eis Jesus o Pão da Vida",
+    "path": "eis-jesus-o-pao-da-vida",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
     "name": "Eis o Lenho",
     "path": "eis-o-lenho",
     "default-tone": "Eb",
@@ -3151,14 +3187,14 @@
   },
   {
     "name": "Em Nome do Pai",
-    "path": "em-nome-do-pai-",
-    "default-tone": "D",
+    "path": "em-nome-do-pai",
+    "default-tone": "A",
     "categories": []
   },
   {
     "name": "Em Nome do Pai",
-    "path": "em-nome-do-pai",
-    "default-tone": "A",
+    "path": "em-nome-do-pai-",
+    "default-tone": "D",
     "categories": []
   },
   {
@@ -3186,14 +3222,14 @@
     "categories": []
   },
   {
-    "name": "Em Tua Palavra",
-    "path": "em-tua-palavra",
+    "name": "Em Tua Palavra Eu Caminharei",
+    "path": "em-tua-palavra-eu-caminharei",
     "default-tone": "F",
     "categories": []
   },
   {
-    "name": "Em Tua Palavra Eu Caminharei",
-    "path": "em-tua-palavra-eu-caminharei",
+    "name": "Em Tua Palavra",
+    "path": "em-tua-palavra",
     "default-tone": "F",
     "categories": []
   },
@@ -3204,15 +3240,15 @@
     "categories": []
   },
   {
-    "name": "Em Vosso Meio Está Alguém (3º Domingo do Advento - Ano C)",
-    "path": "em-vosso-meio-esta-alguem-3-domingo-do-advento-ano-c",
-    "default-tone": "F",
-    "categories": []
-  },
-  {
     "name": "Em Vosso Meio Está Alguém",
     "path": "em-vosso-meio-esta-alguem",
     "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Em Vosso Meio Está Alguém (3º Domingo do Advento - Ano C)",
+    "path": "em-vosso-meio-esta-alguem-3-domingo-do-advento-ano-c",
+    "default-tone": "F",
     "categories": []
   },
   {
@@ -3288,27 +3324,27 @@
     "categories": []
   },
   {
-    "name": "Enviai, Senhor, Muitos Operários - Refrão Vocacional",
-    "path": "enviai-senhor-muitos-operarios-refrao-vocacional",
-    "default-tone": "C",
-    "categories": []
-  },
-  {
     "name": "Enviai, Senhor",
     "path": "enviai-senhor",
     "default-tone": "G",
     "categories": []
   },
   {
-    "name": "Enviai Senhor, Padre Ibiapina",
-    "path": "enviai-senhor-padre-ibiapina",
-    "default-tone": "Dm",
-    "categories": []
-  },
-  {
     "name": "Enviai Senhor",
     "path": "enviai-senhor-",
     "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Enviai, Senhor, Muitos Operários - Refrão Vocacional",
+    "path": "enviai-senhor-muitos-operarios-refrao-vocacional",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Enviai Senhor, Padre Ibiapina",
+    "path": "enviai-senhor-padre-ibiapina",
+    "default-tone": "Dm",
     "categories": []
   },
   {
@@ -3336,6 +3372,12 @@
     "categories": []
   },
   {
+    "name": "És o Cristo",
+    "path": "es-o-cristo",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
     "name": "És o Sentido",
     "path": "es-sentido",
     "default-tone": "F",
@@ -3349,13 +3391,13 @@
   },
   {
     "name": "Escuta, Senhor",
-    "path": "escuta-senhor-",
+    "path": "escuta-senhor",
     "default-tone": "G",
     "categories": []
   },
   {
     "name": "Escuta, Senhor",
-    "path": "escuta-senhor",
+    "path": "escuta-senhor-",
     "default-tone": "G",
     "categories": []
   },
@@ -3516,9 +3558,21 @@
     "categories": []
   },
   {
+    "name": "Eu Andava Muito Triste, Mas Agora Estou Feliz",
+    "path": "eu-andava-muito-triste-mas-agora-estou-feliz-2",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Eu Andava Muito Triste, Mas Agora Estou Feliz",
+    "path": "eu-andava-muito-triste-mas-agora-estou-feliz",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
     "name": "Eu Cantarei",
     "path": "eu-cantarei",
-    "default-tone": "C (forma dos acordes no tom de D)",
+    "default-tone": "C",
     "categories": []
   },
   {
@@ -3530,7 +3584,7 @@
   {
     "name": "Eu Canto a Alegria, Senhor - Versão 2",
     "path": "eu-canto-a-alegria-senhor-versao-2",
-    "default-tone": "Ab (forma dos acordes no tom de C)",
+    "default-tone": "Ab",
     "categories": []
   },
   {
@@ -3546,33 +3600,21 @@
     "categories": []
   },
   {
-    "name": "Eu Confesso a Deus",
-    "path": "eu-confesso-a-deus",
-    "default-tone": "Bm",
-    "categories": []
-  },
-  {
     "name": "Eu Confesso",
     "path": "eu-confesso",
     "default-tone": "Cm",
     "categories": []
   },
   {
+    "name": "Eu Confesso a Deus",
+    "path": "eu-confesso-a-deus",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
     "name": "Eu Confio Em Nosso Senhor",
     "path": "eu-confio-em-nosso-senhor",
     "default-tone": "F",
-    "categories": []
-  },
-  {
-    "name": "Eu Creio Em Ti, Senhor",
-    "path": "eu-creio-em-ti-senhor",
-    "default-tone": "C",
-    "categories": []
-  },
-  {
-    "name": "Eu Creio",
-    "path": "eu-creio",
-    "default-tone": "D",
     "categories": []
   },
   {
@@ -3594,6 +3636,18 @@
     "categories": []
   },
   {
+    "name": "Eu Creio",
+    "path": "eu-creio",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Eu Creio Em Ti, Senhor",
+    "path": "eu-creio-em-ti-senhor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
     "name": "Eu Danço Hooky Pooky",
     "path": "eu-danco-hooky-pooky",
     "default-tone": "E",
@@ -3609,6 +3663,12 @@
     "name": "Eu Era Um Recém-nascido (Profissão de Fé e Renovação Das Promessas do Batismo)",
     "path": "eu-era-um-recem-nascido-profissao-de-fe-e-renovacao-das-promessas-do-batismo",
     "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eu Nasci Para Te Consolar",
+    "path": "eu-nasci-para-te-consolar",
+    "default-tone": "F#m",
     "categories": []
   },
   {
@@ -3870,6 +3930,12 @@
     "categories": []
   },
   {
+    "name": "Exulte de Alegria",
+    "path": "exulte-de-alegria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
     "name": "Exulte",
     "path": "exulte-proclamacao-da-pascoa-preconio-pascal",
     "default-tone": "F",
@@ -3879,12 +3945,6 @@
     "name": "Exulte de Alegria Quem Busca a Deus",
     "path": "exulte-de-alegria-quem-busca-a-deus",
     "default-tone": "A",
-    "categories": []
-  },
-  {
-    "name": "Exulte de Alegria",
-    "path": "exulte-de-alegria",
-    "default-tone": "G",
     "categories": []
   },
   {
@@ -3918,15 +3978,21 @@
     "categories": []
   },
   {
+    "name": "Fala, Senhor, Pela Bíblia",
+    "path": "fala-senhor-pela-biblia",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
     "name": "Fala Senhor",
     "path": "fala-senhor",
     "default-tone": "A",
     "categories": []
   },
   {
-    "name": "Fala, Senhor, Pela Bíblia",
-    "path": "fala-senhor-pela-biblia",
-    "default-tone": "A",
+    "name": "Fala Senhor , Fala da Vida",
+    "path": "fala-senhor-fala-da-vida",
+    "default-tone": "E",
     "categories": []
   },
   {
@@ -4052,7 +4118,7 @@
   {
     "name": "Formamos a Igreja Viva",
     "path": "formamos-a-igreja-viva",
-    "default-tone": "C (forma dos acordes no tom de D)",
+    "default-tone": "C",
     "categories": []
   },
   {
@@ -4122,6 +4188,12 @@
     "categories": []
   },
   {
+    "name": "Glória a Deus",
+    "path": "gloria-deus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
     "name": "Gloria a Deus Lá Nos Céus",
     "path": "gloria-a-deus-la-nos-ceus",
     "default-tone": "A",
@@ -4134,8 +4206,8 @@
     "categories": []
   },
   {
-    "name": "Gloria a Deus Nas Alturas e Paz Na Terra Aos Homens",
-    "path": "gloria-a-deus-nas-alturas-e-paz-na-terra-aos-homens",
+    "name": "Gloria a Deus Nas Alturas",
+    "path": "gloria-a-deus-nas-alturas",
     "default-tone": "G",
     "categories": []
   },
@@ -4146,26 +4218,26 @@
     "categories": []
   },
   {
+    "name": "Gloria a Deus Nas Alturas e Paz Na Terra Aos Homens",
+    "path": "gloria-a-deus-nas-alturas-e-paz-na-terra-aos-homens",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
     "name": "Glória a Deus Nas Alturas (Missal Romano) 2019",
     "path": "gloria-a-deus-nas-alturas-missal-romano-2019",
     "default-tone": "C",
     "categories": []
   },
   {
-    "name": "Glória a Deus Nas Alturas (Solene)",
-    "path": "gloria-a-deus-nas-alturas-solene",
+    "name": "Glória a Deus Nas Alturas (Paraná)",
+    "path": "gloria-a-deus-nas-alturas-parana",
     "default-tone": "C",
     "categories": []
   },
   {
-    "name": "Gloria a Deus Nas Alturas",
-    "path": "gloria-a-deus-nas-alturas",
-    "default-tone": "G",
-    "categories": []
-  },
-  {
-    "name": "Glória a Deus Nas Alturas (Paraná)",
-    "path": "gloria-a-deus-nas-alturas-parana",
+    "name": "Glória a Deus Nas Alturas (Solene)",
+    "path": "gloria-a-deus-nas-alturas-solene",
     "default-tone": "C",
     "categories": []
   },
@@ -4196,12 +4268,6 @@
   {
     "name": "Glória a Deus Trindade",
     "path": "gloria-deus-trindade",
-    "default-tone": "D",
-    "categories": []
-  },
-  {
-    "name": "Glória a Deus",
-    "path": "gloria-deus",
     "default-tone": "D",
     "categories": []
   },
@@ -4332,21 +4398,21 @@
     "categories": []
   },
   {
-    "name": "Glória, Glória, Glória a Deus Nos Céus",
-    "path": "gloria-gloria-gloria-a-deus-nos-ceus",
-    "default-tone": "E",
-    "categories": []
-  },
-  {
     "name": "Glória, Glória, Glória a Deus",
     "path": "gloria-gloria-gloria-a-deus",
     "default-tone": "G",
     "categories": []
   },
   {
+    "name": "Glória, Glória, Glória a Deus Nos Céus",
+    "path": "gloria-gloria-gloria-a-deus-nos-ceus",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
     "name": "Glória, Glória Nos Céus! Paz Na Terra Entre Os Homens",
     "path": "gloria-gloria-nos-ceus-paz-na-terra-entre-os-homens",
-    "default-tone": "E",
+    "default-tone": "G",
     "categories": []
   },
   {
@@ -4362,26 +4428,14 @@
     "categories": []
   },
   {
-    "name": "Glória",
-    "path": "gloria-2",
-    "default-tone": "C",
-    "categories": []
-  },
-  {
-    "name": "Glória",
-    "path": "gloria",
-    "default-tone": "F",
+    "name": "Glória Litúrgico 3",
+    "path": "gloria-liturgico-3",
+    "default-tone": "E",
     "categories": []
   },
   {
     "name": "Glória Litúrgico",
     "path": "gloria-liturgico",
-    "default-tone": "E",
-    "categories": []
-  },
-  {
-    "name": "Glória Litúrgico 3",
-    "path": "gloria-liturgico-3",
     "default-tone": "E",
     "categories": []
   },
@@ -4392,15 +4446,15 @@
     "categories": []
   },
   {
-    "name": "Glória Nas Alturas, Glória Ao Rei Dos Céus",
-    "path": "gloria-nas-alturas-gloria-ao-rei-dos-ceus",
-    "default-tone": "F",
-    "categories": []
-  },
-  {
     "name": "Glória Nas Alturas",
     "path": "gloria-nas-alturas",
     "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Glória Nas Alturas, Glória Ao Rei Dos Céus",
+    "path": "gloria-nas-alturas-gloria-ao-rei-dos-ceus",
+    "default-tone": "F",
     "categories": []
   },
   {
@@ -4430,6 +4484,18 @@
   {
     "name": "Glória (Solene)",
     "path": "gloria-solene",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Glória",
+    "path": "gloria",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Glória",
+    "path": "gloria-2",
     "default-tone": "C",
     "categories": []
   },
@@ -4518,14 +4584,14 @@
     "categories": []
   },
   {
-    "name": "Hino À Nossa Senhora Das Graças",
-    "path": "hino-a-nossa-senhora-das-gracas",
+    "name": "Hino a Nossa Senhora Das Graças - Campinas/SP",
+    "path": "hino-a-nossa-senhora-das-gracas-campinas-sp",
     "default-tone": "G",
     "categories": []
   },
   {
-    "name": "Hino a Nossa Senhora Das Graças - Campinas/SP",
-    "path": "hino-a-nossa-senhora-das-gracas-campinas-sp",
+    "name": "Hino À Nossa Senhora Das Graças",
+    "path": "hino-a-nossa-senhora-das-gracas",
     "default-tone": "G",
     "categories": []
   },
@@ -4548,15 +4614,15 @@
     "categories": []
   },
   {
-    "name": "Hino a Nossa Senhora do Rosário",
-    "path": "hino-a-nossa-senhora-do-rosario",
-    "default-tone": "D",
-    "categories": []
-  },
-  {
     "name": "Hino à Nossa Senhora do Rosário - Lages, SC",
     "path": "hino-a-nossa-senhora-do-rosario-lages-sc",
     "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Hino a Nossa Senhora do Rosário",
+    "path": "hino-a-nossa-senhora-do-rosario",
+    "default-tone": "D",
     "categories": []
   },
   {
@@ -4687,13 +4753,13 @@
   },
   {
     "name": "Hino a São José",
-    "path": "hino-sao-jose-vinde-alegres-cantemos",
+    "path": "hino-a-sao-jose",
     "default-tone": "D",
     "categories": []
   },
   {
     "name": "Hino a São José",
-    "path": "hino-a-sao-jose",
+    "path": "hino-sao-jose-vinde-alegres-cantemos",
     "default-tone": "D",
     "categories": []
   },
@@ -4788,18 +4854,6 @@
     "categories": []
   },
   {
-    "name": "Hino da Campanha da Fraternidade 2016",
-    "path": "hino-da-campanha-da-fraternidade-2016",
-    "default-tone": "F",
-    "categories": []
-  },
-  {
-    "name": "Hino da Campanha da Fraternidade 2017",
-    "path": "hino-da-campanha-da-fraternidade-2017",
-    "default-tone": "F#",
-    "categories": []
-  },
-  {
     "name": "Hino da Campanha da Fraternidade 2025",
     "path": "hino-da-campanha-da-fraternidade-2025",
     "default-tone": "Dm",
@@ -4815,6 +4869,18 @@
     "name": "Hino da Campanha da Fraternidade",
     "path": "hino-da-campanha-da-fraternidade",
     "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2016",
+    "path": "hino-da-campanha-da-fraternidade-2016",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2017",
+    "path": "hino-da-campanha-da-fraternidade-2017",
+    "default-tone": "F#",
     "categories": []
   },
   {
@@ -4884,21 +4950,27 @@
     "categories": []
   },
   {
-    "name": "Hino de Louvor - Glória",
-    "path": "hino-de-louvor-gloria",
-    "default-tone": "E",
-    "categories": []
-  },
-  {
     "name": "Hino de Louvor",
     "path": "hino-de-louvor",
     "default-tone": "G",
     "categories": []
   },
   {
+    "name": "Hino de Louvor - Glória",
+    "path": "hino-de-louvor-gloria",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
     "name": "Hino de Louvor à Santa Filomena",
     "path": "hino-de-louvor-a-santa-filomena",
     "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hino de Louvor de Nossa Senhora do Carmo",
+    "path": "hino-de-louvor-de-nossa-senhora-do-carmo",
+    "default-tone": "G",
     "categories": []
   },
   {
@@ -4927,13 +4999,13 @@
   },
   {
     "name": "Hino de Nossa Senhora da Vitória Padroeira do Piauí",
-    "path": "hino-de-nossa-senhora-da-vitoria-padroeira-do-piaui-",
+    "path": "hino-de-nossa-senhora-da-vitoria-padroeira-do-piaui",
     "default-tone": "Em",
     "categories": []
   },
   {
     "name": "Hino de Nossa Senhora da Vitória Padroeira do Piauí",
-    "path": "hino-de-nossa-senhora-da-vitoria-padroeira-do-piaui",
+    "path": "hino-de-nossa-senhora-da-vitoria-padroeira-do-piaui-",
     "default-tone": "Em",
     "categories": []
   },
@@ -4944,15 +5016,15 @@
     "categories": []
   },
   {
-    "name": "Hino de Nossa Senhora Das Graças Padroeira do Movimento Das Capelinhas de Currais Novos",
-    "path": "hino-de-nossa-senhora-das-gracas-padroeira-do-movimento-das-capelinhas-de-currais-novos",
-    "default-tone": "E",
-    "categories": []
-  },
-  {
     "name": "Hino de Nossa Senhora Das Graças",
     "path": "hino-de-nossa-senhora-das-gracas",
     "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hino de Nossa Senhora Das Graças Padroeira do Movimento Das Capelinhas de Currais Novos",
+    "path": "hino-de-nossa-senhora-das-gracas-padroeira-do-movimento-das-capelinhas-de-currais-novos",
+    "default-tone": "E",
     "categories": []
   },
   {
@@ -4964,7 +5036,7 @@
   {
     "name": "Hino de Nossa Senhora de Lourdes - 100 Anos",
     "path": "hino-de-nossa-senhora-de-lourdes-100-anos-2022",
-    "default-tone": "C (forma dos acordes no tom de D)",
+    "default-tone": "C",
     "categories": []
   },
   {
@@ -4986,15 +5058,15 @@
     "categories": []
   },
   {
-    "name": "Hino de Nossa Senhora do Desterro (Desterro do Melo)",
-    "path": "hino-de-nossa-senhora-do-desterro-desterro-do-melo",
-    "default-tone": "G",
-    "categories": []
-  },
-  {
     "name": "Hino de Nossa Senhora do Desterro",
     "path": "hino-de-nossa-senhora-do-desterro",
     "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Hino de Nossa Senhora do Desterro (Desterro do Melo)",
+    "path": "hino-de-nossa-senhora-do-desterro-desterro-do-melo",
+    "default-tone": "G",
     "categories": []
   },
   {
@@ -5064,15 +5136,15 @@
     "categories": []
   },
   {
-    "name": "Hino de Santa Rita de Cássia",
-    "path": "hino-de-santa-rita-de-cassia",
-    "default-tone": "Dm",
-    "categories": []
-  },
-  {
     "name": "Hino de Santa Rita",
     "path": "hino-de-santa-rita",
     "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Hino de Santa Rita de Cássia",
+    "path": "hino-de-santa-rita-de-cassia",
+    "default-tone": "Dm",
     "categories": []
   },
   {
@@ -5094,15 +5166,15 @@
     "categories": []
   },
   {
-    "name": "Hino de Santo Antônio (Agora Nos Sentimos Bem Fortes Pra Lutar)",
-    "path": "hino-de-santo-antonio-agora-nos-sentimos-bem-fortes-pra-lutar",
-    "default-tone": "A",
-    "categories": []
-  },
-  {
     "name": "Hino de Santo Antônio",
     "path": "hino-de-santo-antonio",
     "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Hino de Santo Antônio (Agora Nos Sentimos Bem Fortes Pra Lutar)",
+    "path": "hino-de-santo-antonio-agora-nos-sentimos-bem-fortes-pra-lutar",
+    "default-tone": "A",
     "categories": []
   },
   {
@@ -5179,12 +5251,6 @@
   },
   {
     "name": "Hino de São João Batista",
-    "path": "hino-de-sao-joao-batista",
-    "default-tone": "A",
-    "categories": []
-  },
-  {
-    "name": "Hino de São João Batista",
     "path": "hino-de-sao-joao-batista-2",
     "default-tone": "D",
     "categories": []
@@ -5193,6 +5259,12 @@
     "name": "Hino de São João Batista (Perto de Jerusalém)",
     "path": "hino-de-sao-joao-batista-perto-de-jerusalem",
     "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Hino de São João Batista",
+    "path": "hino-de-sao-joao-batista",
+    "default-tone": "A",
     "categories": []
   },
   {
@@ -5300,7 +5372,7 @@
   {
     "name": "Hino do Bom Jesus da Lapa",
     "path": "hino-do-bom-jesus-da-lapa",
-    "default-tone": "F (forma dos acordes no tom de G)",
+    "default-tone": "F",
     "categories": []
   },
   {
@@ -5378,7 +5450,7 @@
   {
     "name": "Hino Militar e Valente à Santo Expedito",
     "path": "hino-militar-e-valente-a-santo-expedito",
-    "default-tone": "Bbm (forma dos acordes no tom de Am)",
+    "default-tone": "Bbm",
     "categories": []
   },
   {
@@ -5473,14 +5545,14 @@
   },
   {
     "name": "Hino São Marcos Evangelista",
-    "path": "hino-sao-marcos-evangelista",
-    "default-tone": "G",
+    "path": "hino-sao-marcos-evangelista-2",
+    "default-tone": "C",
     "categories": []
   },
   {
     "name": "Hino São Marcos Evangelista",
-    "path": "hino-sao-marcos-evangelista-2",
-    "default-tone": "C",
+    "path": "hino-sao-marcos-evangelista",
+    "default-tone": "G",
     "categories": []
   },
   {
@@ -5640,6 +5712,12 @@
     "categories": []
   },
   {
+    "name": "Invitatório Salmo 94(95)",
+    "path": "invitatorio-salmo-94-95",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
     "name": "Invocamos",
     "path": "invocamos",
     "default-tone": "E",
@@ -5750,7 +5828,7 @@
   {
     "name": "Jesus Me Dê a Mão",
     "path": "jesus-me-de-a-mao",
-    "default-tone": "A (forma dos acordes no tom de G)",
+    "default-tone": "A",
     "categories": []
   },
   {
@@ -5832,15 +5910,15 @@
     "categories": []
   },
   {
-    "name": "Kyrie Eleison",
-    "path": "kylie-eleison",
-    "default-tone": "A",
-    "categories": []
-  },
-  {
     "name": "Kyrie",
     "path": "kyrie-eleison",
     "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Kyrie Eleison",
+    "path": "kylie-eleison",
+    "default-tone": "A",
     "categories": []
   },
   {
@@ -5856,14 +5934,14 @@
     "categories": []
   },
   {
-    "name": "Ladainha de Nossa Senhora",
-    "path": "ladainha-de-nossa-senhora",
+    "name": "Ladainha de Nossa Senhora da Conceição",
+    "path": "ladainha-de-nossa-senhora-da-conceicao",
     "default-tone": "C",
     "categories": []
   },
   {
-    "name": "Ladainha de Nossa Senhora da Conceição",
-    "path": "ladainha-de-nossa-senhora-da-conceicao",
+    "name": "Ladainha de Nossa Senhora",
+    "path": "ladainha-de-nossa-senhora",
     "default-tone": "C",
     "categories": []
   },
@@ -5970,21 +6048,21 @@
     "categories": []
   },
   {
-    "name": "Lembrai-vos da Promessa",
-    "path": "lembrai-vos-da-promessa",
-    "default-tone": "D",
-    "categories": []
-  },
-  {
     "name": "Lembrai-vos",
     "path": "lembrai-vos",
     "default-tone": "A",
     "categories": []
   },
   {
+    "name": "Lembrai-vos da Promessa",
+    "path": "lembrai-vos-da-promessa",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
     "name": "Lenta e Calma Sobre a Terra",
     "path": "lenta-e-calma-sobre-a-terra",
-    "default-tone": "C",
+    "default-tone": "E",
     "categories": []
   },
   {
@@ -6218,7 +6296,7 @@
   {
     "name": "Maravilhas Fez Conosco o Senhor",
     "path": "maravilhas-fez-conosco-senhor",
-    "default-tone": "B (forma dos acordes no tom de A)",
+    "default-tone": "B",
     "categories": []
   },
   {
@@ -6230,7 +6308,7 @@
   {
     "name": "Marcas do Que Se Foi",
     "path": "marcas-do-que-se-foi",
-    "default-tone": "E (forma dos acordes no tom de D)",
+    "default-tone": "E",
     "categories": []
   },
   {
@@ -6372,14 +6450,14 @@
     "categories": []
   },
   {
-    "name": "Meu Coraçao É Para Ti",
-    "path": "meu-coracao-e-para-ti",
+    "name": "Meu Coração É Para Ti, Senhor",
+    "path": "meu-coracao-e-para-ti-senhor",
     "default-tone": "G",
     "categories": []
   },
   {
-    "name": "Meu Coração É Para Ti, Senhor",
-    "path": "meu-coracao-e-para-ti-senhor",
+    "name": "Meu Coraçao É Para Ti",
+    "path": "meu-coracao-e-para-ti",
     "default-tone": "G",
     "categories": []
   },
@@ -6433,13 +6511,13 @@
   },
   {
     "name": "Milagroso Antonio",
-    "path": "milagroso-antonio-",
+    "path": "milagroso-antonio",
     "default-tone": "G",
     "categories": []
   },
   {
     "name": "Milagroso Antonio",
-    "path": "milagroso-antonio",
+    "path": "milagroso-antonio-",
     "default-tone": "G",
     "categories": []
   },
@@ -6534,9 +6612,15 @@
     "categories": []
   },
   {
+    "name": "Mundo Ideal",
+    "path": "mundo-ideal",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
     "name": "Musica Catolica",
     "path": "musica-catolica",
-    "default-tone": "Bm (forma dos acordes no tom de Cm)",
+    "default-tone": "Bm",
     "categories": []
   },
   {
@@ -6624,15 +6708,15 @@
     "categories": []
   },
   {
-    "name": "Nas Águas do Jordão Mergulhados",
-    "path": "nas-aguas-do-jordao-mergulhados",
-    "default-tone": "A",
-    "categories": []
-  },
-  {
     "name": "Nas Águas do Jordão Mergulhados - Batismo do Senhor",
     "path": "nas-aguas-do-jordao-mergulhados-batismo-do-senhor",
     "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Nas Águas do Jordão Mergulhados",
+    "path": "nas-aguas-do-jordao-mergulhados",
+    "default-tone": "A",
     "categories": []
   },
   {
@@ -6960,6 +7044,12 @@
     "categories": []
   },
   {
+    "name": "Nossos Louvores",
+    "path": "nossos-louvores",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
     "name": "Nova",
     "path": "nova",
     "default-tone": "C",
@@ -7002,15 +7092,21 @@
     "categories": []
   },
   {
-    "name": "O Amor",
-    "path": "o-amor",
+    "name": "O Amor de Deus É Mais Bonito",
+    "path": "o-amor-de-deus-e-mais-bonito",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Amor É Dom Supremo",
+    "path": "o-amor-e-dom-supremo",
     "default-tone": "G",
     "categories": []
   },
   {
-    "name": "O Amor de Deus É Mais Bonito",
-    "path": "o-amor-de-deus-e-mais-bonito",
-    "default-tone": "D",
+    "name": "O Amor",
+    "path": "o-amor",
+    "default-tone": "G",
     "categories": []
   },
   {
@@ -7023,12 +7119,6 @@
     "name": "O Amor de Deus É Tão Grande",
     "path": "o-amor-de-deus--tao-grande",
     "default-tone": "C",
-    "categories": []
-  },
-  {
-    "name": "O Amor É Dom Supremo",
-    "path": "o-amor-e-dom-supremo",
-    "default-tone": "G",
     "categories": []
   },
   {
@@ -7316,7 +7406,7 @@
   {
     "name": "O Povo de Deus",
     "path": "o-povo-de-deus",
-    "default-tone": "C (forma dos acordes no tom de D)",
+    "default-tone": "C",
     "categories": []
   },
   {
@@ -7344,15 +7434,15 @@
     "categories": []
   },
   {
-    "name": "Ó Santo Antônio, Tão Ilustre Pregador",
-    "path": "o-santo-antonio-tao-ilustre-pregador",
-    "default-tone": "A",
-    "categories": []
-  },
-  {
     "name": "Ó Santo",
     "path": "o-santo",
     "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Ó Santo Antônio, Tão Ilustre Pregador",
+    "path": "o-santo-antonio-tao-ilustre-pregador",
+    "default-tone": "A",
     "categories": []
   },
   {
@@ -7404,15 +7494,15 @@
     "categories": []
   },
   {
-    "name": "O Senhor É Santo",
-    "path": "o-senhor-santo",
-    "default-tone": "D",
-    "categories": []
-  },
-  {
     "name": "O Senhor é Santo o Senhor é Nosso Deus",
     "path": "o-senhor-e-santo-o-senhor-e-nosso-deus",
     "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Senhor É Santo",
+    "path": "o-senhor-santo",
+    "default-tone": "D",
     "categories": []
   },
   {
@@ -7448,7 +7538,7 @@
   {
     "name": "O Senhor Preparou Um Banquete",
     "path": "o-senhor-preparou-um-banquete",
-    "default-tone": "C",
+    "default-tone": "F",
     "categories": []
   },
   {
@@ -7514,13 +7604,13 @@
   {
     "name": "Ó Trindade Vos Louvamos",
     "path": "o-trindade-vos-louvamos",
-    "default-tone": "Bb (forma dos acordes no tom de A)",
+    "default-tone": "Bb",
     "categories": []
   },
   {
     "name": "Ó Vem Senhor Não Tardes Mais",
     "path": "o-vem-senhor-nao-tardes-mais",
-    "default-tone": "Cm (forma dos acordes no tom de Dm)",
+    "default-tone": "Cm",
     "categories": []
   },
   {
@@ -7556,7 +7646,7 @@
   {
     "name": "Oferecimento do Dia (Apostolado da Oração)",
     "path": "oferecimento-do-dia-apostolado-da-oracao",
-    "default-tone": "C (forma dos acordes no tom de D)",
+    "default-tone": "C",
     "categories": []
   },
   {
@@ -7572,12 +7662,6 @@
     "categories": []
   },
   {
-    "name": "Ofertório",
-    "path": "venho-senhor-oferecer",
-    "default-tone": "Em",
-    "categories": []
-  },
-  {
     "name": "Ofertório Santa Rita de Cassia",
     "path": "ofertorio-santa-rita-de-cassia",
     "default-tone": "G",
@@ -7587,6 +7671,12 @@
     "name": "Ofertório",
     "path": "ofertorio",
     "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ofertório",
+    "path": "venho-senhor-oferecer",
+    "default-tone": "Em",
     "categories": []
   },
   {
@@ -7628,7 +7718,7 @@
   {
     "name": "Olha o Que Fez Jesus Em Mim",
     "path": "olha-o-que-fez-jesus-em-mim",
-    "default-tone": "E",
+    "default-tone": "D",
     "categories": []
   },
   {
@@ -7734,15 +7824,15 @@
     "categories": []
   },
   {
-    "name": "Ouço Uma Voz Lá No Deserto",
-    "path": "ouco-uma-voz-la-no-deserto-advento",
-    "default-tone": "Cm",
-    "categories": []
-  },
-  {
     "name": "Ouço",
     "path": "ouco",
     "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Ouço Uma Voz Lá No Deserto",
+    "path": "ouco-uma-voz-la-no-deserto-advento",
+    "default-tone": "Cm",
     "categories": []
   },
   {
@@ -7782,21 +7872,27 @@
     "categories": []
   },
   {
-    "name": "Pai Nosso (Cantado)",
-    "path": "pai-nosso-cantado-2",
-    "default-tone": "A",
-    "categories": []
-  },
-  {
     "name": "Pai Nosso Cantado",
     "path": "pai-nosso-cantado",
     "default-tone": "C",
     "categories": []
   },
   {
+    "name": "Pai Nosso (Cantado)",
+    "path": "pai-nosso-cantado-2",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
     "name": "Pai Nosso (Catedral de Sant'anna)",
     "path": "pai-nosso-catedral-de-sant-anna",
     "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Pai Nosso",
+    "path": "pai-nosso",
+    "default-tone": "C",
     "categories": []
   },
   {
@@ -7824,15 +7920,15 @@
     "categories": []
   },
   {
-    "name": "Pai Nosso",
-    "path": "pai-nosso",
-    "default-tone": "C",
+    "name": "Pai Pai Pai Pai Nosso Que Estais Nos Céus",
+    "path": "pai-pai-pai-pai-nosso-que-estais-nos-ceus",
+    "default-tone": "A",
     "categories": []
   },
   {
     "name": "Pai Que Criaste o Céu",
     "path": "pai-que-criaste-o-ceu",
-    "default-tone": "D (forma dos acordes no tom de E)",
+    "default-tone": "D",
     "categories": []
   },
   {
@@ -7880,13 +7976,13 @@
   {
     "name": "Pão e Vinho",
     "path": "pao-e-vinho",
-    "default-tone": "C",
+    "default-tone": "D",
     "categories": []
   },
   {
     "name": "Pão e Vinho Apresentamos Com Louvor",
     "path": "pao-e-vinho-apresentamos-com-louvor",
-    "default-tone": "Bb (forma dos acordes no tom de D)",
+    "default-tone": "Bb",
     "categories": []
   },
   {
@@ -7992,6 +8088,12 @@
     "categories": []
   },
   {
+    "name": "Perdão Senhor Pelas Vezes Que Sufocamos",
+    "path": "perdao-senhor-pelas-vezes-que-sufocamos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
     "name": "Perdão Senhor",
     "path": "perdao-senhor",
     "default-tone": "C",
@@ -8001,12 +8103,6 @@
     "name": "Perdão Senhor Jesus – No Teu Santuário Senhor",
     "path": "perdao-senhor-jesus--no-teu-santuario-senhor",
     "default-tone": "G",
-    "categories": []
-  },
-  {
-    "name": "Perdão Senhor Pelas Vezes Que Sufocamos",
-    "path": "perdao-senhor-pelas-vezes-que-sufocamos",
-    "default-tone": "C",
     "categories": []
   },
   {
@@ -8022,14 +8118,14 @@
     "categories": []
   },
   {
-    "name": "Peregrinos Na Terra ",
-    "path": "da-me-a-parte-que-me-cabe",
+    "name": "Peregrinos Na Terra",
+    "path": "peregrinos-na-terra",
     "default-tone": "E",
     "categories": []
   },
   {
-    "name": "Peregrinos Na Terra",
-    "path": "peregrinos-na-terra",
+    "name": "Peregrinos Na Terra ",
+    "path": "da-me-a-parte-que-me-cabe",
     "default-tone": "E",
     "categories": []
   },
@@ -8144,7 +8240,7 @@
   {
     "name": "Porque Ele Vive",
     "path": "porque-ele-vive",
-    "default-tone": "Em",
+    "default-tone": "G",
     "categories": []
   },
   {
@@ -8256,14 +8352,14 @@
     "categories": []
   },
   {
-    "name": "Proclamação da Páscoa",
-    "path": "plocamassao-da-pascoa",
+    "name": "Proclamacão da Páscoa B",
+    "path": "proclamacao-da-pascoa-b",
     "default-tone": "E",
     "categories": []
   },
   {
-    "name": "Proclamacão da Páscoa B",
-    "path": "proclamacao-da-pascoa-b",
+    "name": "Proclamação da Páscoa",
+    "path": "plocamassao-da-pascoa",
     "default-tone": "E",
     "categories": []
   },
@@ -8324,7 +8420,7 @@
   {
     "name": "Quando o Espirito de Deus Se Move Em Mim",
     "path": "quando-espirito-de-deus-se-move-em-mim",
-    "default-tone": "E (forma dos acordes no tom de D)",
+    "default-tone": "E",
     "categories": []
   },
   {
@@ -8683,8 +8779,8 @@
   },
   {
     "name": "Refrão Orante",
-    "path": "refrao-orante",
-    "default-tone": "Dm",
+    "path": "refrao-orante-3",
+    "default-tone": "A",
     "categories": []
   },
   {
@@ -8695,8 +8791,8 @@
   },
   {
     "name": "Refrão Orante",
-    "path": "refrao-orante-3",
-    "default-tone": "A",
+    "path": "refrao-orante",
+    "default-tone": "Dm",
     "categories": []
   },
   {
@@ -8708,6 +8804,12 @@
   {
     "name": "Rejubila-te Cidade Santa",
     "path": "rejubila-te-cidade-santa--entrada-de-quaresma",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Renascer II",
+    "path": "renascer-ii",
     "default-tone": "C",
     "categories": []
   },
@@ -8732,7 +8834,7 @@
   {
     "name": "Repreendei-me, Senhor, Mas Sem Ira! Corrigi-me, Mas Não Com Furor!",
     "path": "repreendei-me-senhor-mas-sem-ira-corrigi-me-mas-nao-com-furor",
-    "default-tone": "Ebm (forma dos acordes no tom de Dm)",
+    "default-tone": "Ebm",
     "categories": []
   },
   {
@@ -8766,14 +8868,14 @@
     "categories": []
   },
   {
-    "name": "Ressuscitou de Verdade",
-    "path": "ressuscitou-de-verdade",
+    "name": "Ressuscitou",
+    "path": "ressuscitou",
     "default-tone": "G",
     "categories": []
   },
   {
-    "name": "Ressuscitou",
-    "path": "ressuscitou",
+    "name": "Ressuscitou de Verdade",
+    "path": "ressuscitou-de-verdade",
     "default-tone": "G",
     "categories": []
   },
@@ -8781,6 +8883,12 @@
     "name": "Restaura Nossa Casa",
     "path": "restaura-nossa-casa",
     "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Resucitó",
+    "path": "resucito",
+    "default-tone": "C",
     "categories": []
   },
   {
@@ -8882,13 +8990,13 @@
   {
     "name": "Salmo 106(107) - Dai graças ao Senhor, porque Ele é bom",
     "path": "salmo-106-107-dai-gracas-ao-senhor-porque-ele-e-bom-2",
-    "default-tone": "B (forma dos acordes no tom de G)",
+    "default-tone": "B",
     "categories": []
   },
   {
     "name": "Salmo 106(107) - Dai graças ao Senhor, porque Ele é bom",
     "path": "salmo-106-107-dai-gracas-ao-senhor-porque-ele-e-bom",
-    "default-tone": "B (forma dos acordes no tom de G)",
+    "default-tone": "B",
     "categories": []
   },
   {
@@ -8918,7 +9026,7 @@
   {
     "name": "Salmo 122 (123) – 12º Domingo do Tempo Comum - Ano B - Os Nossos Olhos Estão Fitos",
     "path": "salmo-122-123-12-domingo-do-tempo-comum-ano-b-os-nossos-olhos-estao-fitos",
-    "default-tone": "F (forma dos acordes no tom de G)",
+    "default-tone": "F",
     "categories": []
   },
   {
@@ -8930,7 +9038,7 @@
   {
     "name": "Salmo 125 - Maravilhas Fez Conosco o Senhor, Exultemos de Alegria!",
     "path": "salmo-125-maravilhas-fez-conosco-o-senhor-exultemos-de-alegria",
-    "default-tone": "Ab (forma dos acordes no tom de G)",
+    "default-tone": "Ab",
     "categories": []
   },
   {
@@ -8946,15 +9054,15 @@
     "categories": []
   },
   {
-    "name": "Salmo 135",
-    "path": "salmo-135",
-    "default-tone": "C",
-    "categories": []
-  },
-  {
     "name": "Salmo 135 - Ao Senhor Dos Senhores",
     "path": "salmo-135-ao-senhor-dos-senhores",
     "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Salmo 135",
+    "path": "salmo-135",
+    "default-tone": "C",
     "categories": []
   },
   {
@@ -8966,13 +9074,7 @@
   {
     "name": "Salmo 137",
     "path": "salmo-137",
-    "default-tone": "F#m (forma dos acordes no tom de Em)",
-    "categories": []
-  },
-  {
-    "name": "Salmo 144",
-    "path": "salmo-144",
-    "default-tone": "A",
+    "default-tone": "F#m",
     "categories": []
   },
   {
@@ -8982,15 +9084,21 @@
     "categories": []
   },
   {
-    "name": "Salmo 147",
-    "path": "salmo-147",
+    "name": "Salmo 14",
+    "path": "salmo-14",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Salmo 144",
+    "path": "salmo-144",
     "default-tone": "A",
     "categories": []
   },
   {
-    "name": "Salmo 14",
-    "path": "salmo-14",
-    "default-tone": "C",
+    "name": "Salmo 147",
+    "path": "salmo-147",
+    "default-tone": "A",
     "categories": []
   },
   {
@@ -9084,12 +9192,6 @@
     "categories": []
   },
   {
-    "name": "Salmo 2",
-    "path": "salmo-2",
-    "default-tone": "C",
-    "categories": []
-  },
-  {
     "name": "Salmo 29 - Eu Vos Exalto Ó Senhor Porque Vós Me Livrastes",
     "path": "salmo-29-eu-vos-exalto-o-senhor-porque-vos-me-livrastes",
     "default-tone": "C",
@@ -9099,6 +9201,12 @@
     "name": "Salmo 29/30",
     "path": "salmo-2930",
     "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Salmo 2",
+    "path": "salmo-2",
+    "default-tone": "C",
     "categories": []
   },
   {
@@ -9114,21 +9222,27 @@
     "categories": []
   },
   {
-    "name": "Salmo 31",
-    "path": "salmo-31",
-    "default-tone": "E",
-    "categories": []
-  },
-  {
     "name": "Salmo 31 (32)",
     "path": "salmo-31-32",
     "default-tone": "C",
     "categories": []
   },
   {
+    "name": "Salmo 31",
+    "path": "salmo-31",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
     "name": "Salmo 32",
     "path": "salmo-32",
     "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo",
+    "path": "salmo-2-2",
+    "default-tone": "B",
     "categories": []
   },
   {
@@ -9164,13 +9278,13 @@
   {
     "name": "Salmo 44 - a Vossa Direita Se Encontra a Rainha Com Veste Esplendente de Ouro de Ofir",
     "path": "salmo-44-a-vossa-direita-se-encontra-a-rainha-com-veste-esplendente-de-ouro-de-ofir",
-    "default-tone": "Dm (forma dos acordes no tom de Em)",
+    "default-tone": "Dm",
     "categories": []
   },
   {
     "name": "Salmo 49",
     "path": "salmo-49",
-    "default-tone": "C (forma dos acordes no tom de D)",
+    "default-tone": "C",
     "categories": []
   },
   {
@@ -9180,21 +9294,21 @@
     "categories": []
   },
   {
+    "name": "Salmo 50",
+    "path": "salmo-50",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
     "name": "Salmo 50 (51) - Criai Em Mim Um Coração Que Seja Puro",
     "path": "salmo-50-51-criai-em-mim-um-coracao-que-seja-puro",
-    "default-tone": "C (forma dos acordes no tom de D)",
+    "default-tone": "C",
     "categories": []
   },
   {
     "name": "Salmo 50",
     "path": "salmo-50-2",
     "default-tone": "Em",
-    "categories": []
-  },
-  {
-    "name": "Salmo 50",
-    "path": "salmo-50",
-    "default-tone": "Bb",
     "categories": []
   },
   {
@@ -9206,7 +9320,7 @@
   {
     "name": "Salmo 54",
     "path": "salmo-54",
-    "default-tone": "E (forma dos acordes no tom de D)",
+    "default-tone": "E",
     "categories": []
   },
   {
@@ -9276,15 +9390,15 @@
     "categories": []
   },
   {
-    "name": "Salmo 92",
-    "path": "salmo-92",
-    "default-tone": "B (forma dos acordes no tom de G)",
-    "categories": []
-  },
-  {
     "name": "Salmo 92 - Deus É Rei",
     "path": "salmo-92-deus--rei",
     "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Salmo 92",
+    "path": "salmo-92",
+    "default-tone": "B",
     "categories": []
   },
   {
@@ -9300,15 +9414,15 @@
     "categories": []
   },
   {
-    "name": "Salmo 95 - Cantai Ao Senhor Deus Um Canto Novo, Manifestai Os Seus Prodígios Entre Os Povos!",
-    "path": "salmo-95-cantai-ao-senhor-deus-um-canto-novo-manifestai-os-seus-prodigios-entre-os-povos",
-    "default-tone": "C",
-    "categories": []
-  },
-  {
     "name": "Salmo 95",
     "path": "salmo-95",
     "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Salmo 95 - Cantai Ao Senhor Deus Um Canto Novo, Manifestai Os Seus Prodígios Entre Os Povos!",
+    "path": "salmo-95-cantai-ao-senhor-deus-um-canto-novo-manifestai-os-seus-prodigios-entre-os-povos",
+    "default-tone": "C",
     "categories": []
   },
   {
@@ -9344,13 +9458,7 @@
   {
     "name": "Salmo18B - Vossas Palavras Senhor, são Espirito e Vida",
     "path": "salmo18b-vossas-palavras-senhor-sao-espirito-e-vida",
-    "default-tone": "C (forma dos acordes no tom de D)",
-    "categories": []
-  },
-  {
-    "name": "Salmo",
-    "path": "salmo-2-2",
-    "default-tone": "B",
+    "default-tone": "C",
     "categories": []
   },
   {
@@ -9428,7 +9536,7 @@
   {
     "name": "Salve Rainha Mãe de Deus",
     "path": "salve-rainha-mae-de-deus",
-    "default-tone": "Db (forma dos acordes no tom de C)",
+    "default-tone": "Db",
     "categories": []
   },
   {
@@ -9558,15 +9666,15 @@
     "categories": []
   },
   {
-    "name": "Santo Deus do Universo (missal) 2019",
-    "path": "santo-deus-do-universo-missal-2019",
-    "default-tone": "G",
-    "categories": []
-  },
-  {
     "name": "Santo, Deus do Universo",
     "path": "santo-deus-do-universo",
     "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Santo Deus do Universo (missal) 2019",
+    "path": "santo-deus-do-universo-missal-2019",
+    "default-tone": "G",
     "categories": []
   },
   {
@@ -9588,6 +9696,18 @@
     "categories": []
   },
   {
+    "name": "Santo É o Senhor - Versão Missal Liturgico (Salmos & Musicas)",
+    "path": "santo-e-o-senhor-versao-missal-liturgico-salmos-musicas",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Santo É o Senhor",
+    "path": "santo--o-senhor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
     "name": "Santo É o Senhor da História",
     "path": "santo-e-o-senhor-da-historia",
     "default-tone": "E",
@@ -9597,12 +9717,6 @@
     "name": "Santo É o Senhor Deus",
     "path": "santo--o-senhor-deus",
     "default-tone": "G",
-    "categories": []
-  },
-  {
-    "name": "Santo É o Senhor",
-    "path": "santo--o-senhor",
-    "default-tone": "A",
     "categories": []
   },
   {
@@ -9662,7 +9776,7 @@
   {
     "name": "Santo (Ministério Sentinelas de Cristo)",
     "path": "santo-ministerio-sentinelas-de-cristo",
-    "default-tone": "Eb (forma dos acordes no tom de C)",
+    "default-tone": "Eb",
     "categories": []
   },
   {
@@ -9696,6 +9810,18 @@
     "categories": []
   },
   {
+    "name": "Santo",
+    "path": "santo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Santo",
+    "path": "santo-2",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
     "name": "Santo Roma 77 Neocatecumenal",
     "path": "santo-roma-77-neocatecumenal",
     "default-tone": "Am",
@@ -9708,27 +9834,57 @@
     "categories": []
   },
   {
-    "name": "Santo, Santo É",
-    "path": "santo-santo-e",
-    "default-tone": "A",
-    "categories": []
-  },
-  {
     "name": "Santo, Santo É o Senhor Dos Exércitos Reis",
     "path": "santo-santo-e-o-senhor-dos-exercitos-reis",
     "default-tone": "C",
     "categories": []
   },
   {
+    "name": "Santo, Santo É",
+    "path": "santo-santo-e",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Santo, Santo, Santo, Dizem Todos Os Anjos",
+    "path": "santo-santo-santo-dizem-todos-os-anjos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
     "name": "Santo, Santo, Santo É",
     "path": "santo-santo-santo-e",
-    "default-tone": "Bb (forma dos acordes no tom de G)",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Santo Santo Santo É o Senhor",
+    "path": "santo-santo-santo-e-o-senhor",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Santo, Santo, Santo É o Senhor",
+    "path": "santo-santo-santo--o-senhor",
+    "default-tone": "C",
     "categories": []
   },
   {
     "name": "Santo, Santo, Santo É o Senhor - Senhor Deus do Universo",
     "path": "santo-santo-santo-e-o-senhor-senhor-deus-do-universo",
     "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Santo, Santo, Santo és",
+    "path": "santo-santo-santo-es",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Santo, Santo, Santo",
+    "path": "santo-santo-santo-2",
+    "default-tone": "D",
     "categories": []
   },
   {
@@ -9739,26 +9895,38 @@
   },
   {
     "name": "Santo, Santo, Santo",
-    "path": "santo-santo-santo-2",
+    "path": "santo-santo-santo-3",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Santo, Santo, Santo",
+    "path": "santo-santo-santo",
     "default-tone": "D",
     "categories": []
   },
   {
-    "name": "Santo Santo Santo É o Senhor",
-    "path": "santo-santo-santo-e-o-senhor",
-    "default-tone": "Dm",
-    "categories": []
-  },
-  {
-    "name": "Santo, Santo, Santo és",
-    "path": "santo-santo-santo-es",
-    "default-tone": "F",
+    "name": "Santo, Santo, Santo Senhor Deus do Universo",
+    "path": "santo-santo-santo-senhor-deus-do-universo",
+    "default-tone": "A",
     "categories": []
   },
   {
     "name": "Santo Santo Santo Senhor, Nosso Deus",
     "path": "santo-santo-santo-senhor-nosso-deus",
-    "default-tone": "C (forma dos acordes no tom de D)",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Santo, Senhor Deus Do Universo",
+    "path": "santo-senhor-deus-do-universo-",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Santo, Senhor, Deus do Universo",
+    "path": "santo-senhor-deus-do-universo",
+    "default-tone": "C",
     "categories": []
   },
   {
@@ -9771,60 +9939,6 @@
     "name": "Santo Tradicional",
     "path": "santo-tradicional",
     "default-tone": "C",
-    "categories": []
-  },
-  {
-    "name": "Santo",
-    "path": "santo-2",
-    "default-tone": "Am",
-    "categories": []
-  },
-  {
-    "name": "Santo, Santo, Santo, Dizem Todos Os Anjos",
-    "path": "santo-santo-santo-dizem-todos-os-anjos",
-    "default-tone": "D",
-    "categories": []
-  },
-  {
-    "name": "Santo, Santo, Santo",
-    "path": "santo-santo-santo-3",
-    "default-tone": "C",
-    "categories": []
-  },
-  {
-    "name": "Santo, Santo, Santo Senhor Deus do Universo",
-    "path": "santo-santo-santo-senhor-deus-do-universo",
-    "default-tone": "A",
-    "categories": []
-  },
-  {
-    "name": "Santo, Santo, Santo",
-    "path": "santo-santo-santo",
-    "default-tone": "D",
-    "categories": []
-  },
-  {
-    "name": "Santo, Santo, Santo É o Senhor",
-    "path": "santo-santo-santo--o-senhor",
-    "default-tone": "C",
-    "categories": []
-  },
-  {
-    "name": "Santo, Senhor, Deus do Universo",
-    "path": "santo-senhor-deus-do-universo",
-    "default-tone": "C",
-    "categories": []
-  },
-  {
-    "name": "Santo, Senhor Deus Do Universo",
-    "path": "santo-senhor-deus-do-universo-",
-    "default-tone": "C",
-    "categories": []
-  },
-  {
-    "name": "Santo",
-    "path": "santo",
-    "default-tone": "A",
     "categories": []
   },
   {
@@ -9890,7 +10004,7 @@
   {
     "name": "Se Calarem a Voz Dos Profetas",
     "path": "se-calarem-a-voz-dos-profetas",
-    "default-tone": "E (forma dos acordes no tom de C)",
+    "default-tone": "E",
     "categories": []
   },
   {
@@ -9968,7 +10082,7 @@
   {
     "name": "Seja Bem Vindo Olé Olé Paz e Bem",
     "path": "seja-bem-vindo-ole-ole-paz-e-bem",
-    "default-tone": "C (forma dos acordes no tom de D)",
+    "default-tone": "C",
     "categories": []
   },
   {
@@ -10164,12 +10278,6 @@
     "categories": []
   },
   {
-    "name": "Senhor, Tende Piedade de nós VI",
-    "path": "senhor-tende-piedade-de-nos-vi",
-    "default-tone": "Dm",
-    "categories": []
-  },
-  {
     "name": "Senhor, Tende Piedade de Nós",
     "path": "senhor-tende-piedade-de-nos",
     "default-tone": "G",
@@ -10179,6 +10287,12 @@
     "name": "Senhor Tende Piedade",
     "path": "senhor-tende-piedade",
     "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Senhor, Tende Piedade de nós VI",
+    "path": "senhor-tende-piedade-de-nos-vi",
+    "default-tone": "Dm",
     "categories": []
   },
   {
@@ -10302,15 +10416,15 @@
     "categories": []
   },
   {
-    "name": "Shemá Israel",
-    "path": "shema-israel",
-    "default-tone": "Dm",
-    "categories": []
-  },
-  {
     "name": "Shemá",
     "path": "shema",
     "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Shemá Israel",
+    "path": "shema-israel",
+    "default-tone": "Dm",
     "categories": []
   },
   {
@@ -10350,6 +10464,12 @@
     "categories": []
   },
   {
+    "name": "Sl 117(118),2-4.16ab-18.22-24 (R. 1)",
+    "path": "sl-117-118-2-4-16ab-18-22-24-r-1",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
     "name": "Só em Deus (Sl 62)",
     "path": "so-em-deus-sl-62",
     "default-tone": "E",
@@ -10382,7 +10502,7 @@
   {
     "name": "Só Tenho Hoje",
     "path": "so-tenho-hoje",
-    "default-tone": "F (forma dos acordes no tom de G)",
+    "default-tone": "F",
     "categories": []
   },
   {
@@ -10418,7 +10538,7 @@
   {
     "name": "Sobre os Braços da Azinheira",
     "path": "sobre-os-bracos-da-azinheira",
-    "default-tone": "F (forma dos acordes no tom de G)",
+    "default-tone": "F",
     "categories": []
   },
   {
@@ -10459,14 +10579,14 @@
   },
   {
     "name": "Somos o Teu Povo Pecador",
-    "path": "somos-o-teu-povo-pecador-2",
-    "default-tone": "D",
+    "path": "somos-o-teu-povo-pecador",
+    "default-tone": "C",
     "categories": []
   },
   {
     "name": "Somos o Teu Povo Pecador",
-    "path": "somos-o-teu-povo-pecador",
-    "default-tone": "C",
+    "path": "somos-o-teu-povo-pecador-2",
+    "default-tone": "D",
     "categories": []
   },
   {
@@ -10484,7 +10604,7 @@
   {
     "name": "Sonda-me (Eu Sei Que Tu Me Sondas)",
     "path": "sonda-me-eu-sei-que-tu-me-sondas",
-    "default-tone": "Cm (forma dos acordes no tom de Am)",
+    "default-tone": "Cm",
     "categories": []
   },
   {
@@ -10628,7 +10748,7 @@
   {
     "name": "Te Louvo Em Verdade",
     "path": "te-louvo-em-verdade",
-    "default-tone": "C (forma dos acordes no tom de E)",
+    "default-tone": "C",
     "categories": []
   },
   {
@@ -10680,15 +10800,15 @@
     "categories": []
   },
   {
-    "name": "Tende Piedade Ó Cordeiro",
-    "path": "tende-piedade--cordeiro",
-    "default-tone": "D",
-    "categories": []
-  },
-  {
     "name": "Tende Piedade",
     "path": "tende-piedade",
     "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tende Piedade Ó Cordeiro",
+    "path": "tende-piedade--cordeiro",
+    "default-tone": "D",
     "categories": []
   },
   {
@@ -10698,21 +10818,27 @@
     "categories": []
   },
   {
+    "name": "Tenho Sede",
+    "path": "tenho-sede",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
     "name": "Tens Um Grande Dom",
     "path": "tens-um-grande-dom",
     "default-tone": "A",
     "categories": []
   },
   {
-    "name": "Terço da Misericórdia",
-    "path": "terco-da-misericordia",
-    "default-tone": "F#m",
-    "categories": []
-  },
-  {
     "name": "Terço da Misericórdia Cantado",
     "path": "terco-da-misericordia-cantado",
     "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Terço da Misericórdia",
+    "path": "terco-da-misericordia",
+    "default-tone": "F#m",
     "categories": []
   },
   {
@@ -10742,7 +10868,7 @@
   {
     "name": "Toda Semente",
     "path": "toda-semente",
-    "default-tone": "Db (forma dos acordes no tom de C)",
+    "default-tone": "Db",
     "categories": []
   },
   {
@@ -10764,27 +10890,27 @@
     "categories": []
   },
   {
-    "name": "Todas As Vezes Que Comemos Deste Pão",
-    "path": "todas-as-vezes-que-comemos-deste-pao",
-    "default-tone": "D",
-    "categories": []
-  },
-  {
     "name": "Todas as vezes que comemos deste pão - Versão 2",
     "path": "todas-as-vezes-que-comemos-deste-pao-versao-2",
-    "default-tone": "F (forma dos acordes no tom de G)",
+    "default-tone": "F",
     "categories": []
   },
   {
     "name": "Todas As Vezes Que Comemos Deste Pão - Versão Novo Missal",
     "path": "todas-as-vezes-que-comemos-deste-pao-versao-novo-missal",
-    "default-tone": "F (forma dos acordes no tom de G)",
+    "default-tone": "F",
     "categories": []
   },
   {
     "name": "Todas As Vezes Que Comemos Deste Pão - Versão Novo Missal 2",
     "path": "todas-as-vezes-que-comemos-deste-pao-versao-novo-missal-2",
-    "default-tone": "C (forma dos acordes no tom de D)",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Todas As Vezes Que Comemos Deste Pão",
+    "path": "todas-as-vezes-que-comemos-deste-pao",
+    "default-tone": "D",
     "categories": []
   },
   {
@@ -11030,7 +11156,7 @@
   {
     "name": "Um Coração Para Amar",
     "path": "um-coracao-para-amar",
-    "default-tone": "Ab (forma dos acordes no tom de G)",
+    "default-tone": "Ab",
     "categories": []
   },
   {
@@ -11178,6 +11304,12 @@
     "categories": []
   },
   {
+    "name": "Vamos Todos Louvar Juntos",
+    "path": "vamos-todos-louvar-juntos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
     "name": "Vão Entrando e de Joelhos",
     "path": "vao-entrando-e-de-joelhos",
     "default-tone": "Am",
@@ -11244,14 +11376,14 @@
     "categories": []
   },
   {
-    "name": "Vem Espírito Santo",
-    "path": "vem-espirito-santo",
+    "name": "Vem, Espirito",
+    "path": "vem-espirito",
     "default-tone": "C",
     "categories": []
   },
   {
-    "name": "Vem, Espirito",
-    "path": "vem-espirito",
+    "name": "Vem Espírito Santo",
+    "path": "vem-espirito-santo",
     "default-tone": "C",
     "categories": []
   },
@@ -11360,7 +11492,7 @@
   {
     "name": "Venham, Venham Todos Para Ceia do Senhor",
     "path": "venham-venham-todos-para-ceia-do-senhor",
-    "default-tone": "A",
+    "default-tone": "C#m",
     "categories": []
   },
   {
@@ -11370,15 +11502,15 @@
     "categories": []
   },
   {
-    "name": "Venho a ti, Senhor Jesus",
-    "path": "venho-a-ti-senhor-jesus",
-    "default-tone": "Dm",
-    "categories": []
-  },
-  {
     "name": "Venho a Ti",
     "path": "venho-ti",
     "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Venho a ti, Senhor Jesus",
+    "path": "venho-a-ti-senhor-jesus",
+    "default-tone": "Dm",
     "categories": []
   },
   {
@@ -11454,15 +11586,15 @@
     "categories": []
   },
   {
-    "name": "Vimos Te Louvar Em Tua Casa",
-    "path": "vimos-te-louvar-em-tua-casa",
-    "default-tone": "Dm",
-    "categories": []
-  },
-  {
     "name": "Vimos Te Louvar",
     "path": "vimos-te-louvar",
     "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vimos Te Louvar Em Tua Casa",
+    "path": "vimos-te-louvar-em-tua-casa",
+    "default-tone": "Dm",
     "categories": []
   },
   {
@@ -11516,7 +11648,7 @@
   {
     "name": "Vinde Todos Comer do Manjar",
     "path": "vinde-todos-comer-do-manjar",
-    "default-tone": "E (forma dos acordes no tom de D)",
+    "default-tone": "E",
     "categories": []
   },
   {
@@ -11670,15 +11802,15 @@
     "categories": []
   },
   {
-    "name": "Vou Levar a Deus No Altar Meus Dons",
-    "path": "vou-levar-a-deus-no-altar-meus-dons",
-    "default-tone": "D",
-    "categories": []
-  },
-  {
     "name": "Vou Levar",
     "path": "vou-levar",
     "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Vou Levar a Deus No Altar Meus Dons",
+    "path": "vou-levar-a-deus-no-altar-meus-dons",
+    "default-tone": "D",
     "categories": []
   },
   {
@@ -11696,7 +11828,7 @@
   {
     "name": "Vou Vencer",
     "path": "vou-vencer",
-    "default-tone": "G (forma dos acordes no tom de E)",
+    "default-tone": "G",
     "categories": []
   },
   {
@@ -11713,13 +11845,13 @@
   },
   {
     "name": "Wind's Voice",
-    "path": "winds-voice-",
+    "path": "winds-voice",
     "default-tone": "C",
     "categories": []
   },
   {
     "name": "Wind's Voice",
-    "path": "winds-voice",
+    "path": "winds-voice-",
     "default-tone": "C",
     "categories": []
   },
