@@ -1,0 +1,242 @@
+[
+  {
+    "name": "A Festinha",
+    "path": "a-festinha",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "A Mardita",
+    "path": "a-mardita",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Abril",
+    "path": "abril",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Alice",
+    "path": "alice",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Antes de Dormir",
+    "path": "antes-de-dormir",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Ao Acordar",
+    "path": "ao-acordar",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Atiraram o Pau No Gato",
+    "path": "atiraram-pau-no-gato",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Barata Cascuda",
+    "path": "barata-cascuda",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Beleza Interior",
+    "path": "beleza-interior",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Demasia",
+    "path": "demasia",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Diolinda",
+    "path": "diolinda",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Firmino",
+    "path": "firmino",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Gimme Song",
+    "path": "gimme-song",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hardcore da Formiga",
+    "path": "hardcore-da-formiga",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hugo Losão",
+    "path": "hugo-losao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Janela",
+    "path": "janela",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "José Pereira",
+    "path": "jose-pereira",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ladeira abaixo",
+    "path": "ladeira-abaixo",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Lembranças",
+    "path": "lembrancas",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Mais Perto de Você",
+    "path": "mais-perto-de-voce",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Medley 2 - A missão",
+    "path": "medley-missao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Medley (Pe. Zezinho scj)",
+    "path": "medley-pe-zezinho-scj",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Música Calma para ouvidos sensíveis",
+    "path": "musica-calma-para-ouvidos-sensiveis",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Namoro na TV",
+    "path": "namoro-na-tv",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "O Alienígena",
+    "path": "o-alienigena",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Meu Melhor Sentimento",
+    "path": "o-meu-melhor-sentimento",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Outro Alguém",
+    "path": "outro-alguem",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Pamonha de Piracicaba",
+    "path": "pamonha-de-piracicaba",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Parabéns",
+    "path": "parabens",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Respostas",
+    "path": "respostas",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Reverso",
+    "path": "reverso",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Santo Anjo",
+    "path": "santo-anjo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Sempre",
+    "path": "sempre",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Sou Um Anão",
+    "path": "sou-um-anao",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Teu caminho",
+    "path": "teu-caminho",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Tio Zé",
+    "path": "tio-ze",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Tudo",
+    "path": "tudo",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Velha Cicatriz",
+    "path": "velha-cicatriz",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Weberth",
+    "path": "weberth",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Zé Pereira",
+    "path": "ze-pereira",
+    "default-tone": "D",
+    "categories": []
+  }
+]

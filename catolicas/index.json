@@ -11866,5 +11866,77 @@
     "path": "shalom-aleluia",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "Aclamação - Versículo do Dia",
+    "path": "aclamacao-versiculo-do-dia",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Bendito Sejas Tu",
+    "path": "bendito-sejas-tu",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Cantemos Vibrando",
+    "path": "cantemos-vibrando",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Cinco Panes",
+    "path": "cinco-panes",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Cristo Hoven",
+    "path": "cristo-hoven",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Dios Está Aqui",
+    "path": "dios-esta-aqui",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Espírito da Verdade",
+    "path": "espirito-da-verdade",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hino da Padroeira da Diocese de Propriá-SE",
+    "path": "hino-da-padroeira-da-diocese-de-propria-se",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Hino Santo Antonio de Pádua",
+    "path": "hino-santo-antonio-de-padua",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Pão e Vinho Pai Poremos",
+    "path": "pao-e-vinho-pai-poremos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Porque Sois Filhos",
+    "path": "porque-sois-filhos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Vai Meu Irmão",
+    "path": "vai-meu-irmao",
+    "default-tone": "A",
+    "categories": []
   }
 ]
