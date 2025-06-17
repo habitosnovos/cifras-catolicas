@@ -1,0 +1,1406 @@
+[
+  {
+    "name": "A Caminho do Altar",
+    "path": "a-caminho-do-altar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "A Cruz Que Triunfou",
+    "path": "a-cruz-que-triunfou",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "A Força da Eucaristia",
+    "path": "a-forca-da-eucaristia",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "A Minha Alma Tem Sede de Deus",
+    "path": "a-minha-alma-tem-sede-de-deus-salmo-41-42-vigilia-pascal-ano-a",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "A Nossa Senhora do Sorriso",
+    "path": "a-nossa-senhora-do-sorriso",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "A Palavra de Deus É Meu Deus",
+    "path": "a-palavra-de-deus-e-meu-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "A Palavra de Deus É Uma Festa",
+    "path": "a-palavra-de-deus-e-uma-festa",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "A Páscoa Não É Só Hoje",
+    "path": "a-pascoa-nao-e-so-hoje",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "A Ti, Senhor, Meu Pedido",
+    "path": "a-ti-senhor-meu-pedido",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "A Voz do Meu Amado!",
+    "path": "a-voz-do-meu-amado",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Abre-te o Céu",
+    "path": "abre-te-o-ceu",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Acalma Meus Passos, Senhor",
+    "path": "acalma-meus-passos-senhor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Água Viva",
+    "path": "agua-viva",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Alegrai-vos",
+    "path": "alegrai-vos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Alegres Vamos a Casa do Pai",
+    "path": "alegres-vamos-a-casa-do-pai",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Aleluia",
+    "path": "aleluia",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Aleluia Aclamação",
+    "path": "aleluia-aclamacao",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Aleluia, Glória Ao Deus Libertador!",
+    "path": "aleluia-gloria-ao-deus-libertador",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Aleluia Missa de Santa Terezinha",
+    "path": "aleluia-missa-de-santa-terezinha",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Alma de Cristo",
+    "path": "alma-de-cristo",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Amanhã, Se Eu Acordar",
+    "path": "amanha-se-eu-acordar",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Amém! Eu aceito (comunhão)",
+    "path": "amem-eu-aceito-comunhao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Amou-nos Até o Fim",
+    "path": "amou-nos-ate-o-fim",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ao Senhor Deus, Todo o Poder",
+    "path": "ao-senhor-deus-todo-o-poder",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Aquela Eterna Fonte",
+    "path": "aquela-eterna-fonte",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Aquele Que Vos Chamou, É Fiel!",
+    "path": "aquele-que-vos-chamou--fiel",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Às Tuas Porta, Senhor",
+    "path": "as-tuas-porta-senhor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Assunção de Maria Sl 44(45)",
+    "path": "assuncao-de-maria-sl-4445",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Brilha Uma Luz",
+    "path": "brilha-uma-luz",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Cada Manhã (CD Deus é Bom)",
+    "path": "cada-manha-cd-deus-e-bom",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Caminho Estrada Sem Fim",
+    "path": "caminho-estrada-sem-fim",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Canta Minh'alma Canta",
+    "path": "canta-minh-alma-canta",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Cantai, Cristãos, Afinal",
+    "path": "cantai-cristaos-afinal",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Cântico Espiritual (Resposta à Palavra)",
+    "path": "cantico-espiritual-resposta-a-palavra",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Castelo Interior (Comunhão)",
+    "path": "castelo-interior-comunhao",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Celebre a José a Corte Celeste",
+    "path": "celebre-a-jose-a-corte-celeste",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Celebremos, Irmãos, a Vitória do Amor!",
+    "path": "celebremos-irmaos-a-vitoria-do-amor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Celebremos Na Alegria",
+    "path": "celebremos-na-alegria",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Com Amor Eterno Eu Te Amei",
+    "path": "com-amor-eterno-eu-te-amei",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Com o Vinho e Com o Pão",
+    "path": "com-o-vinho-e-com-o-pao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro de Deus",
+    "path": "cordeiro-de-deus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "De Paz São Meus Pensamentos",
+    "path": "de-paz-sao-meus-pensamentos",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "De Paz São Os Meus Pensamentos",
+    "path": "de-paz-sao-os-meus-pensamentos",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "De Que Lado Está Você?",
+    "path": "de-que-lado-esta-voce",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Deus, Razão do Meu Cantar",
+    "path": "deus-razao-do-meu-cantar",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "É  bom estarmos juntos",
+    "path": "-bom-estarmos-juntos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "É esta a Ceia Pascal",
+    "path": "e-esta-a-ceia-pascal",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "É Muito Bom",
+    "path": "-muito-bom",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "E Pelo Mundo Eu Vou",
+    "path": "e-pelo-mundo-eu-vou",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "É uma Luz Tua Palavra",
+    "path": "e-uma-luz-tua-palavra",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Eis a Virgem Oferente",
+    "path": "eis-a-virgem-oferente",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Em Meu Amor Pela Igreja",
+    "path": "em-meu-amor-pela-igreja",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Em Silêncio, Mergulha Em Deus",
+    "path": "em-silencio-mergulha-em-deus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Ergamos os lovores",
+    "path": "ergamos-os-lovores",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Escutai Minha Filha Salmo Nova Melodia",
+    "path": "escutai-minha-filha-salmo-nova-melodia",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Espírito de Deus Toma Conta",
+    "path": "espirito-de-deus-toma-conta",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Essa Palavra Que Deus Pai Dizia",
+    "path": "essa-palavra-que-deus-pai-dizia",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Este É Meu Filho Muito Amado",
+    "path": "este-e-meu-filho-muito-amado",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Eu me alegrei, fiquei feliz",
+    "path": "eu-me-alegrei-fiquei-feliz",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Festejemos Hoje a Glória",
+    "path": "festejemos-hoje-a-gloria",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Foi Com Eterno Amor",
+    "path": "foi-com-eterno-amor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Fraternidade Palavra Tão Bonita",
+    "path": "fraternidade-palavra-tao-bonita-",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Glória a Deus (Glória - Celebração do Casamento Com Missa)",
+    "path": "gloria-a-deus-gloria-celebracao-do-casamento-com-missa",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Glória a Deus Lá Nos Céus",
+    "path": "gloria-a-deus-la-nos-ceus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Gloria a Deus Nas Alturas",
+    "path": "gloria-a-deus-nas-alturas",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Glória a Deus Nos Altos Céus",
+    "path": "gloria-a-deus-nos-altos-ceus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Glória a Deus Pelo Perdão",
+    "path": "gloria-a-deus-pelo-perdao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Glória e Louvor a Cristo! Aclamai de Pé!",
+    "path": "gloria-e-louvor-a-cristo-aclamai-de-pe",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Glória e Louvor a Cristo",
+    "path": "gloria-e-louvor-a-cristo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Há Uma Luz Lá Na Estrada",
+    "path": "ha-uma-luz-la-na-estrada",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Hino a Santa Bakhita Afortunada",
+    "path": "hino-a-santa-bakhita-afortunada",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Hino a Santa Teresinha",
+    "path": "hino-a-santa-teresinha",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Hino a São João Evangelista",
+    "path": "hino-a-sao-joao-evangelista",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Hino de Santa Isabel Rainha de Portugal",
+    "path": "hino-de-santa-isabel-rainha-de-portugal",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Hino de São Tarcísio",
+    "path": "hino-de-sao-tarcisio",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Hino Santo Agostinho",
+    "path": "hino-santo-agostinho",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Hino São Miguel",
+    "path": "hino-sao-miguel",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Hoje É Festa Diferente",
+    "path": "hoje-e-festa-diferente",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Iluminai a Vossa Face Sobre Nós Salmo 79 (80) (1º Domingo do Advento – Ano B)",
+    "path": "iluminai-a-vossa-face-sobre-nos-salmo-79-80-1o-domingo-do-advento-ano-b",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Irma Míria T. Kolling",
+    "path": "irma-miria-t-kolling",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Jesus Cristo, Nossa Páscoa",
+    "path": "jesus-cristo-nossa-pascoa",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Jesus, Tu És a Luz",
+    "path": "jesus-tu-s-a-luz",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Jubilosos Entoemos",
+    "path": "jubilosos-entoemos",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Juntamente Com o Pão (Oferendas)",
+    "path": "juntamente-com-o-pao-oferendas",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Louvor e Glória a Ti, Senhor",
+    "path": "louvor-e-gloria-a-ti-senhor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "mae aparecida querida amem",
+    "path": "mae-aparecida-querida-amem",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Mãe do Puro Amor",
+    "path": "mae-do-puro-amor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Magnificat! Magnificat!",
+    "path": "magnificat-magnificat",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Maria, Mãe de Deus e da Igreja",
+    "path": "maria-mae-de-deus-e-da-igreja",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Maria, Quem És Tu ?",
+    "path": "maria-quem-es-tu",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Maria, Senhora de Nazaré,  Aumenta a Luz de Nossa Fé!",
+    "path": "maria-senhora-de-nazare-aumenta-a-luz-de-nossa-fe",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Meu Caminho Vou Seguir",
+    "path": "meu-caminho-vou-seguir",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Meu Céu",
+    "path": "meu-ceu",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Missa Dos Bem-Aventurados",
+    "path": "missa-dos-bem-aventurados",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Na Casa da Mãe Aparecida",
+    "path": "na-casa-da-mae-aparecida",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Nada Te Pertube!",
+    "path": "nada-te-pertube",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Nada Te Perturbe",
+    "path": "nada-te-perturbe",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Não Esqueçam o Amor",
+    "path": "nao-esquecam-o-amor",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Nas Mãos de Deus",
+    "path": "nas-maos-de-deus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "No Coração da Trindade",
+    "path": "no-coracao-da-trindade",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "No Cuidado da Semente (Glória a Deus Que Nos Reparte o Pão)",
+    "path": "no-cuidado-da-semente-gloria-a-deus-que-nos-reparte-o-pao",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "No Teu Altar, Senhor",
+    "path": "no-teu-altar-senhor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Nós Somos Uma Família",
+    "path": "nos-somos-uma-familia",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Nossa Senhora Aparecida",
+    "path": "nossa-senhora-aparecida",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ó Meu Deus, Trindade Santa",
+    "path": "-meu-deus-trindade-santa",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ó Sant'ana Em Teu Seio - Hino À Sant'ana",
+    "path": "o-sant-ana-em-teu-seio-hino-a-sant-ana",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ó São José Querido",
+    "path": "o-sao-jose-querido",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ó Senhor, neste dia! (prece dos fieis)",
+    "path": "o-senhor-neste-dia-prece-dos-fieis",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "O Viver, e o Morrer (Comunhão)",
+    "path": "o-viver-e-o-morrer-comunhao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Oh! Que Alegria",
+    "path": "oh-que-alegria",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Oração da alma enamorada",
+    "path": "oracao-da-alma-enamorada",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Oração Sacerdotal",
+    "path": "oracao-sacerdotal",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Os Felizes e Bem Aventurados",
+    "path": "os-felizes-e-bem-aventurados",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Os Olhos Jamais Contemplaram - Ofertório",
+    "path": "os-olhos-jamais-contemplaram-ofertorio",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Os Que Lançam As Sementes...",
+    "path": "os-que-lancam-as-sementes",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Parabens",
+    "path": "parabens",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Procissão da Bíblia",
+    "path": "procissao-da-biblia",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Profeta, Descança Em Paz! (Louvor Final)",
+    "path": "profeta-descanca-em-paz-louvor-final",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Que Os Anjos Te Conduzam",
+    "path": "que-os-anjos-te-conduzam",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quem Chorou?",
+    "path": "quem-chorou",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Quem Me Ama, Guardará Minha Palavra",
+    "path": "quem-me-ama-guardara-minha-palavra",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Quem Vai Com Lagrimas",
+    "path": "quem-vai-com-lagrimas",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Queremos Ver Jesus, Queremos",
+    "path": "queremos-ver-jesus-queremos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Querido Padroeiro Nosso Amem",
+    "path": "querido-padroeiro-nosso-amem",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Quero Ouvir Teu Apelo",
+    "path": "quero-ouvir-teu-apelo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Reunidos Nesta Ceia do Senhor",
+    "path": "reunidos-nesta-ceia-do-senhor",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Sabedoria Infinita - Glória a Trindade De Amor",
+    "path": "sabedoria-infinita-gloria-a-trindade-de-amor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo - 103(102) (3º Domingo da Quaresma - Ano C",
+    "path": "salmo-103102-3o-domingo-da-quaresma-ano-c",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo 104 (105) Buscai Constantemente a Face do Senhor",
+    "path": "salmo-104-105-buscai-constantemente-a-face-do-senhor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Salmo 116(115) - 2º Domingo da Quaresma - Ano B",
+    "path": "salmo-116115-2o-domingo-da-quaresma-ano-b",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Salmo 117 (118) 2º Domingo de Páscoa - Ano B",
+    "path": "salmo-117-118-2-domingo-de-pascoa-ano-b",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Salmo 117 (118)",
+    "path": "salmo-117118",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Salmo 117 4º Domingo de Páscoa",
+    "path": "salmo-117-4o-domingo-de-pascoa",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Salmo 122 (123) - Os Nosso Olhos Estão Fitos No Senhor",
+    "path": "salmo-122-123-os-nosso-olhos-estao-fitos-no-senhor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Salmo 137 (138) Vou Cantar-vos",
+    "path": "salmo-137-138-vou-cantar-vos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Salmo 139 (138) - Natividade de São João Batista",
+    "path": "salmo-139-138-natividade-de-sao-joao-batista",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo 14",
+    "path": "salmo-14-senhor-quem-morara-em-vossa-casa",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Salmo 145 (146)",
+    "path": "salmo-145-146",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Salmo 146(145) 3 Domingo do Advento Ano A",
+    "path": "salmo-146145-3-domingo-do-advento-ano-a",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo 16/15 - Ao Despertar, Me Saciará Vossa Presença",
+    "path": "salmo-1615-ao-despertar-me-saciara-vossa-presenca",
+    "default-tone": "Fm",
+    "categories": []
+  },
+  {
+    "name": "Salmo 22(21) Domingo de Ramos",
+    "path": "salmo-2221-domingo-de-ramos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo 26 2 Domingo da Quaresma ano C",
+    "path": "salmo-26-2-domingo-da-quaresma-ano-c",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Salmo 26 (27) - o Senhor É Minha Luz e Salvação",
+    "path": "salmo-26-27-o-senhor-e-minha-luz-e-salvacao",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Salmo 33 (32)",
+    "path": "salmo-33-32",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Salmo 34(33)",
+    "path": "salmo-3433",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Salmo 44",
+    "path": "salmo-44",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Salmo 44 - Escutai Minha Filha, Olhai, Ouvi Isto",
+    "path": "salmo-44-escutai-minha-filha-olhai-ouvi-isto",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Salmo 4",
+    "path": "salmo-4",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Salmo 66 (Solenidade da Santa Mae de Deus)",
+    "path": "salmo-66-solenidade-da-santa-mae-de-deus",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Salmo 80 (81)",
+    "path": "salmo-80-81",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Salmo 80 Exultai no Senhor Nossa Força – 9º DomingoAno B",
+    "path": "salmo-80-exultai-no-senhor-nossa-forca-9-domingoano-b",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Salmo 89",
+    "path": "salmo-89-90",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Salmo 90 - Em Minhas Dores Ó Senhor, Permanecei Junto de Mim",
+    "path": "salmo-90-em-minhas-dores-o-senhor-permanecei-junto-de-mim",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Salmo 97(98) - 6º Domingo da Páscoa",
+    "path": "salmo-9798-6o-domingo-da-pascoa",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial - 25(24) 1 Domingo da Quaresma",
+    "path": "salmo-responsorial-2524-1-domingo-da-quaresma",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 104 (103)",
+    "path": "salmo-responsorial-104-103",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 113(112)",
+    "path": "salmo-responsorial-113112",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 115 (114)",
+    "path": "salmo-responsorial-115-114",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 115(114)",
+    "path": "salmo-responsorial-115114",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 117 (116)",
+    "path": "salmo-responsorial-117-116",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 118 (119)",
+    "path": "salmo-responsorial-118-119",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 121(120)",
+    "path": "salmo-responsorial-121120",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 122(121)",
+    "path": "salmo-responsorial-122121",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 126(125)",
+    "path": "salmo-responsorial-126125",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 136(137)",
+    "path": "salmo-responsorial-136137",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 145(144)",
+    "path": "salmo-responsorial-145144",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 146 (145)",
+    "path": "salmo-responsorial-146-145",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 16 (17)",
+    "path": "salmo-responsorial-16-17",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 18",
+    "path": "salmo-responsorial-18",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 19(18)",
+    "path": "salmo-responsorial-19-18",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 1",
+    "path": "salmo-responsorial-1",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial (21) - 5º Domingo da Páscoa - Ano B",
+    "path": "salmo-responsorial-21-5o-domingo-da-pascoa-ano-b",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 22(21)",
+    "path": "salmo-responsorial-2221",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 23 (24)",
+    "path": "salmo-responsorial-23-24",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 23 4 Domingo do Advento",
+    "path": "salmo-responsorial-23-4-domingo-do-advento",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 23(22)",
+    "path": "salmo-responsorial-2322",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 25(24)",
+    "path": "salmo-responsorial-2524",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 27(26)",
+    "path": "salmo-responsorial-2726",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 28(29)",
+    "path": "salmo-responsorial-2829",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 33",
+    "path": "salmo-responsorial-33",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 34(33)",
+    "path": "salmo-responsorial-3433",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 40(39)",
+    "path": "salmo-responsorial-4039",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 47 (46) - Ascenção do Senhor",
+    "path": "salmo-responsorial-47-46-ascencao-do-senhor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 51(50)",
+    "path": "salmo-responsorial-5150",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 51(50) 1 Domingo da Quaresma Ano A",
+    "path": "salmo-responsorial-5150-1-domingo-da-quaresma-ano-a",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 54 (53)",
+    "path": "salmo-responsorial-54-53",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 62(63)",
+    "path": "salmo-responsorial-6263",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 66",
+    "path": "salmo-responsorial-66",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 66(65)",
+    "path": "salmo-responsorial-6665",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 68 (67)",
+    "path": "salmo-responsorial-68-67",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 8",
+    "path": "salmo-responsorial-8-",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 8",
+    "path": "salmo-responsorial-8",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 93(92)",
+    "path": "salmo-responsorial-9392",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 96(95)",
+    "path": "salmo-responsorial-9695",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial 97 (98)",
+    "path": "salmo-responsorial-97-98",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial de Natal 95(96)",
+    "path": "salmo-responsorial-de-natal-9596",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Salmo Responsorial Is12",
+    "path": "salmo-responsorial-is12",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Salve Mãe de Misericórdia",
+    "path": "salve-mae-de-misericordia",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Santo",
+    "path": "santo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Santo (Cd Cantarei ao Meu Senhor)",
+    "path": "santo-cd-cantarei-ao-meu-senhor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Santo, Santo, É Santo o Senhor",
+    "path": "santo-santo--santo-o-senhor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Seguir Teus Passos",
+    "path": "seguir-teus-passos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Sempre de Novo Eu Me Alegro",
+    "path": "sempre-de-novo-eu-me-alegro",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Senhor, Eu te Ofereço",
+    "path": "senhor-eu-te-ofereco",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Senhor Vem Dar-nos Sabedoria",
+    "path": "senhor-vem-dar-nos-sabedoria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Senhor",
+    "path": "senhor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Senhor, Nossa Prece Escutai!",
+    "path": "senhor-nossa-prece-escutai",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Senhor Tende Piedade de Nós",
+    "path": "senhor-tende-piedade-de-nos",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Senhor, Tu Me Chamaste",
+    "path": "senhor-tu-me-chamaste",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sequência Espírito Santo",
+    "path": "sequencia-espirito-santo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ser Um Contigo Enfim!",
+    "path": "ser-um-contigo-enfim",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Serei o Amor",
+    "path": "serei-o-amor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Só Deus Permanece",
+    "path": "so-deus-permanece",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Solenidade da Santa Mãe de Deus, Maria - Salmo 67(66)",
+    "path": "solenidade-da-santa-mae-de-deus-maria-salmo-6766",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Somos Muitos",
+    "path": "somos-muitos",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Sou a Vida e a Verdade - Aclamação",
+    "path": "sou-a-vida-e-a-verdade-aclamacao",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Temos Fome de Eucaristia",
+    "path": "temos-fome-de-eucaristia",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Tenho Sede",
+    "path": "tenho-sede",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Terra Boa É Aquele Ouviu",
+    "path": "terra-boa-e-aquele-ouviu",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Teu Amor Vai Além da Medida",
+    "path": "teu-amor-vai-alem-da-medida",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Teu Óleo Santo",
+    "path": "teu-leo-santo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Toma e Lê",
+    "path": "toma-e-le",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Tu Bela, Grande, Santa Teresa",
+    "path": "tu-bela-grande-santa-teresa",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Tu És, Senhor, a Riqueza",
+    "path": "tu-es-senhor-a-riqueza",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tua Palavra É Fecunda, Senhor",
+    "path": "tua-palavra-e-fecunda-senhor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tudo Por Causa de Um Grande Amor!",
+    "path": "tudo-por-causa-de-um-grande-amor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Uma Voz Fez-se Ouvir Lá No Deserto",
+    "path": "uma-voz-fez-se-ouvir-la-no-deserto",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Vai Falar No Evangelho",
+    "path": "vai-falar-no-evangelho",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vamos Caminhando Lado a Lado (Entrada)",
+    "path": "vamos-caminhando-lado-a-lado-entrada",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Vem, Meu Povo",
+    "path": "vem-meu-povo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Venham à Mesa",
+    "path": "venham-a-mesa",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Viver de Amor",
+    "path": "viver-de-amor",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Vovó, Esta Canção Dedido a Você",
+    "path": "vovo-esta-cancao-dedido-voce",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "– SALMO 71 (72) – AS NAÇÕES DE TODA A TERRA ( Epifania do Senhor)",
+    "path": "salmo-71-72-as-nacoes-de-toda-a-terra-epifania-do-senhor",
+    "default-tone": "F",
+    "categories": []
+  }
+]
