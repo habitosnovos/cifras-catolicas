@@ -1,5 +1,88 @@
 [
-
+  {
+    "name": "Músicas Católicas",
+    "path": "catolicas"
+  },
+  {
+    "name": "Adriana Arydes",
+    "path": "adriana"
+  },
+  {
+    "name": "Anjos de Resgate",
+    "path": "anjos-de-resgate-musicas"
+  },
+  {
+    "name": "Vida Reluz",
+    "path": "vida-reluz"
+  },
+  {
+    "name": "Banda Dominus",
+    "path": "banda-dominus"
+  },
+  {
+    "name": "Pe. Fábio de Melo",
+    "path": "pe-fabio-de-melo"
+  },
+  {
+    "name": "Padre Reginaldo Manzotti",
+    "path": "padre-reginaldo-manzotti"
+  },
+  {
+    "name": "Nelsinho Corrêa",
+    "path": "nelsinho-correa"
+  },
+  {
+    "name": "Salette Ferreira",
+    "path": "salette-ferreira"
+  },
+  {
+    "name": "Irmã Kelly Patrícia",
+    "path": "kelly-patricia"
+  },
+  {
+    "name": "Comunidade Católica Shalom",
+    "path": "comunidade-catolica-shalom"
+  },
+  {
+    "name": "Celina Borges",
+    "path": "celina-borges"
+  },
+  {
+    "name": "Diego Fernandes",
+    "path": "diego-fernandes"
+  },
+  {
+    "name": "The Flanders",
+    "path": "the-flanders"
+  },
+  {
+    "name": "Dunga",
+    "path": "dunga"
+  },
+  {
+    "name": "Agnus Dei",
+    "path": "agnus-dei"
+  },
+  {
+    "name": "Martín Valverde",
+    "path": "martin-valverde"
+  },
+  {
+    "name": "Ziza Fernandes",
+    "path": "ziza-fernandes"
+  },
+  {
+    "name": "Irmã Míria T. Kolling",
+    "path": "irma-miria-t-kolling"
+  },
+  {
+    "name": "Padre Zezinho",
+    "path": "padre-zezinho"
+  },
+  {
+    "name": "Padre Marcelo Rossi",
+    "path": "padre-marcelo-rossi"
+  },
   {
     "name": "Frei Luiz Turra",
     "path": "frei-luiz-turra"
