@@ -78,5 +78,29 @@
   {
     "name": "Padre Zezinho",
     "path": "padre-zezinho"
+  },
+  {
+    "name": "Padre Marcelo Rossi",
+    "path": "padre-marcelo-rossi"
+  },
+  {
+    "name": "Frei Luiz Turra",
+    "path": "frei-luiz-turra"
+  },
+  {
+    "name": "Ministério Amor e Adoração",
+    "path": "ministerio-amor-e-adoracao"
+  },
+  {
+    "name": "Ramon e Rafael",
+    "path": "ramon-e-rafael"
+  },
+  {
+    "name": "Ministério Adoração e Vida",
+    "path": "ministerio-adoracao-vida"
+  },
+  {
+    "name": "Juninho Cassimiro",
+    "path": "juninho-cassimiro"
   }
 ]

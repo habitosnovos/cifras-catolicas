@@ -604,5 +604,287 @@
     "path": "noite-traicoeira",
     "default-tone": "E",
     "categories": []
+  },
+  {
+    "name": "Nossa Senhora do Brasil",
+    "path": "nossa-senhora-do-brasil",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Nova Civilização",
+    "path": "nova-civilizacao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Nova Missão",
+    "path": "nova-missao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Dom do Amor (A Mulher Adúltera)",
+    "path": "o-dom-do-amor-a-mulher-adultera",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Meu Lugar É o Céu",
+    "path": "o-meu-lugar-e-o-ceu",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "O Nosso General",
+    "path": "o-nosso-general",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Ódio Não Vence o Amor",
+    "path": "o-odio-nao-vence-o-amor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Primeiro Passo",
+    "path": "o-primeiro-passo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "O Senhor é Rei",
+    "path": "o-senhor-e-rei",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "O Vira de Jesus",
+    "path": "vira-de-jesus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Onde Deus Te Levar",
+    "path": "onde-deus-te-levar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Oração de São Francisco",
+    "path": "oracao-de-sao-francisco",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Pai Nosso",
+    "path": "pai-nosso",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Palmas Para Jesus",
+    "path": "palmas-para-jesus",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Pão da Vida",
+    "path": "pao-da-vida",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Perfeito É Quem Te Criou",
+    "path": "perfeito-quem-te-criou",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Podes Reinar",
+    "path": "podes-reinar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Porque Eu Te Amo Demais",
+    "path": "porque-eu-te-amo-demais",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Quão Grande És Tu",
+    "path": "quao-grande-es-tu",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Quem É Esta Que Avança Como Aurora",
+    "path": "quem-esta-que-avanca-como-aurora",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Quem Me Segurou",
+    "path": "quem-me-segurou",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quem Pode Livrar Como o Senhor",
+    "path": "quem-pode-livrar-como-senhor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Quero Mergulhar Nas Profundezas",
+    "path": "quero-mergulhar-nas-profundezas",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Rei Dos Reis",
+    "path": "rei-dos-reis",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Reunidos Aqui",
+    "path": "reunidos-aqui",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Rio de Águas Vivas",
+    "path": "rio-de-aguas-vivas",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Sacramento da Cura",
+    "path": "sacramento-da-cura",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Santo, Santo, Santo",
+    "path": "santo-santo-santo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Segura Na Mão de Deus",
+    "path": "segura-na-mao-de-deus",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Seja o Centro",
+    "path": "seja-o-centro",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Senhor Me Queima",
+    "path": "senhor-me-queima",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Senhor, Põe Teus Anjos Aqui",
+    "path": "senhor-poe-teus-anjos-aqui",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Senhor, Tende Piedade e Perdoai",
+    "path": "senhor-tende-piedade-e-pedoai-a-nossa-culpa",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Só Por Ti Jesus",
+    "path": "so-por-ti-jesus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Sonda-me",
+    "path": "sonda-me",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Sonhos de Deus ",
+    "path": "sonhos-de-deus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Sopra Em Nós",
+    "path": "sopra-em-nos",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Sou Teu Anjo",
+    "path": "sou-teu-anjo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Sou Um Milagre",
+    "path": "sou-um-milagre",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Te Louvarei (Draw Me Close)",
+    "path": "te-louvarei-draw-me-close",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Trindade",
+    "path": "trindade",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tudo É do Pai",
+    "path": "tudo-do-pai",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Vamos Celebrar Com Júbilo",
+    "path": "a-festa-do-rei-jesus-vamos-celebrar-com-jubilo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Vem Espírito",
+    "path": "vem-espirito",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Vem Espírito de Deus",
+    "path": "vem-espirito-de-deus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Vim Para Adorar",
+    "path": "vim-para-adorar-te",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vive o Menino Jesus",
+    "path": "vive-o-menino-jesus",
+    "default-tone": "G",
+    "categories": []
   }
 ]
