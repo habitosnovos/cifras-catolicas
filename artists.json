@@ -102,5 +102,25 @@
   {
     "name": "Juninho Cassimiro",
     "path": "juninho-cassimiro"
+  },
+  {
+    "name": "Músicas Litúrgicas",
+    "path": "musicas-liturgicas"
+  },
+  {
+    "name": "Aline Brasil",
+    "path": "aline-brasil"
+  },
+  {
+    "name": "Toca de Assis",
+    "path": "toca-de-assis"
+  },
+  {
+    "name": "Juliana de Paula",
+    "path": "juliana-de-paula"
+  },
+  {
+    "name": "Fátima Souza",
+    "path": "fatima-souza"
   }
 ]

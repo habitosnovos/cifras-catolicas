@@ -3034,5 +3034,11 @@
     "path": "yeshua",
     "default-tone": "Bm",
     "categories": []
+  },
+  {
+    "name": "Salmo 8",
+    "path": "salmo-8",
+    "default-tone": "Am",
+    "categories": []
   }
 ]

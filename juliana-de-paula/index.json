@@ -1,0 +1,218 @@
+[
+  {
+    "name": "A minh'alma glorifica o Senhor",
+    "path": "a-minhalma-glorifica-o-senhor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "A Vitória",
+    "path": "a-vitoria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "As Promessas do Bom Pastor",
+    "path": "as-promessas-do-bom-pastor",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Bem Aventurada",
+    "path": "bem-aventurada",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Bendito Seja Deus",
+    "path": "bendito-seja-deus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Com Alegria Cantar",
+    "path": "com-alegria-cantar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Creio Já",
+    "path": "creio-ja",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Cura-me",
+    "path": "cura-me",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "De Sempre e Para Sempre",
+    "path": "de-sempre-e-para-sempre",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Derrama Tua Graça",
+    "path": "derrama-tua-graca",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Deus Me Sustentará",
+    "path": "deus-me-sustentara",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Devoção",
+    "path": "devocao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Digno de Louvor",
+    "path": "digno-de-louvor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "És Maria",
+    "path": "s-maria",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Esperançar",
+    "path": "esperancar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Espírito de amor",
+    "path": "espirito-de-amor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Lugar de Deus",
+    "path": "lugar-de-deus",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Maria está conosco",
+    "path": "maria-esta-conosco",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Maria Passa Na Frente",
+    "path": "maria-passa-na-frente",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Milagre de Amor",
+    "path": "milagre-de-amor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Milagres da Partilha",
+    "path": "milagres-da-partilha",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Minha Vocação",
+    "path": "minha-vocacao",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "No Centro da Tua Vontade",
+    "path": "no-centro-da-tua-vontade",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Nós Te Louvamos",
+    "path": "nos-te-louvamos",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "O Alvo",
+    "path": "o-alvo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "O Personagem",
+    "path": "o-personagem",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "O Que Há Entre Nós",
+    "path": "o-que-ha-entre-nos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Senhor Virá",
+    "path": "o-senhor-vira",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Palavras de Vida Eterna",
+    "path": "palavras-de-vida-eterna",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Pietá",
+    "path": "pieta",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Presença Discreta",
+    "path": "presenca-discreta",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "salmo 29/30 - Eu vos Exalto, Ò Senhor",
+    "path": "salmo-2930-eu-vos-exalto-o-senhor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Salmo 85",
+    "path": "salmo-85",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Tô Com Saudade",
+    "path": "to-com-saudade",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Todo Poder",
+    "path": "todo-poder",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Vem Senhor",
+    "path": "vem-senhor",
+    "default-tone": "D",
+    "categories": []
+  }
+]

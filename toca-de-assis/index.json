@@ -1,0 +1,560 @@
+[
+  {
+    "name": "A Ovelha Sou Eu",
+    "path": "a-ovelha-sou-eu",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "A Primeira Que Comungou",
+    "path": "a-primeira-que-comungou",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Abraço de Paz / Cordeiro de Deus",
+    "path": "abraco-de-paz--cordeiro-de-deus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Adoramos Jesus",
+    "path": "adoramos-jesus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Adoramos o Verbo",
+    "path": "adoramos-verbo",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Alegria da Minha Juventude",
+    "path": "alegria-da-minha-juventude",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Amar-te No Sacramento",
+    "path": "amar-te-no-sacramento",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Aos pequeninos",
+    "path": "aos-pequeninos",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Aos Teus Pés",
+    "path": "aos-teus-pes",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Banquete do Cordeiro",
+    "path": "banquete-do-cordeiro",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Bendita Árvore da Cruz",
+    "path": "bendita-arvore-da-cruz",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Bom Pastor",
+    "path": "bom-pastor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Canto de Paz",
+    "path": "canto-de-paz",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Certeza do Último Lugar",
+    "path": "certeza-do-ltimo-lugar",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Colóquio Amoroso ( Eu Sou Para o Meu Amado)",
+    "path": "coloquio-amoroso-eu-sou-para-o-meu-amado",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Como posso",
+    "path": "como-posso",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Consagração de Amor",
+    "path": "consagracao-de-amor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Coração Em Comunhão",
+    "path": "coracao-em-comunhao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Corpo, Sangue, Alma e Divindade",
+    "path": "corpo-sangue-alma-divindade",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "dá-me tua graça",
+    "path": "da-me-tua-graca",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "De Coração Para Coração",
+    "path": "de-coracao-para-coracao",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Deus do Sacrário",
+    "path": "deus-do-sacrario",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Deus Presente",
+    "path": "deus-presente",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Discípulos da Cruz",
+    "path": "discipulos-da-cruz",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Divino Amigo",
+    "path": "divino-amigo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Doces Palavras",
+    "path": "doces-palavras",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Em Cada Sacrário Onde Possas Estar",
+    "path": "em-cada-sacrario-onde-possas-estar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Entrega Total",
+    "path": "entrega-total",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eterna Gratidão",
+    "path": "eterna-gratidao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Eu Sou Para o Meu Amado",
+    "path": "eu-sou-para-o-meu-amado",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eu Te Adoro",
+    "path": "eu-te-adoro",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Fazer-Te Companhia",
+    "path": "fazer-te-companhia",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Fiel Pelicano",
+    "path": "fiel-pelicano",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Flor Primorosa",
+    "path": "flor-primorosa",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Fogo Abrasador",
+    "path": "fogo-abrasador",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Glória",
+    "path": "gloria",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Glória a Deus Nas Alturas",
+    "path": "gliria-a-deus-nas-alturas",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Glória Ao Santíssimo",
+    "path": "gloria-ao-santissimo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Glórias da Virgem",
+    "path": "glorias-da-virgem",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Glória a Deus Nas Alturas (litúrgico)",
+    "path": "gloria-a-deus-nas-alturas-liturgico",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Grande Mãe de Deus",
+    "path": "grande-mae-de-deus",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Grito de Júbilo",
+    "path": "grito-de-jubilo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Herança da Igreja",
+    "path": "heranca-da-igreja",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Hino Ao Preciosissimo Sangue de Cristo",
+    "path": "hino-ao-preciosissimo-sangue-de-cristo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Hino da Amizade",
+    "path": "hino-da-amizade",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Homenagem do Coração",
+    "path": "homenagem-do-coracao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Isto É o Meu Corpo No Altar e Nas Ruas",
+    "path": "isto-o-meu-corpo-no-altar-nas-ruas",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Luta Desigual",
+    "path": "luta-desigual",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Mais Bela Pérola",
+    "path": "mais-bela-perola",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Me Deixa Ficar",
+    "path": "me-deixa-ficar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Meu Coração Te Adorará",
+    "path": "meu-coracao-te-adorara",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Meu Destino É a Cruz",
+    "path": "meu-destino-e-a-cruz",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Meu Deus, Meu Tudo",
+    "path": "meu-deus-meu-tudo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Meu Sumo Bem",
+    "path": "meu-sumo-bem",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Misericórdia Eucarística",
+    "path": "misericordia-eucaristica",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Morada",
+    "path": "morada",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Nós Te Adoramos",
+    "path": "nos-te-adoramos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Nossa História",
+    "path": "nossa-historia",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "O Amado",
+    "path": "o-amado",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "o deus de minh'alma",
+    "path": "o-deus-de-minhalma",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Onde Dormirão Os Pobres",
+    "path": "onde-dormirao-os-pobres",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Oração de São Francisco",
+    "path": "oracao-de-sao-francisco",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Pão Dos Anjos",
+    "path": "pao-dos-anjos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Pureza de Menina",
+    "path": "pureza-de-menina",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Que Tudo Vençamos Pelo Amor",
+    "path": "que-tudo-vencamos-pelo-amor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quero Fazer Valer",
+    "path": "quero-fazer-valer",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Reflexo",
+    "path": "reflexo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Renova-me",
+    "path": "renova-me",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Rumo Ao Altar",
+    "path": "rumo-ao-altar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Sacerdote Amigo",
+    "path": "sacerdote-amigo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Sacramento de Amor",
+    "path": "sacramento-de-amor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Sacramento de Luz",
+    "path": "sacramento-de-luz",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Salmo 18",
+    "path": "salmo-18",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Salmo 32 (33) - Santíssima Trindade - Feliz o Povo Que o Senhor Escolheu Por Sua Herança",
+    "path": "salmo-32-33-santissima-trindade-feliz-o-povo-que-o-senhor-escolheu-por-sua-heranca",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Santo Cheio Da Vossa Gloria",
+    "path": "santo-cheio-da-vossa-gloria",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Santo",
+    "path": "santo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Santo (Jesus Sacramentado, Nosso Deus Amado)",
+    "path": "santo-jesus-sacramentado-nosso-deus-amado",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Seguir Teus Passos",
+    "path": "seguir-teus-passos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Sela-me",
+    "path": "sela-me",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Selo Indelével",
+    "path": "selo-indelevel",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Só Um Adorador",
+    "path": "so-um-adorador",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Sublime Silêncio",
+    "path": "sublime-silencio",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tabernáculos",
+    "path": "tabernaculos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Te Amar",
+    "path": "te-amar",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Tempo de Adorar",
+    "path": "tempo-de-adorar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Teu Amado Teu Eleito",
+    "path": "teu-amado-teu-eleito",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Teu Tudo",
+    "path": "teu-tudo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Todo Deus, Todo Homem",
+    "path": "todo-deus-todo-homem",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tudo É Bom Perto de Ti",
+    "path": "tudo-bom-perto-de-ti",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Vem Ao Meu Encontro",
+    "path": "vem-ao-meu-encontro",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Vem Me Conduzir",
+    "path": "vem-me-conduzir",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Virgem do Silêncio",
+    "path": "virgem-do-silencio",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Viver Livre",
+    "path": "viver-livre",
+    "default-tone": "D",
+    "categories": []
+  }
+]

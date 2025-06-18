@@ -11938,5 +11938,11 @@
     "path": "vai-meu-irmao",
     "default-tone": "A",
     "categories": []
+  },
+  {
+    "name": "Batendo Palmas",
+    "path": "batendo-palmas",
+    "default-tone": "C",
+    "categories": []
   }
 ]

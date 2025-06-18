@@ -1,0 +1,236 @@
+[
+  {
+    "name": "A nossa oferta apresentamos",
+    "path": "a-nossa-oferta-apresentamos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Aleluia! Vossa Palavra É Verdade Orienta",
+    "path": "aleluia-vossa-palavra-e-verdade-orienta",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Antes da Morte",
+    "path": "antes-da-morte",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Aspergi-me Senhor e Serei Limpo",
+    "path": "aspergi-me-senhor-e-serei-limpo",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Bendito Seja Deus Pai",
+    "path": "bendito-seja-deus-pai",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Bendito Sejas Ó Rei da Glória",
+    "path": "bendito-sejas-o-rei-da-gloria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Celebremos Nossa Páscoa",
+    "path": "celebremos-nossa-pascoa",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Confessemos Os Nossos Pecados",
+    "path": "confessemos-os-nossos-pecados",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Confesso a Deus",
+    "path": "confesso-a-deus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Confiemo-nos Ao Senhor",
+    "path": "confiemo-nos-ao-senhor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Desde a Manhã",
+    "path": "desde-a-manha",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Deus Trino",
+    "path": "deus-trino",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "E Necessário Filho Meu, Que Te Alegres",
+    "path": "e-necessario-filho-meu-que-te-alegres",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Em Nome do Pai",
+    "path": "em-nome-do-pai",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Em Procissão",
+    "path": "em-procissao",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Invocação",
+    "path": "invocacao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Kyrie Eleison (J.F.)",
+    "path": "kyrie-eleison-j-f",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Louvor a Deus",
+    "path": "louvor-a-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Nasceu o Salvador",
+    "path": "nasceu-o-salvador",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Nosso Olhos",
+    "path": "nosso-olhos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Batismo Nos Torna Missionários",
+    "path": "o-batismo-nos-torna-missionarios",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Casal Foi Unido Por Deus",
+    "path": "o-casal-foi-unido-por-deus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ó Luz do Senhor",
+    "path": "o-luz-do-senhor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Pão Que Não Se Reparte, Não Mata a Fome",
+    "path": "o-pao-que-nao-se-reparte-nao-mata-a-fome",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Senhor Ressurgiu",
+    "path": "o-senhor-ressurgiu",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Senhor Subiu Ao Céu",
+    "path": "o-senhor-subiu-ao-ceu",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Ó Vem Emanuel (Advento, Canto Das Ofertas)",
+    "path": "o-vem-emanuel-advento-canto-das-ofertas",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Onde Reina o Amor",
+    "path": "onde-reina-o-amor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Pão e Vinho Te Apresentamos",
+    "path": "pao-e-vinho-te-apresentamos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Por Sua Morte",
+    "path": "por-sua-morte",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quando o Trigo Amadurece",
+    "path": "quando-o-trigo-amadurece",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Salmo 21(22) - Toca de Assis",
+    "path": "salmo-21-22-toca-de-assis",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Salmo 8 - Ó Senhor Nosso Deus, Como É Grande",
+    "path": "salmo-8-o-senhor-nosso-deus-como-e-grande",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Santo Kadosh",
+    "path": "santo-kadosh",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Santo",
+    "path": "santo",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Todos Os Nossos Encontros - Ofertorio",
+    "path": "todos-os-nossos-encontros-ofertorio",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tributo a São Cristóvão",
+    "path": "tributo-a-sao-cristovao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Tu Que Renovas",
+    "path": "tu-que-renovas",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Você Aqui Conosco",
+    "path": "voce-aqui-conosco",
+    "default-tone": "A",
+    "categories": []
+  }
+]

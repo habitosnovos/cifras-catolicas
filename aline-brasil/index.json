@@ -1,0 +1,434 @@
+[
+  {
+    "name": "À Meia Noite",
+    "path": "a-meia-noite",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "A Menina Dos Olhos de Deus",
+    "path": "a-menina-dos-olhos-de-deus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Acalma o Meu Coração",
+    "path": "acalma-o-meu-coracao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Acaso Não Sabeis",
+    "path": "acaso-nao-sabeis",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Augusta Rainha",
+    "path": "augusta-rainha",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Bençãos Que Não Têm Fim",
+    "path": "bencaos-que-nao-tem-fim",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Brilhar",
+    "path": "brilhar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Caminho No Deserto",
+    "path": "caminho-no-deserto",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Chegou Pentecostes",
+    "path": "chegou-pentecostes",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Chuva de Avivamento",
+    "path": "chuva-de-avivamento",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Colisão",
+    "path": "colisao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Colo de Pai",
+    "path": "colo-de-pai",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Confio Em Ti",
+    "path": "confio-em-ti",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Corpo e Sangue",
+    "path": "corpo-e-sangue",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Deus é Fiel",
+    "path": "deus-e-fiel",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Deus É Fogo",
+    "path": "deus-e-fogo",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Digno",
+    "path": "digno",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Diz",
+    "path": "diz",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Em Nome de Jesus",
+    "path": "em-nome-de-jesus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Entra",
+    "path": "entra",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "És Bem-vindo",
+    "path": "s-bem-vindo",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Escolhas",
+    "path": "escolhas",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Estás No Barco",
+    "path": "estas-no-barco",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Eu e Minha Casa",
+    "path": "eu-e-minha-casa",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Eu Sou do Imaculado Coração",
+    "path": "eu-sou-do-imaculado-coracao",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Eu Vou Voltar a Sonhar",
+    "path": "eu-vou-voltar-a-sonhar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Faz Chover",
+    "path": "faz-chover",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Filho Estou Contigo",
+    "path": "filho-estou-contigo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Fogo Alto",
+    "path": "fogo-alto",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Gratidão",
+    "path": "gratidao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ha Poder",
+    "path": "ha-poder-",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ha Poder",
+    "path": "ha-poder--",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ha Poder",
+    "path": "ha-poder",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hoje Deus Restaura",
+    "path": "hoje-deus-restaura",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Hora da Virada",
+    "path": "hora-da-virada",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Igual a Davi",
+    "path": "igual-a-davi",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Jugo Suave",
+    "path": "jugo-suave",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Lindo És",
+    "path": "lindo-es",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Mãe, Me Defende do Mal",
+    "path": "mae-me-defende-do-mal",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Maria Passa a Frente",
+    "path": "maria-passa-a-frente",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Maria, Rainha e Serva",
+    "path": "maria-rainha-e-serva",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Me Arrepender",
+    "path": "me-arrepender",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Meu Milagre",
+    "path": "meu-milagre",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Meu Redentor Vive",
+    "path": "meu-redentor-vive",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Na Cruz",
+    "path": "na-cruz",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Nada Temerei",
+    "path": "nada-temerei",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Não Há Deus Maior",
+    "path": "nao-ha-deus-maior",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Não Há Limites",
+    "path": "nao-ha-limites",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "No Deserto",
+    "path": "no-deserto",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "No Rio de Deus",
+    "path": "no-rio-de-deus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Obrigado Senhor",
+    "path": "obrigado-senhor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Os Olhos do Senhor",
+    "path": "os-olhos-do-senhor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Paciência",
+    "path": "paciencia",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Para Sempre Cantarei",
+    "path": "para-sempre-cantarei",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Pura Adoração",
+    "path": "pura-adoracao",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Quem Como Deus?",
+    "path": "quem-como-deus",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Quem Como Deus?",
+    "path": "quem-como-deus-",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Quem É Essa Mulher?",
+    "path": "quem-e-essa-mulher",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Quero Nascer de Novo (part. Frei Gilson)",
+    "path": "quero-nascer-de-novo-part-frei-gilson",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Quero Te Tocar",
+    "path": "quero-te-tocar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Rasgue os Céus",
+    "path": "rasgue-os-ceus--",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Rasgue os Céus",
+    "path": "rasgue-os-ceus-",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Rasgue os Céus",
+    "path": "rasgue-os-ceus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Recebe a Glória",
+    "path": "recebe-gloria",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Sararei o Brasil",
+    "path": "sararei-o-brasil",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sopra Sobre os Ossos",
+    "path": "sopra-sobre-os-ossos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Sopra,Espírito",
+    "path": "sopraespirito",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Sou Em Ti, És Em Mim",
+    "path": "sou-em-ti-es-em-mim",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Te Encontro Em Mim",
+    "path": "te-encontro-em-mim",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vale a Pena Viver",
+    "path": "vale-a-pena-viver",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vaso Quebrado",
+    "path": "vaso-quebrado",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Vinde Beber",
+    "path": "vinde-beber",
+    "default-tone": "G",
+    "categories": []
+  }
+]

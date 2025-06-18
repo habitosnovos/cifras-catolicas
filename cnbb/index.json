@@ -1,0 +1,1694 @@
+[
+  {
+    "name": "A Abstinência Quaresmal",
+    "path": "a-abstinencia-quaresmal",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "A Barca (Pescador de Homens)",
+    "path": "a-barca-pescador-de-homens",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "A Mim, Ó Deus, Fazei Justiça",
+    "path": "a-mim-o-deus-fazei-justica",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "A Mim, o Deus, Fazei Justiça",
+    "path": "a-mim-o-deus-fazei-justica-2",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "A Palavra de Deus Nos Orienta",
+    "path": "a-palavra-de-deus-nos-orienta",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "A Terra, Apavorada Emudeceu!",
+    "path": "a-terra-apavorada-emudeceu-",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "A Ti, Ó Deus, Celebra a Criação!",
+    "path": "a-ti-o-deus-celebra-a-criacao",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "A Vós, Senhor, Apresentamos!",
+    "path": "a-vos-senhor-apresentamos",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "À Vossa Direita Se Encontra a Rainha!",
+    "path": "a-vossa-direita-se-encontra-a-rainha",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Acamação Ao Evangelho - Vinde Benditos de Meu Pai",
+    "path": "acamacao-ao-evangelho-vinde-benditos-de-meu-pai",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Aceita Senhor",
+    "path": "aceita-senhor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Aclamação 14 Domingo Tempo Comum - Ano B",
+    "path": "aclamacao-14-domingo-tempo-comum-ano-b",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Aclamação a Evangelho - Festa da Sagrada Família",
+    "path": "aclamacao-a-evangelho-festa-da-sagrada-familia",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "(Aclamação Ao Evangelho - 14° Ao 17° Domingo Tempo Comum - B)",
+    "path": "aclamacao-ao-evangelho-14-ao-17-domingo-tempo-comum-b",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Aclamação Ao Evangelho - (18° Ao 21° Domingo Tempo Comum - B)",
+    "path": "aclamacao-ao-evangelho-18-ao-21-domingo-tempo-comum-b",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Aclamação Ao Evangelho - Convertei-vos e Crede No Evangelho",
+    "path": "aclamacao-ao-evangelho-convertei-vos-e-crede-no-evangelho",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Aclamação Ao Evangelho - Festa da Transfiguração do Senhor",
+    "path": "aclamacao-ao-evangelho-festa-da-transfiguracao-do-senhor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Aclamação ao Evangelho - Tempo do Natal",
+    "path": "aclamacao-ao-evangelho-tempo-do-natal",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Aclamação Ao Evangelho - Veio o Filho do Homem, a Fim de Servir",
+    "path": "aclamacao-ao-evangelho-veio-o-filho-do-homem-a-fim-de-servir",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Aclamação Ao Evangelho - Veio o Filho do Homem Para Servir",
+    "path": "aclamacao-ao-evangelho-veio-o-filho-do-homem-para-servir",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Aclamação Ao Evangelho - Vossa Palavra É Verdade, Orienta e Dá Vigor",
+    "path": "aclamacao-ao-evangelho-vossa-palavra-e-verdade-orienta-e-da-vigor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Aclamação Memorial",
+    "path": "aclamacao-memorial",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Adoração",
+    "path": "adoracao-cf-2000",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Agora o Tempo Se Cumpriu",
+    "path": "agora-tempo-se-cumpriu",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Ah! Se o Povo de Deus",
+    "path": "ah-se-o-povo-de-deus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Alegra-te Jerusalém",
+    "path": "alegra-te-jerusalem",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Alegres Vamos à Casa do Pai",
+    "path": "alegres-vamos-casa-do-pai",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Aleluia - Eis Que Virá o Nosso Deus",
+    "path": "aleluia-eis-que-vira-o-nosso-deus",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Aleluia! (Aclamação - 9° Ao 13° Domingos Tempo Comum - Ano B)",
+    "path": "aleluia-aclamacao-9-ao-13-domingos-tempo-comum-ano-b",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Aleluia Aclamação Ao Evangelho",
+    "path": "aleluia-aclamacao-ao-evangelho",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Aleluia! Despontou o Santo Dia Para Nós.",
+    "path": "aleluia-despontou-o-santo-dia-para-nos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Aleluia! Eu vos trago a boa nova de uma grande alegria.",
+    "path": "aleluia-eu-vos-trago-a-boa-nova-de-uma-grande-alegria",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Aleluia, Glória Ao Senhor",
+    "path": "aleluia-gloria-ao-senhor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Aleluia, O Nosso Cordeiro Pascal!",
+    "path": "aleluia-o-nosso-cordeiro-pascal-",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Aleluia! Rendei Graças Ao Senhor",
+    "path": "aleluia-rendei-gracas-ao-senhor",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Aleluia, Vem Mostra-nos, Ó Senhor",
+    "path": "aleluia-vem-mostra-nos-o-senhor",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Amanhecer",
+    "path": "amanhecer",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Amém",
+    "path": "amem",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Amemos a Bíblia",
+    "path": "amemos-a-biblia",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Anunciamos Tuas Grandes Riquezas",
+    "path": "anunciamos-tuas-grandes-riquezas",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Anúncio da Palavra",
+    "path": "anuncio-da-palavra",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ao Invocar-me, Hei de Ouvi-lo?",
+    "path": "ao-invocar-me-hei-de-ouvi-lo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ao Se Aproximar a Páscoa",
+    "path": "ao-se-aproximar-a-pascoa",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Aqui Viemos",
+    "path": "aqui-viemos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Aspergi-me, e Serei Puro",
+    "path": "aspergi-me-e-serei-puro",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Assim Que a Tua Glória!",
+    "path": "assim-que-a-tua-gloria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ave Maria, Cheia de Graça",
+    "path": "ave-maria-cheia-de-graca",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Banhados Em Cristo",
+    "path": "banhados-em-cristo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Bendito És Tu",
+    "path": "bendito-es-tu",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Bom É Louvar o Senhor, Nosso Deus",
+    "path": "bom-e-louvar-o-senhor-nosso-deus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Campanha da Fraternidade 2025",
+    "path": "campanha-da-fraternidade-2025",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Canção da Chegada",
+    "path": "cancao-da-chegada",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Canta, Minh'alma!",
+    "path": "canta-minh-alma",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Cantai, Cristãos",
+    "path": "cantai-cristaos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Canto de Conversão",
+    "path": "canto-de-conversao",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Canto de Entrada",
+    "path": "canto-de-entrada",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Canto Penitencial",
+    "path": "canto-penitencial",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Celebremos Nossa Páscoa",
+    "path": "celebremos-nossa-pascoa",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Com Alegria, Nos Damos As Mãos",
+    "path": "com-alegria-nos-damos-as-maos",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Como Alguém Que Semeia Na Terra!",
+    "path": "como-alguem-que-semeia-na-terra",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Como Fonte Ao Sedento",
+    "path": "como-fonte-ao-sedento",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Como o Raiar do Dia",
+    "path": "como-raiar-do-dia",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Como Vai Ser?",
+    "path": "como-vai-ser",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Comunhão - Campanha da Fraternidade 2013",
+    "path": "comunhao-cf-2013",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Confiantes Na Bondade de Deus",
+    "path": "confiantes-na-bondade-de-deus",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Convertei-vos, Voltai a Mim!",
+    "path": "convertei-vos-voltai-a-mim",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Convidado Nós Somos",
+    "path": "convidado-nos-somos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro de Deus IV",
+    "path": "cordeiro-de-deus-iv",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro de Deus V",
+    "path": "cordeiro-de-deus-v",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro de Deus",
+    "path": "cordeiro-de-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro de Deus III",
+    "path": "cordeiro-de-deus-iii",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro",
+    "path": "cordeiro-2",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro de Deus I",
+    "path": "cordeiro-de-deus-i",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro de Deus II",
+    "path": "cordeiro-de-deus-ii",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro de Deus VI",
+    "path": "cordeiro-de-deus-vi",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro de Deus VII",
+    "path": "cordeiro-de-deus-vii",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro VII",
+    "path": "cordeiro",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Cristo Ressucitou e Nós Com Ele!",
+    "path": "cristo-ressucitou-e-nos-com-ele",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Cristo Ressuscitou, o Sertão Se Abriu Em Flor",
+    "path": "cristo-ressuscitou-o-sertao-se-abriu-em-flor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Dá-nos a Bênção!",
+    "path": "da-nos-a-bencao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "De Mãos Dadas a Caminho",
+    "path": "de-maos-dadas-a-caminho",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Derramarei Sobre Vós Uma Água Pura",
+    "path": "derramarei-sobre-vos-uma-gua-pura",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Deus É Rico Em Misericórdia",
+    "path": "deus--rico-em-misericordia",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Deus É Santo",
+    "path": "deus-e-santo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Deus Nosso Pai Protetor",
+    "path": "deus-nosso-pai-protetor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Diaconia",
+    "path": "diaconia",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Dizei Aos Cativos: Saí",
+    "path": "dizei-aos-cativos-sai",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Doxologia Final Litúrgica",
+    "path": "doxologia-final-liturgica",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "É Agora o Tempo Favorável",
+    "path": "e-agora-o-tempo-favoravel",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "É Comunhão",
+    "path": "-comunhao",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "É Grande o Senhor!",
+    "path": "e-grande-o-senhor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "E Passando o Olhar Sobre o Povo!",
+    "path": "e-passando-o-olhar-sobre-o-povo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Eis a Procissão",
+    "path": "eis-a-procissao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Eis o Mistério da Fé",
+    "path": "eis-o-misterio-da-fe",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Eis o Tempo de Conversão",
+    "path": "eis-o-tempo-de-conversao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Eis Que Venho o Senhor Dos Senhores",
+    "path": "eis-que-venho-o-senhor-dos-senhores",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ele Chamará Por Mim",
+    "path": "ele-chamara-por-mim",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Ele Falava do Templo do Seu Corpo",
+    "path": "ele-falava-do-templo-do-seu-corpo",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Em Nome de Cristo Nós Vos Suplicamos",
+    "path": "em-nome-de-cristo-nos-vos-suplicamos",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Em Nome do Pai",
+    "path": "em-nome-do-pai",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Em Tua Mesa",
+    "path": "em-tua-mesa",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Emaús É Aqui! Emaús Somos Nós!",
+    "path": "emaus-e-aqui-emaus-somos-nos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ensina Teu Povo a Rezar",
+    "path": "ensina-teu-povo-rezar",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Então da Nuvem Luminosa",
+    "path": "entao-da-nuvem-luminosa",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Então, da Nuvem Luminosa (Canto de Comunhão)",
+    "path": "entao-da-nuvem-luminosa-canto-de-comunhao",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Entrando o Senhor Na Cidade Santa",
+    "path": "entrando-o-senhor-na-cidade-santa",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Enviados Ao Mundo Por Ti! (Canto de Comunhão - 15° D. Tempo Comum - B)",
+    "path": "enviados-ao-mundo-por-ti-canto-de-comunhao-15-d-tempo-comum-b",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Escuta, Senhor, a Voz do Povo Teu",
+    "path": "escuta-senhor-a-voz-do-povo-teu",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Espírito de Deus, Enviai Dos Céus",
+    "path": "espirito-de-deus-enviai-dos-ceus-sequencia-de-pentecostes",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Esta Mesa Nos Ensina",
+    "path": "esta-mesa-nos-ensina",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Está Na Hora de Nos Cumprimentar",
+    "path": "esta-na-hora-de-nos-cumprimentar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Este É Meu Filho Muito Amado",
+    "path": "este-e-meu-filho-muito-amado-2011",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Este É o Dia",
+    "path": "este-e-o-dia",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Este É o Dia do Senhor",
+    "path": "este-e-o-dia-do-senhor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Eu Quis Comer Esta Ceia Agora",
+    "path": "eu-quis-comer-esta-ceia-agora",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Eu Sou Feliz",
+    "path": "eu-sou-feliz",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Eu Vim Para Que Todos Tenham Vida",
+    "path": "eu-vim-para-que-todos-tenham-vida",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Evangelho - Campanha da Fraternidade 2013",
+    "path": "evangelho-cf-2013",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Exultai no Senhor, nossa força!",
+    "path": "exultai-no-senhor-nossa-forca",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Exulte de Alegria Quem Busca a Deus",
+    "path": "exulte-de-alegria-quem-busca-a-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Fala Assim Meu Coração",
+    "path": "fala-assim-meu-coracao-2011",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Fala, Senhor",
+    "path": "fala-senhor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Feliz o Homem Que da Culpa É Absolvido",
+    "path": "feliz-homem-que-da-culpa-absolvido",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Filho do Dono",
+    "path": "filho-do-dono",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Glória",
+    "path": "gloria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Glória - Oficial da Liturgia",
+    "path": "gloria-oficial-da-liturgia",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Glória a Deus Nas Alturas (Glória)",
+    "path": "gloria-a-deus-nas-alturas-gloria",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Glória a Deus No Céu",
+    "path": "gloria-a-deus-no-ceu",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Glória a Deus Nos Altos Céus",
+    "path": "gloria-a-deus-nos-altos-ceus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Glória a Vós, Ó Cristo",
+    "path": "gloria-a-vos--cristo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Glória Ao Pai do Céu Que Primeiro Nos Amou",
+    "path": "gloria-ao-pai-do-ceu-que-primeiro-nos-amou",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Glória, canta o coração que é feliz",
+    "path": "gloria-canta-o-coracao-que-e-feliz",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Glória e Louvor a Vós o Cristo",
+    "path": "gloria-e-louvor-a-vos-o-cristo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Glória, Glória Anjos do Céu",
+    "path": "gloria-gloria-anjos-do-ceu",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Glória I - Hino de Louvor",
+    "path": "gloria-i-hino-de-louvor",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Glória, Louvor e Honra a Ti",
+    "path": "gloria-louvor-honra-ti",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Hino Ano Vocacional 2023",
+    "path": "ano-vocacional-2023",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Hino Campanha da Fraternidade 2025",
+    "path": "hino-campanha-da-fraternidade-2025",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Hino Cf2024",
+    "path": "hino-cf2024",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 1981",
+    "path": "tu-deste-saude-hino-cf-1981",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2006",
+    "path": "hino-da-cf-2006",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2007",
+    "path": "hino-da-campanha-da-fraternindade-2007",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2008",
+    "path": "hino-da-campanha-da-fraternidade-2008",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2009",
+    "path": "hino-da-campanha-2009",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2010",
+    "path": "cf-2010",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2011",
+    "path": "hino-da-campanha-da-fraternidade-2011",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2012",
+    "path": "hino-da-cf-2012",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2013",
+    "path": "hino-da-campanha-da-fraternidade-2013",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2014",
+    "path": "hino-da-campanha-da-fraternidade-2014",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2015",
+    "path": "hino-da-campanha-da-fraternidade-2015",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2016",
+    "path": "hino-da-campanha-da-fraternidade-2016",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2017",
+    "path": "hino-campanha-da-fraternidade-2017",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2018",
+    "path": "hino-da-campanha-da-fraternidade-2018",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2019",
+    "path": "hino-da-campanha-da-fraternidade-2019",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2020",
+    "path": "hino-da-campanha-da-fraternidade-2020",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2021",
+    "path": "hino-da-campanha-da-fraternidade-2021",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2022",
+    "path": "hino-da-campanha-da-fraternidade-2022",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2023",
+    "path": "hino-da-campanha-da-fraternidade-2023",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2024",
+    "path": "hino-da-campanha-da-fraternidade-2024",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2025",
+    "path": "hino-da-campanha-da-fraternidade-2025-2",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2025",
+    "path": "hino-da-campanha-da-fraternidade-2025",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade Ecumênica 2016 - Quero Ver o Direito Brotar",
+    "path": "hino-da-cfe-2016-quero-ver-o-direito-brotar",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Hino Oficial da Semana da Família 2019",
+    "path": "hino-oficial-da-semana-da-familia-2019-cf-1994",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hino Oficial do Jubileu 2025 - Peregrinos de Esperança",
+    "path": "hino-oficial-do-jubileu-2025-peregrinos-de-esperanca",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Hoje, a Salvação",
+    "path": "hoje-salvacao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Honra, Glória, Poder e Louvor",
+    "path": "honra-gloria-poder-e-louvor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Hosana ao Filho de Davi",
+    "path": "hosana-ao-filho-de-davi",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Hosana e Viva",
+    "path": "hosana-viva",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Houve Um Homem Enviado Por Deus",
+    "path": "houve-um-homem-enviado-por-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Jesus Cristo Ontem e Hoje (Abertura Batismo do Senhor)",
+    "path": "jesus-cristo-ontem-e-hoje-abertura-batismo-do-senhor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Jesus Cristo Sois Bendito",
+    "path": "jesus-cristo-sois-bendito",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Jesus Disse Ao Homem!",
+    "path": "jesus-disse-ao-homem",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Jesus Disse Aos Discípulos (Canto de Comunhão)",
+    "path": "jesus-disse-aos-discipulos-canto-de-comunhao",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Joao Batista Clamou No Deserto",
+    "path": "joao-batista-clamou-no-deserto",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Lavai-me, Senhor, Lavai-me",
+    "path": "lavai-me-senhor-lavai-me",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Lembra, Senhor, o Teu Amor",
+    "path": "lembra-senhor-o-teu-amor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Louvai Ao Senhor Porque Ele É Bom",
+    "path": "louvai-ao-senhor-porque-ele--bom",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Louvor a Vós, Ó Cristo Rei",
+    "path": "louvor-vos-cristo-rei",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Louvor e Glória a Ti, Senhor",
+    "path": "louvor-e-gloria-a-ti-senhor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Luz Radiante, Luz de Alegria (Canto de Abertura)",
+    "path": "luz-radiante-luz-de-alegria-canto-de-abertura",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Maravilhas Fez Conosco o Senhor",
+    "path": "maravilhas-fez-conosco-senhor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Meu Coração Me Diz o Amor Me Amou e Se Entregou Por Mim, Jesus Ressuscitou",
+    "path": "meu-coracao-me-diz-o-amor-me-amou-e-se-entregou-por-mim-jesus-ressuscitou",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Misericórdia, Senhor, Misericórdia!",
+    "path": "misericordia-senhor-misericordia",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Mostrai-nos, Ó Senhor, Vossa Bondade!",
+    "path": "mostrai-nos-o-senhor-vossa-bondade",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Mulher, Ninguém Te Condenou?",
+    "path": "mulher-ninguem-te-condenou",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Na Ceia de Cristo",
+    "path": "na-ceia-de-cristo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Na Verdade o Cristo Ressuscitou",
+    "path": "na-verdade-o-cristo-ressuscitou",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Nada Te Assuste!",
+    "path": "nada-te-assuste",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Não Importa o Tamanho da Oferta!",
+    "path": "nao-importa-o-tamanho-da-oferta",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Não Se Deve Dizer Nada Posso Ofertar",
+    "path": "nao-se-deve-dizer-nada-posso-ofertar",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Nasceu Em Belém, a Casa do Pão",
+    "path": "nasceu-em-belem-a-casa-do-pao",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Neste Tempo Queremos Viver",
+    "path": "neste-tempo-queremos-viver",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "No Altar da Vocação",
+    "path": "no-altar-da-vocacao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "No Evangelho da Vida",
+    "path": "no-evangelho-da-vida",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "No Raiar de Um Novo Tempo",
+    "path": "no-raiar-de-um-novo-tempo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Nós Vivemos de Toda a Palavra",
+    "path": "nis-vivemos-de-toda-a-palavra-2011",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Nossos Dons Apresentamos",
+    "path": "nossos-dons-apresentamos",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "O Amor de Deus Foi Derramado",
+    "path": "o-amor-de-deus-foi-derramado",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "O Auxílio Virá do Senhor!",
+    "path": "o-auxilio-vira-do-senhor",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "O Espírito Da Missão",
+    "path": "o-espirito-da-missao-cifra",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Evangelho Olê Olá",
+    "path": "o-evangelho-ole-ola",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Homem Não Vive Somente de Pão",
+    "path": "o-homem-nao-vive-somente-de-pao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ó Morte Estas Vencida",
+    "path": "o-morte-estas-vencida",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Ó Pai, Teu Povo Busca Vida Nova",
+    "path": "o-pai-teu-povo-busca-vida-nova",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "O Pão Nosso",
+    "path": "o-pao-nosso",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ó Senhor, de Tudo Tendes Compaixão",
+    "path": "o-senhor-de-tudo-tendes-compaixao",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "O Senhor Deu a Comer o Pão do Céu",
+    "path": "o-senhor-deu-a-comer-o-pao-do-ceu",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Senhor É Minha Luz Ele É Minha Salvaçao",
+    "path": "o-senhor-e-minha-luz-ele-e-minha-salvacao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Senhor Fez Conhecer a Salvação",
+    "path": "o-senhor-fez-conhecer-a-salvacao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Senhor Fez Em Mim Maravilhas",
+    "path": "o-senhor-fez-em-mim-maravilhas",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Ó Senhor, Meu Deus!",
+    "path": "o-senhor-meu-deus",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Ó Senhor, Olha Pra Mim!",
+    "path": "o-senhor-olha-pra-mim",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Senhor Ressurgiu",
+    "path": "o-senhor-ressurgiu",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Senhor Virá Libertar o Seu Povo",
+    "path": "o-senhor-vira-libertar-o-seu-povo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Vosso Coração de Pedra",
+    "path": "o-vosso-coracao-de-pedra",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Oferenda - Campanha da Fraternidade 2013",
+    "path": "oferenda-cf-2013",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Oferendas",
+    "path": "oferendas",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Ofertar Pra Meu Povo É Dar a Vida",
+    "path": "ofertar-pra-meu-povo-e-dar-a-vida",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ofertório de 2002",
+    "path": "ofertorio-de-2002",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Onde o Amor e a Caridade",
+    "path": "onde-o-amor-e-a-caridade",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Oração de São Francisco",
+    "path": "oracao-de-sao-francisco",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Orai Sem Cessar",
+    "path": "orai-sen-cessar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Os Filhos Dos Hebreus",
+    "path": "os-filhos-dos-hebreus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Pai Se Este Cálice",
+    "path": "pai-se-este-calice",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Paz",
+    "path": "paz",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Pecador, Agora É Tempo",
+    "path": "pecador-agora-tempo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Pecador, Agora É Tempo",
+    "path": "pecador-agora-e-tempo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Pelas Dores Deste Mundo",
+    "path": "pelas-dores-deste-mundo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Piedade, Ó Senhor",
+    "path": "piedade-senhor",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Por Amor",
+    "path": "por-amor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Por Sua Morte, a Morte Viu o Fim",
+    "path": "por-sua-morte-a-morte-viu-o-fim",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Presença Real",
+    "path": "presenca-real",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Proclamação da Páscoa",
+    "path": "proclamo-da-pascoa",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Quando Invocar, Eu Atenderei",
+    "path": "quando-invocar-eu-atenderei",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Quando Tua Palavra, Senhor",
+    "path": "quando-tua-palavra-senhor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Quantas Vezes",
+    "path": "quantas-vezes",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quanto a Nós Devemos Gloriar-nos",
+    "path": "quanto-a-nos-devemos-gloriar-nos",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Que Estou Fazendo",
+    "path": "que-estou-fazendo",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Quem Poderá",
+    "path": "quem-podera",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Quem Quiser o Melhor Lugar - Comunhão",
+    "path": "quem-quiser-o-melhor-lugar-comunhao",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Quem Vive À Sombra do Senhor",
+    "path": "quem-vive-a-sombra-do-senhor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Recebe Este Canto do Chão",
+    "path": "recebe-este-canto-do-chao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Recebe Ó Pai Esta Nossa Oblação",
+    "path": "recebe-o-pai-esta-nossa-oblacao",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Recebe, Senhor",
+    "path": "recebe-senhor",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Reconciliai-vos",
+    "path": "reconciliai-vos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Rejubila-te, Cidade Santa!",
+    "path": "rejubila-te-cidade-santa",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ressureição de Lázaro",
+    "path": "ressureicao-de-lazaro",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Ressurge Cristo Sorrindo",
+    "path": "ressurge-cristo-sorrindo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Salmo 136",
+    "path": "salmo-136",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Salmo 16(17) - Inclinai o Vosso Ouvido e Escutai-me!",
+    "path": "salmo-16-17-inclinai-o-vosso-ouvido-e-escutai-me",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Salmo 34 - Bendirei Ao Senhor Todo Tempo",
+    "path": "salmo-34-bendirei-ao-senhor-todo-tempo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Salmo 50 - Piedade Ó Senhor",
+    "path": "salmo-50-piedade-o-senhor",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Salve ó Cristo Obediente",
+    "path": "salve-cristo-obediente",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Santo 4 ",
+    "path": "santo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Santo Iii",
+    "path": "santo-iii",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Santo IV",
+    "path": "santo-iv",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Santo",
+    "path": "santo-2",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Sê Bendito, Senhor, Para Sempre",
+    "path": "se-bendito-senhor-para-sempre",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Se Conhecesses o Dom de Deus",
+    "path": "se-conhecesses-o-dom-de-deus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Se o Grão de Trigo Não Morrer",
+    "path": "se-o-grao-de-trigo-nao-morrer",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Semeando a Unidade",
+    "path": "semeando-unidade",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Sempre Mais Jovem - Campanha da Fraternidade 2013",
+    "path": "sempre-mais-jovem--comunhao--cf-2013",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Senhor, Deus Nosso Pais Aqui Estamos",
+    "path": "senhor-deus-nosso-pais-aqui-estamos-2013",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Senhor, Eis Aqui o Teu Povo",
+    "path": "senhor-eis-aqui-teu-povo",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Senhor, Meu Deus, Obrigado, Senhor!",
+    "path": "senhor-meu-deus-obrigado-senhor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Senhor, Que Na Água e No Espírito",
+    "path": "senhor-que-na-gua-e-no-espirito",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Senhor, Que Na Cruz Perdoaste o Ladrao",
+    "path": "senhor-que-na-cruz-perdoaste-o-ladrao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Senhor Que Nos Mandastes Perdoar",
+    "path": "senhor-que-nos-mandastes-perdoar",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Senhor Que Viestes Salvar",
+    "path": "senhor-que-viestes-salvar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Senhor, Servo de Deus",
+    "path": "senhor-servo-de-deus",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Senhor, Tende Piedade de Nós!",
+    "path": "senhor-tende-piedade-de-nos",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Senhor, Venceste a Morte",
+    "path": "senhor-venceste-a-morte",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Sequência Pascal",
+    "path": "sequencia-pascal",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Seu Nome É Jesus Cristo",
+    "path": "seu-nome-e-jesus-cristo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Sl 143 (144) - Bendito Seja o Senhor, Meu Rochedo!",
+    "path": "sl-143-144-bendito-seja-o-senhor-meu-rochedo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Tanto Que Esperou Pudesse Um Dia",
+    "path": "tanto-que-esperou-pudesse-um-dia",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Tende Compaixão",
+    "path": "tende-compaixao",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Toda Terra Te Adore",
+    "path": "toda-terra-te-adore",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Todo Povo Sofredor",
+    "path": "todo-povo-sofredor",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Um Pouco Além do Presente",
+    "path": "um-pouco-alem-do-presente",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Uma Só Será a Mesa",
+    "path": "uma-so-sera-a-mesa",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Vamos, Então, Celebrar Um Banquete!",
+    "path": "vamos-entao-celebrar-um-banquete",
+    "default-tone": "F",
+    "categories": []
+  }
+]
