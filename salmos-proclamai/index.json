@@ -1,0 +1,446 @@
+[
+  {
+    "name": "10º Domingo do Tempo Comum (ano B)- Salmo 130(129)",
+    "path": "10o-domingo-do-tempo-comum-ano-b-salmo-130129-",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "11º Domingo do Tempo Comum (ano B) - salmo 92(91)",
+    "path": "11o-domingo-do-tempo-comum-ano-b-salmo-9291-",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "15º Domingo do Tempo Comum (ano B) - Salmo 85(84)",
+    "path": "15o-domingo-do-tempo-comum-ano-b-salmo-8584-",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "16º Domingo do Tempo Comum (ano B) - Salmo 23(22)",
+    "path": "16o-domingo-do-tempo-comum-ano-b-salmo-2322",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "17º Domingo do Tempo Comum (ano B) - Salmo 145(144)",
+    "path": "17o-domingo-do-tempo-comum-ano-b-salmo-145144-",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "18º Domingo do Tempo Comum (ano B) - Salmo 78(77)",
+    "path": "18o-domingo-do-tempo-comum-ano-b-salmo-7877-",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "19º Domingo do Tempo Comum (ano B) - Salmo 33(32)",
+    "path": "19o-domingo-do-tempo-comum-ano-b-salmo-3332",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "1º Domingo da Páscoa - Salmo 118(117)",
+    "path": "1o-domingo-da-pascoa-salmo-118117",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "1º Domingo da Quaresma (ano C) - Sl 91(90)",
+    "path": "1o-domingo-da-quaresma-ano-c-sl-9190",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "1º Domingo do Advento (ano C) - Salmo 25(24)",
+    "path": "1o-domingo-do-advento-ano-c-salmo-2524",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "21º Domingo do Tempo Comum (ano B) - Salmo 34(33)",
+    "path": "21o-domingo-do-tempo-comum-ano-b-salmo-3433",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "22º Domingo do Tempo Comum (ano B) - Salmo 15(14)",
+    "path": "22o-domingo-do-tempo-comum-ano-b-salmo-1514",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "23º Domingo do Tempo Comum (ano B) - Salmo 146(145)",
+    "path": "23o-domingo-do-tempo-comum-ano-b-salmo-146145-",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "24º Domingo do Tempo Comum (ano B) - Sl 115(114)",
+    "path": "24o-domingo-do-tempo-comum-ano-b-sl-115114",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "25º Domingo do Tempo Comum (ano B) - Salmo 54(53)",
+    "path": "25o-domingo-do-tempo-comum-ano-b-salmo-5453",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "26º Domingo do Tempo Comum (ano B) - Sl 19(18)",
+    "path": "26o-domingo-do-tempo-comum-ano-b-sl-1918",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "27º Domingo do Tempo Comum (ano B) - Salmo 128(127)",
+    "path": "27o-domingo-do-tempo-comum-ano-b-salmo-128127-",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "28º Domingo do Tempo Comum (ano B) - Salmo 90(89)",
+    "path": "28o-domingo-do-tempo-comum-ano-b-salmo-9089",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "29º Domingo do Tempo Comum (ano B) - Salmo 33(32)",
+    "path": "29o-domingo-do-tempo-comum-ano-b-salmo-3332",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "2º Domingo da Quaresma (ano B) - Salmo 116(115)",
+    "path": "2o-domingo-da-quaresma-ano-b-salmo-116115",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "2º Domingo do Tempo Comum (ano C) - Salmo 96(95)",
+    "path": "2o-domingo-do-tempo-comum-ano-c-salmo-9695",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "30º Domingo do Tempo Comum (ano B) - Salmo 126(125)",
+    "path": "30o-domingo-do-tempo-comum-ano-b-salmo-126125-",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "32º Domingo do Tempo Comum (ano B) - Salmo 146(145)",
+    "path": "32o-domingo-do-tempo-comum-ano-b-salmo-146145-",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "3º Domingo da Páscoa (ano B) - Salmo 4",
+    "path": "3o-domingo-da-pascoa-ano-b-salmo-4",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "3º Domingo da Quaresma (Ano B) - Salmo 19 (18)",
+    "path": "3o-domingo-da-quaresma-ano-b-salmo-19-18",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "3º Domingo do Advento (ano C) - Is 12,2-6",
+    "path": "3o-domingo-do-advento-ano-c-is-122-6",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "3º Domingo do Tempo Comum (ano C) - Salmo 19(18)",
+    "path": "3o-domingo-do-tempo-comum-ano-c-salmo-1918",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "4º Domingo da Quaresma (ano B) - Salmo 137 (136)",
+    "path": "4o-domingo-da-quaresma-ano-b-salmo-137-136",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "4º Domingo do Advento (ano C) - Salmo 80(79)",
+    "path": "4o-domingo-do-advento-ano-c-salmo-8079",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "4º Domingo do Tempo Comum (ano C) - Salmo 71(70)",
+    "path": "4o-domingo-do-tempo-comum-ano-c-salmo-7170",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "5º Domingo da Páscoa (ano B) - Salmo 22(21)",
+    "path": "5o-domingo-da-pascoa-ano-b-salmo-2221",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "5º Domingo da Quaresma (Ano B)",
+    "path": "5o-domingo-da-quaresma-ano-b",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "5º Domingo da Quaresma (ano C) - Sl 126(125)",
+    "path": "5o-domingo-da-quaresma-ano-c-sl-126125",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "5º Domingo do Tempo Comum (ano B) - Salmo 147 (146)",
+    "path": "5o-domingo-do-tempo-comum-ano-b-salmo-147-146",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "5º Domingo do Tempo Comum (ano C) - Sl 138(137)",
+    "path": "5o-domingo-do-tempo-comum-ano-c-sl-138137",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "6º Domingo da Páscoa (ano B) - Salmo 98(97)",
+    "path": "6o-domingo-da-pascoa-ano-b-salmo-9897",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "6º Domingo do Tempo Comum (ano B) - Salmo 32 (31)",
+    "path": "6o-domingo-do-tempo-comum-ano-b-salmo-32-31",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "6º Domingo do Tempo Comum (ano C) - Salmo 1",
+    "path": "6o-domingo-do-tempo-comum-ano-c-salmo-1",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "7º Domingo do Tempo Comum (ano C) - Salmo 103(102)",
+    "path": "7o-domingo-do-tempo-comum-ano-c-salmo-103102",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "9º Domingo do Tempo Comum (ano B) - Salmo 81(80)",
+    "path": "9o-domingo-do-tempo-comum-ano-b-salmo-8180",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Batismo do Senhor - Salmo 29(28)",
+    "path": "batismo-do-senhor-salmo-2928",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Comemoração de Todos Os Fiéis Defuntos (missa I) - Salmo 27(26)",
+    "path": "comemoracao-de-todos-os-fieis-defuntos-missa-i-salmo-2726",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Domingo de Ramos - Salmo 22(21)",
+    "path": "domingo-de-ramos-salmo-2221",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Missa da Ceia do Senhor - Salmo 116(115)",
+    "path": "missa-da-ceia-do-senhor-salmo-116115",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Natal (Missa da Noite) - Sl 96(95)",
+    "path": "natal-missa-da-noite-sl-9695",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Natal (Missa do dia) - Sl 98(97)",
+    "path": "natal-missa-do-dia-sl-9897",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Homem Não Vive Somente de Pão",
+    "path": "salmo-118-o-homem-nao-vive-somente-de-pao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Quarta Feira de Cinzas - Salmo 51(50)",
+    "path": "quarta-feira-de-cinzas-salmo-5150",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Sábado Santo - Ex 15,1-2.3-4.5-6.17-18",
+    "path": "sabado-santo-ex-151-23-45-617-18",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sábado Santo - Is 12,2-3.4bcd.5-6",
+    "path": "sabado-santo-is-122-34bcd5-6",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sábado Santo - Salmo 104 (103)",
+    "path": "sabado-santo-salmo-104-103",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Sábado Santo - Salmo 118(117) - Oitavo Salmo",
+    "path": "sabado-santo-salmo-118118-oitavo-salmo",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Sábado Santo - Salmo 16 (15)",
+    "path": "sabado-santo-salmo-16-15",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Sábado Santo - Salmo 19(18)",
+    "path": "sabado-santo-salmo-1918",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Sábado Santo - Salmo 30 (29)",
+    "path": "sabado-santo-salmo-30-29",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Sábado Santo - Salmo 42(41)",
+    "path": "sabado-santo-salmo-4241",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Sagrada Família: Jesus, Maria e José - Salmo 128 (127)",
+    "path": "sagrada-familia-jesus-maria-e-jose-salmo-128-127",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Salmo 25 (24) - 1º Domingo da Quaresma (ano B)",
+    "path": "salmo-25-24-1o-domingo-da-quaresma-ano-b",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Sequência da Páscoa",
+    "path": "sequencia-da-pascoa",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Sequência de Corpus Christi",
+    "path": "sequencia-de-corpus-christi-",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Sequência de Pentecostes",
+    "path": "sequencia-de-pentecostes",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Sexta-feira da Paixão - Salmo 31(30)",
+    "path": "sexta-feira-da-paixao-salmo-3130",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Sexta-Feira da Paixão do Senhor - Salmo 31(30)",
+    "path": "sexta-feira-da-paixao-do-senhor-salmo-3130",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Solenidade da Ascensão do Senhor - Salmo 47(46)",
+    "path": "solenidade-da-ascensao-do-senhor-salmo-4746",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Solenidade da Assunção de Nossa Senhora - Salmo 45(44)",
+    "path": "solenidade-da-assuncao-de-nossa-senhora-salmo-4544-",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Solenidade da Epifania do Senhor - Salmo 73(72)",
+    "path": "solenidade-da-epifania-do-senhor-salmo-7372",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Solenidade da Imaculada Conceição de Maria - Salmo 98(97)",
+    "path": "solenidade-da-imaculada-conceicao-de-maria-salmo-9897",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Solenidade da Natividade de São João Batista - Salmo 139(138)",
+    "path": "solenidade-da-natividade-de-sao-joao-batista-salmo-139138-",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Solenidade da Santíssima Trindade (ano B) - Salmo 33(32)",
+    "path": "solenidade-da-santissima-trindade-ano-b-salmo-3332",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Solenidade de Jesus Cristo, Rei do Universo - Sl 93(92)",
+    "path": "solenidade-de-jesus-cristo-rei-do-universo-sl-9392",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Solenidade de Nossa Senhora Aparecida - Salmo 45(44)",
+    "path": "solenidade-de-nossa-senhora-aparecida-salmo-4544",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Solenidade de Santa Mãe de Deus, Maria - Salmo 67(66)",
+    "path": "solenidade-de-santa-mae-de-deus-maria-salmo-6766",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Solenidade de São Pedro e São Paulo Apóstolos - Salmo 34(33)",
+    "path": "solenidade-de-sao-pedro-e-sao-paulo-apostolos-salmo-3433",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Solenidade de Todos Os Santos - Salmo 24(23)",
+    "path": "solenidade-de-todos-os-santos-salmo-2423-",
+    "default-tone": "A",
+    "categories": []
+  }
+]
