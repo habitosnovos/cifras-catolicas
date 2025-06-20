@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Hino de Louvor",
+    "path": "hino-de-louvor",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Confesso a Deus",
+    "path": "confesso-a-deus",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Glória a Deus Nas Alturas",
+    "path": "gloria-a-deus-nas-alturas",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro de Deus",
+    "path": "cordeiro-de-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Santo",
+    "path": "santo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Senhor e Filho de Deus",
+    "path": "senhor-e-filho-de-deus",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Tende Compaixão de Nós Senhor",
+    "path": "tende-compaixao-de-nos-senhor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Aclamação ao Evangelho - Fiéis Defuntos",
+    "path": "aclamacao-ao-evangelho-fieis-defuntos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Proclamação da Páscoa",
+    "path": "proclamacao-da-pascoa",
+    "default-tone": "E",
+    "categories": []
+  }
+]

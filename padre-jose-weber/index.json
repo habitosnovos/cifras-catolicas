@@ -1,0 +1,122 @@
+[
+  {
+    "name": "A Palavra É a Semente (Aclamação)",
+    "path": "a-palavra-e-a-semente-aclamacao",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Aclamação Memorial",
+    "path": "aclamacao-memorial",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Alvo Mais Que a Neve",
+    "path": "alvo-mais-que-neve",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Aos Que Morreram Com Cristo",
+    "path": "aos-que-morreram-com-cristo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ave, Rainha do Céu",
+    "path": "ave-rainha-do-ceu",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Bendito Seja o Cordeiro",
+    "path": "bendito-seja-cordeiro",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Dia e noite",
+    "path": "dia-noite",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eis o Tempo de Conversão",
+    "path": "eis-o-tempo-de-conversao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Eu Louvarei",
+    "path": "eu-louvarei",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Fazei Justiça, Ó Meu Deus",
+    "path": "fazei-justica-o-meu-deus",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Jesus de Nazaré",
+    "path": "jesus-de-nazare",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Jesus Nos Disse: “Sois o Sal da Terra”",
+    "path": "jesus-nos-disse-sois-o-sal-da-terra",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Maria Guardava No Seu Coração",
+    "path": "maria-guardava-no-seu-coracao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Senhor É Bom Eterno É Seu Amor",
+    "path": "o-senhor--bom-eterno--seu-amor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Prova de Amor Maior Não Há",
+    "path": "prova-de-amor-maior-nao-ha",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Senhor , Vem Salvar",
+    "path": "senhor--vem-salvar",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Sequência Pascal",
+    "path": "sequencia-pascal",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Sim, eu Quero",
+    "path": "sim-eu-quero",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tende Compaixão de Nós",
+    "path": "tende-compaixao-de-nos",
+    "default-tone": "Fm",
+    "categories": []
+  },
+  {
+    "name": "uma voz do céu ressoa",
+    "path": "uma-voz-do-ceu-ressoa",
+    "default-tone": "C",
+    "categories": []
+  }
+]

@@ -1690,5 +1690,77 @@
     "path": "vamos-entao-celebrar-um-banquete",
     "default-tone": "F",
     "categories": []
+  },
+  {
+    "name": "Vamos Juntos Para a Mesa",
+    "path": "vamos-juntos-para-mesa",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vamos Preparar a Ceia",
+    "path": "vamos-preparar-a-ceia",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Vem, Divino Espírito (Refrão Orante)",
+    "path": "vem-divino-espirito-refrao-orante",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Vem Eu Mostrarei",
+    "path": "vem-eu-mostrarei",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vem o Deus da Vida Vem Nos Ajudar",
+    "path": "vem-deus-da-vida-vem-nos-ajudar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Vem, Ó Meu Povo Partilhar da Minha Mesa",
+    "path": "vem--meu-povo-partilhar-da-minha-mesa",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Vem Senhor Nos Salvar",
+    "path": "vem-senhor-nos-salvar",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Venha, Povo de Deus, Celebrar",
+    "path": "venha-povo-de-deus-celebrar",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Volta Meu Povo Ao Teu Senhor",
+    "path": "volta-meu-povo-ao-teu-senhor-2017",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Volta o Teu Olhar Senhor",
+    "path": "volta-o-teu-olhar-senhor-2011",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vós Sois Meu Pastor, Ó Senhor",
+    "path": "vos-sois-meu-pastor-o-senhor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vossa Luz",
+    "path": "vossa-luz",
+    "default-tone": "C",
+    "categories": []
   }
 ]

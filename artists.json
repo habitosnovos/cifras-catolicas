@@ -122,5 +122,41 @@
   {
     "name": "Fátima Souza",
     "path": "fatima-souza"
+  },
+  {
+    "name": "CNBB",
+    "path": "cnbb"
+  },
+  {
+    "name": "Frei Gilson",
+    "path": "frei-gilson"
+  },
+  {
+    "name": "Missal Romano",
+    "path": "missal-romano"
+  },
+  {
+    "name": "José Acácio Santana",
+    "path": "jose-acacio-santana"
+  },
+  {
+    "name": "Reginaldo Veloso",
+    "path": "reginaldo-veloso"
+  },
+  {
+    "name": "Padre José Weber",
+    "path": "padre-jose-weber"
+  },
+  {
+    "name": "Colo de Deus",
+    "path": "comunidade-catolica-colo-de-deus"
+  },
+  {
+    "name": "Monsenhor Jonas Abib",
+    "path": "padre-jonas"
+  },
+  {
+    "name": "Eugênio Jorge",
+    "path": "eugenio-jorge"
   }
 ]

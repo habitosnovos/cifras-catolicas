@@ -1,0 +1,302 @@
+[
+  {
+    "name": "A Noite Se Iluminou",
+    "path": "a-noite-se-iluminou",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Abre Tua Porta",
+    "path": "abre-tua-porta",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Bendito Senhor Deus Por Este Pão",
+    "path": "bendito-senhor-deus-por-este-pao",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Caminhando Com Maria",
+    "path": "caminhando-com-maria",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Como É Bonito, Senhor",
+    "path": "como-e-bonito-senhor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Coração",
+    "path": "coracao",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Coro Das Raças",
+    "path": "coro-das-racas",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Dai-nos Senhor Vossa Luz e Vossos Dons",
+    "path": "dai-nos-senhor-vossa-luz-e-vossos-dons",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "É Natal, Um Tempo de Esperança",
+    "path": "e-natal-um-tempo-de-esperanca",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "É Preciso Parar",
+    "path": "e-preciso-parar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Entremos Com Grande Alegria",
+    "path": "entremos-com-grande-alegria",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Glória a Deus Nas Alturas",
+    "path": "gloria-a-deus-nas-alturas",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "HINO A  SANTA PAULINA",
+    "path": "hino-a-santa-paulina",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Hino Ao Bom Jesus",
+    "path": "hino-ao-bom-jesus",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Natal de Jesus (A Noite Enquanto a Cidade Sonhava)",
+    "path": "natal-de-jesus-a-noite-enquanto-a-cidade-sonhava",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Natal É Conversão",
+    "path": "natal-e-conversao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Natal É Vida Que Nasce",
+    "path": "natal-e-vida-que-nasce",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Nós Estamos Aqui Reunidos",
+    "path": "nos-estamos-aqui-reunidos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ó Mãe, o Povo Não Tem Pão (Maria, Medianeira Divinal)",
+    "path": "o-mae-o-povo-nao-tem-pao-maria-medianeira-divinal",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Mesmo Cristo Que Passava",
+    "path": "o-mesmo-cristo-que-passava",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "O Senhor Deus É Meu Pastor",
+    "path": "o-senhor-deus-e-meu-pastor",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Ofertas de Dons",
+    "path": "ofertas-de-dons",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Oratorio de Natal - Quadro I - As Profecias",
+    "path": "oratorio-de-natal-quadro-i-as-profecias",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Oratorio de Natal - Quadro II - Anunciação",
+    "path": "oratorio-de-natal-quadro-ii-anunciacao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Oratorio de Natal - Quadro III - Visitação",
+    "path": "oratorio-de-natal-quadro-iii-visitacao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Oratorio de Natal - Quadro IV - João Batista",
+    "path": "oratorio-de-natal-quadro-iv-joao-batista",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Oratorio de Natal - Quadro IX - Coro Final",
+    "path": "oratorio-de-natal-quadro-ix-coro-final",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Oratorio de Natal - Quadro V - Nascimento de Cristo",
+    "path": "oratorio-de-natal-quadro-v-nascimento-de-cristo",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Oratorio de Natal - Quadro VI - Acalanto de Jesus",
+    "path": "oratorio-de-natal-quadro-vi-acalanto-de-jesus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Oratorio de Natal - Quadro VII - Revelação do Natal Aos Pastores",
+    "path": "oratorio-de-natal-quadro-vii-revelacao-do-natal-aos-pastores",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Oratorio de Natal - Quadro VIII - Revelação do Natal Aos Reis",
+    "path": "oratorio-de-natal-quadro-viii-revelacao-do-natal-aos-reis",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Os Reis Levaram a Jesus",
+    "path": "os-reis-levaram-a-jesus",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Padroeira do Brasil",
+    "path": "padroeira-do-brasil",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Pão da Vida (Comunhão)",
+    "path": "pao-da-vida-comunhao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Pastor do Povo Santo",
+    "path": "pastor-do-povo-santo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Pelas Mãos de Maria - (Ação de Graças)",
+    "path": "pelas-maos-de-maria-acao-de-gracas",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Quero Que Faças Em Mim (Evangelho - Meditação)",
+    "path": "quero-que-facas-em-mim-evangelho-meditacao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Recebe Nosso Dom",
+    "path": "recebe-nosso-dom",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Santa Mãe, Maria",
+    "path": "santa-mae-maria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Santo - Senhor Deus do Universo",
+    "path": "santo-senhor-deus-do-universo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sede de Deus (Quem Tiver Sede Venha a Mim e Beba)",
+    "path": "sede-de-deus-quem-tiver-sede-venha-a-mim-e-beba",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Senhor Piedade",
+    "path": "senhor-piedade",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Senhora Mãe da Vida (Comunhão)",
+    "path": "senhora-mae-da-vida-comunhao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tende Piedade de Nós (Santissima Trindade)",
+    "path": "tende-piedade-de-nos-santissima-trindade",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Tu És a Razão da Jornada",
+    "path": "tu-es-razao-da-jornada",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tua Mesa, Senhor",
+    "path": "tua-mesa-senhor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vem, Santo Espírito, Vem",
+    "path": "vem-santo-espirito-vem",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Vinde a Mim Se Estais Aflitos",
+    "path": "vinde-a-mim-se-estais-aflitos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Vinde, Senhor (Entrada)",
+    "path": "vinde-senhor-entrada",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Visitação de Nossa Senhora",
+    "path": "visitacao-de-nossa-senhora",
+    "default-tone": "C",
+    "categories": []
+  }
+]

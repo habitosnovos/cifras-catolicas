@@ -1,0 +1,170 @@
+[
+  {
+    "name": "A Tua Palavra É Verdade",
+    "path": "a-tua-palavra-verdade",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Acendimento da Coroa do Advento - 4º Domingo",
+    "path": "acendimento-da-coroa-do-advento-4o-domingo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Aleluia - Deus, Nosso Pai",
+    "path": "aleluia-deus-nosso-pai",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Aleluia, Aleluia, Aleluia",
+    "path": "aleluia-aleluia-aleluia",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Aleluia! Eis a Serva do Senhor!",
+    "path": "aleluia-eis-a-serva-do-senhor",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Antífona do Ó - Ó Sabedoria",
+    "path": "antifona-do-o-o-sabedoria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Cântico de Zacarias",
+    "path": "cantico-de-zacarias",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Da Cepa Brotou a Rama",
+    "path": "da-cepa-brotou-a-rama",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Das Alturas Orvalhem Os Céus",
+    "path": "das-alturas-orvalhem-os-ceus",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Eis Que de Longe Vem o Senhor",
+    "path": "eis-que-de-longe-vem-o-senhor",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Eu Vi Foi Água",
+    "path": "eu-vi-foi-agua",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Fermento na Massa",
+    "path": "fermento-na-massa",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Gloria Ao Senhor",
+    "path": "gloria-ao-senhor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Lá Vem Das Senzalas",
+    "path": "la-vem-das-senzalas",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Nasceu-nos Hoje Um Menino",
+    "path": "nasceu-nos-hoje-um-menino",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "O Espírito do Senhor Me Ungiu",
+    "path": "o-espirito-do-senhor-me-ungiu",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Quando Tú Senhor, Teu Espírito Envias",
+    "path": "quando-tu-senhor-teu-espirito-envias",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Quero Cantar Ao Senhor (salmo 145)",
+    "path": "quero-cantar-ao-senhor-salmo-145",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Ressuscitei Senhor",
+    "path": "ressuscitei-senhor",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Salve Ó Cristo Obediente",
+    "path": "salve-o-cristo-obediente",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Sê a Rocha Que Me Abriga",
+    "path": "se-a-rocha-que-me-abriga--",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sê a Rocha Que Me Abriga",
+    "path": "se-a-rocha-que-me-abriga-4",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Sê a Rocha Que Me Abriga",
+    "path": "se-a-rocha-que-me-abriga",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sê a Rocha Que Me Abriga",
+    "path": "se-a-rocha-que-me-abriga-",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Um Cáleci Foi Levantado",
+    "path": "um-caleci-foi-levantado",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Um Cálice Foi Levantado",
+    "path": "um-calice-foi-levantado",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Uma Coisa Te Falta Irmão",
+    "path": "uma-coisa-te-falta-irmao",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vida, o Sonho de Deus",
+    "path": "vida-o-sonho-de-deus",
+    "default-tone": "G",
+    "categories": []
+  }
+]

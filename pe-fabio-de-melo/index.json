@@ -1072,5 +1072,11 @@
     "path": "vou-cantar-teu-amor",
     "default-tone": "B",
     "categories": []
+  },
+  {
+    "name": "Chuva de Graças",
+    "path": "chuva-de-gracas",
+    "default-tone": "C",
+    "categories": []
   }
 ]
