@@ -118,5 +118,11 @@
     "path": "uma-voz-do-ceu-ressoa",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "Tu És o Messias",
+    "path": "tu-es-o-messias",
+    "default-tone": "D",
+    "categories": []
   }
 ]

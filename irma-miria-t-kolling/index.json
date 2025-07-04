@@ -1402,5 +1402,11 @@
     "path": "salmo-71-72-as-nacoes-de-toda-a-terra-epifania-do-senhor",
     "default-tone": "F",
     "categories": []
+  },
+  {
+    "name": "Hino de São Pedro e São Paulo",
+    "path": "hino-de-sao-pedro-e-sao-paulo",
+    "default-tone": "C",
+    "categories": []
   }
 ]

@@ -2866,5 +2866,11 @@
     "path": "yes-i-believe-in-god",
     "default-tone": "E",
     "categories": []
+  },
+  {
+    "name": "Eu Sei Que Estás No Céu",
+    "path": "eu-sei-que-estas-no-ceu",
+    "default-tone": "A",
+    "categories": []
   }
 ]

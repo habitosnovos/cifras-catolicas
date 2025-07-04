@@ -1,0 +1,302 @@
+[
+  {
+    "name": "A Última Canção",
+    "path": "a-ltima-cancao",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Ad Calendae",
+    "path": "ad-calendae",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ágora",
+    "path": "gora",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Algúria (Ou Disúria?)",
+    "path": "alguria-ou-disuria",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Antiquário",
+    "path": "antiquario",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Aonde Está Deus?",
+    "path": "aonde-esta-deus",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Ares, Desares, Azares",
+    "path": "ares-desares-azares",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "As Pequenas Coisas",
+    "path": "as-pequenas-coisas",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Atheos",
+    "path": "atheos",
+    "default-tone": "Fm",
+    "categories": []
+  },
+  {
+    "name": "Calmaria",
+    "path": "calmaria",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Cativa-me",
+    "path": "cativa-me",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Concerto N°108",
+    "path": "concerto-n108",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Diminuto",
+    "path": "diminuto",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Do Alto da Pedra",
+    "path": "do-alto-da-pedra",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Do Jeito Que Era Antes",
+    "path": "do-jeito-que-era-antes",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Ébrio Hábito",
+    "path": "ebrio-habito",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eu Estarei",
+    "path": "eu-estarei",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Eu Sou (Part. ID2)",
+    "path": "eu-sou-part-id2",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Extraordinária Vida",
+    "path": "extraordinaria-vida",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Extraordinária Vida",
+    "path": "extraordinaria-vida-2",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Flor de Outono",
+    "path": "flor-de-outono",
+    "default-tone": "Bbm",
+    "categories": []
+  },
+  {
+    "name": "Floresta de Bétulas",
+    "path": "floresta-de-betulas",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Fluctuat Nec Mergitur",
+    "path": "fluctuat-nec-mergitur",
+    "default-tone": "G#m",
+    "categories": []
+  },
+  {
+    "name": "Impermanência",
+    "path": "impermanencia",
+    "default-tone": "G#m",
+    "categories": []
+  },
+  {
+    "name": "Íngreme",
+    "path": "ngreme-",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Íngreme",
+    "path": "ngreme",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "(Ir)regular",
+    "path": "irregular",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Isaías 53 (Troféu Louvemos o Senhor)",
+    "path": "isaias-53-trofeu-louvemos-o-senhor",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Jardim - Ao Vivo Summer Beats Hopi Hari 2025",
+    "path": "jardim-ao-vivo-summer-beats-hopi-hari-2025",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Lonely",
+    "path": "lonely",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Madeiro",
+    "path": "madeiro",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Mar Bravo",
+    "path": "mar-bravo",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Mercúrio",
+    "path": "mercurio",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Mistakes And Regrets",
+    "path": "mistakes-and-regrets",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Momento Em Pausa",
+    "path": "momento-em-pausa",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Não É o Fim",
+    "path": "nao-e-o-fim",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "O Ópio e a Cicatriz",
+    "path": "o-pio-e-a-cicatriz",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Onze",
+    "path": "onze",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Onze",
+    "path": "onze-",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Outra Vez Boulervard",
+    "path": "outra-vez-boulervard",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Permissão",
+    "path": "permissao",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Poema de Niemöller",
+    "path": "poema-de-niemoller",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Réquiem",
+    "path": "requiem",
+    "default-tone": "Bbm",
+    "categories": []
+  },
+  {
+    "name": "Sereno",
+    "path": "sereno",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Sois Sós",
+    "path": "sois-sos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Un Peu D'air",
+    "path": "un-peu-dair",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Verso e Frente",
+    "path": "verso-e-frente",
+    "default-tone": "Bb",
+    "categories": []
+  },
+  {
+    "name": "Viena",
+    "path": "viena",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Yahweh",
+    "path": "yahweh-",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Yahweh",
+    "path": "yahweh",
+    "default-tone": "B",
+    "categories": []
+  }
+]

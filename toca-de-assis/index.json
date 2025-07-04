@@ -556,5 +556,11 @@
     "path": "viver-livre",
     "default-tone": "D",
     "categories": []
+  },
+  {
+    "name": "Sequência Corpus Christ",
+    "path": "sequencia-corpus-christ",
+    "default-tone": "Bb",
+    "categories": []
   }
 ]

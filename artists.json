@@ -162,5 +162,29 @@
   {
     "name": "Salmos Proclamai",
     "path": "salmos-proclamai"
+  },
+  {
+    "name": "Rosa de Saron",
+    "path": "rosa-de-saron-musicas"
+  },
+  {
+    "name": "Walmir Alencar",
+    "path": "walmir-alencar"
+  },
+  {
+    "name": "Eliana Ribeiro",
+    "path": "eliana-ribeiro"
+  },
+  {
+    "name": "Guilherme de Sá",
+    "path": "guilherme-de-sa"
+  },
+  {
+    "name": "Padre Zeca",
+    "path": "padre-zeca"
+  },
+  {
+    "name": "Suely Façanha",
+    "path": "suely-facanha"
   }
 ]

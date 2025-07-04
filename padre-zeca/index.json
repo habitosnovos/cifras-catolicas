@@ -1,0 +1,242 @@
+[
+  {
+    "name": "A Barca (Pescador de Homens)",
+    "path": "a-barca-pescador-de-homens",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Aleluia, quando estamos unidos",
+    "path": "aleluia-quando-estamos-unidos",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Amigo Certo",
+    "path": "amigo-certo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Autoridade e Poder",
+    "path": "autoridade-e-poder",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Celebrai",
+    "path": "celebrai",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Conheço Um Coração (Jesus Manda Teu Espirito)",
+    "path": "conheco-um-coracao-jesus-manda-teu-espirito",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Deus É Dez, Deus É Show",
+    "path": "deus-dez-deus-show",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Deus Trino",
+    "path": "deus-trino",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Eu celebrarei",
+    "path": "eu-celebrarei",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Eu Preciso de Você",
+    "path": "eu-preciso-de-voce",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Eu Sou o Que Sou",
+    "path": "eu-sou-que-sou",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Eu Te Chamo Jesus",
+    "path": "eu-te-chamo-jesus",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Exército de Deus",
+    "path": "exercito-de-deus",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Hosana",
+    "path": "hosana",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Hosana É o Nosso Rei",
+    "path": "hosana-e-o-nosso-rei",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hozana",
+    "path": "hozana",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Louvado Seja o Meu Senhor",
+    "path": "louvado-seja-o-meu-senhor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Meu coração é para ti",
+    "path": "meu-coracao-para-ti",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Meu Coração Transborda",
+    "path": "meu-coracao-transborda",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Morada Santa",
+    "path": "morada-santa",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Mostra-me o caminho",
+    "path": "mostra-me-caminho",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Navegarei",
+    "path": "navegarei-",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Navegarei",
+    "path": "navegarei",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Noites Traiçoeiras",
+    "path": "noite-traicoeira",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "O Senhor É Rei",
+    "path": "o-senhor-rei",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Pão Da Vida",
+    "path": "pao-da-vida",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Podes Reinar",
+    "path": "podes-reinar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Porque Ele vive",
+    "path": "porque-ele-vive",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quero Dizer Yes",
+    "path": "quero-dizer-yes",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Quero Te Dar a Paz",
+    "path": "quero-te-dar-paz",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quero te dar a paz (paz de cristo)",
+    "path": "quero-te-dar-paz-paz-de-cristo",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Renova-me",
+    "path": "renova-me",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Restauração",
+    "path": "restauracao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Rock do Pastor",
+    "path": "rock-do-pastor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Santo",
+    "path": "santo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Se Soubesses Como Eu Te Amo",
+    "path": "se-soubesses-como-eu-te-amo",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Senhor que vieste salvar",
+    "path": "senhor-que-vieste-salvar",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Seu amor è demais",
+    "path": "seu-amor-demais",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Vem, Espírito Santo",
+    "path": "vem-espirito-santo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Vinho Novo",
+    "path": "vinho-novo",
+    "default-tone": "G",
+    "categories": []
+  }
+]

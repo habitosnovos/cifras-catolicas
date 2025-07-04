@@ -11944,5 +11944,23 @@
     "path": "batendo-palmas",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "Cordeiro de Deus",
+    "path": "cordeiro-de-deus-5",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Glória, Agnus Dei",
+    "path": "gloria-agnus-dei",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Hino de São Roque",
+    "path": "hino-de-sao-roque-2",
+    "default-tone": "D",
+    "categories": []
   }
 ]

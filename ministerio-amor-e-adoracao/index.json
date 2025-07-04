@@ -418,5 +418,11 @@
     "path": "voltei",
     "default-tone": "E",
     "categories": []
+  },
+  {
+    "name": "Oh Senhor Tende Piedade",
+    "path": "oh-senhor-tende-piedade",
+    "default-tone": "Am",
+    "categories": []
   }
 ]
