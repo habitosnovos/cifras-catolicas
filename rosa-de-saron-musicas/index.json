@@ -1036,5 +1036,11 @@
     "path": "without-you",
     "default-tone": "F#",
     "categories": []
+  },
+  {
+    "name": "Pra Descobrir",
+    "path": "pra-descobrir",
+    "default-tone": "A",
+    "categories": []
   }
 ]

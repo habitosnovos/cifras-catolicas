@@ -11962,5 +11962,101 @@
     "path": "hino-de-sao-roque-2",
     "default-tone": "D",
     "categories": []
+  },
+  {
+    "name": "A Vós Meu Deus Elevo a Minha Alma",
+    "path": "a-vos-meu-deus-elevo-a-minha-alma",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Ajuntai Vosso Tesouro No Céu",
+    "path": "ajuntai-vosso-tesouro-no-ceu",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Aleluia 11X  - Ó Senhor, Vossas Palavras São Espírito e Vida",
+    "path": "aleluia-11x-o-senhor-vossas-palavras-sao-espirito-e-vida",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Aleluia 11X - Felizes Os Que Observam a Palavra do Senhor, de Reto Coração",
+    "path": "aleluia-11x-felizes-os-que-observam-a-palavra-do-senhor-de-reto-coracao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Amém",
+    "path": "amem-3",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Em Tua Casa Nos Reunimos Como Igreja",
+    "path": "em-tua-casa-nos-reunimos-como-igreja",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Glória a Deus nas alturas (litúrgico)",
+    "path": "gloria-a-deus-nas-alturas-liturgico",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hino a Santa Marta",
+    "path": "hino-a-santa-marta",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Ladainha de Nossa Senhora da Boa Viagem",
+    "path": "ladainha-de-nossa-senhora-da-boa-viagem",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Laudate Mariam - Louvai a Maria",
+    "path": "laudate-mariam-louvai-a-maria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Mil Vezes Viva São Roque - Hino de São Roque",
+    "path": "mil-vezes-viva-sao-roque-hino-de-sao-roque",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Neste Pão Te Ofertamos Senhor",
+    "path": "neste-pao-te-ofertamos-senhor",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Oh São Roque, Hoje a Noite Não Se Dorme",
+    "path": "oh-sao-roque-hoje-a-noite-nao-se-dorme",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Onde Está o Teu Tesouro",
+    "path": "onde-esta-o-teu-tesouro",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Salve a Nossa Padroeira (Senhora Sant´ana)",
+    "path": "salve-a-nossa-padroeira-senhora-sant-ana",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Samaritano Que Importa",
+    "path": "samaritano-que-importa",
+    "default-tone": "F",
+    "categories": []
   }
 ]

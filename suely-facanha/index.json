@@ -406,5 +406,11 @@
     "path": "viver-pela-fe",
     "default-tone": "D",
     "categories": []
+  },
+  {
+    "name": "És o Sentido (CD Acústico)",
+    "path": "es-o-sentido-cd-acustico",
+    "default-tone": "F",
+    "categories": []
   }
 ]

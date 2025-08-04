@@ -424,5 +424,17 @@
     "path": "oh-senhor-tende-piedade",
     "default-tone": "Am",
     "categories": []
+  },
+  {
+    "name": "Hey Paraíso",
+    "path": "hey-paraiso",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "O Mundo Vai Ouvir a Sua Voz",
+    "path": "o-mundo-vai-ouvir-a-sua-voz",
+    "default-tone": "E",
+    "categories": []
   }
 ]

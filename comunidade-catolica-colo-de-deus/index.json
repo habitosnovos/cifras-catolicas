@@ -1750,5 +1750,23 @@
     "path": "yeshua-acoustic-nights-of-worship",
     "default-tone": "G#m",
     "categories": []
+  },
+  {
+    "name": "A Fogueira Está Pronta",
+    "path": "a-fogueira-esta-pronta",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "A Montanha",
+    "path": "a-montanha",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Eu e Meu Amor",
+    "path": "eu-e-meu-amor",
+    "default-tone": "G",
+    "categories": []
   }
 ]

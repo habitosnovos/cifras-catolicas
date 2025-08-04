@@ -232,5 +232,17 @@
     "path": "voce-aqui-conosco",
     "default-tone": "A",
     "categories": []
+  },
+  {
+    "name": "Glória Litúrgico",
+    "path": "gloria-liturgico",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Kyrie Eleison - 3º Fórmula do Missal Romano",
+    "path": "kyrie-eleison-3-formula-do-missal-romano",
+    "default-tone": "F#m",
+    "categories": []
   }
 ]

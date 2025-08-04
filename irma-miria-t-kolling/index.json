@@ -1408,5 +1408,17 @@
     "path": "hino-de-sao-pedro-e-sao-paulo",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "Ó Senhor Nós Estamos Aqui",
+    "path": "o-senhor-nos-estamos-aqui",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Por Não Termos Sabido",
+    "path": "por-nao-termos-sabido",
+    "default-tone": "C",
+    "categories": []
   }
 ]

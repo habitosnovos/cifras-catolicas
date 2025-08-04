@@ -112,5 +112,11 @@
     "path": "teu-lado-aberto",
     "default-tone": "Dm",
     "categories": []
+  },
+  {
+    "name": "Eu Não Esqueço",
+    "path": "eu-nao-esqueco",
+    "default-tone": "B",
+    "categories": []
   }
 ]

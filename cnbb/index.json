@@ -1762,5 +1762,11 @@
     "path": "vossa-luz",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "Um tesouro que não se desgasta",
+    "path": "um-tesouro-que-nao-se-desgasta",
+    "default-tone": "D",
+    "categories": []
   }
 ]

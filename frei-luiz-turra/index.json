@@ -118,5 +118,17 @@
     "path": "o-fariseu-e-o-publicano",
     "default-tone": "E",
     "categories": []
+  },
+  {
+    "name": "A Hospitalidade de Marta e Maria",
+    "path": "a-hospitalidade-de-marta-e-maria",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Volta, Meu Povo",
+    "path": "volta-meu-povo",
+    "default-tone": "E",
+    "categories": []
   }
 ]
