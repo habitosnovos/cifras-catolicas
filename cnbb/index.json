@@ -1768,5 +1768,89 @@
     "path": "um-tesouro-que-nao-se-desgasta",
     "default-tone": "D",
     "categories": []
+  },
+  {
+    "name": "A Minh'alma Engradece o Senhor!",
+    "path": "a-minh-alma-engradece-o-senhor",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "A Quem Iremos, Senhor?",
+    "path": "a-quem-iremos-senhor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "A Ti, o Deus, Teu Povo Cante o Louvor.",
+    "path": "a-ti-o-deus-teu-povo-cante-o-louvor",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Bendito sejais, Senhor",
+    "path": "bendito-sejais-senhor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Depende de Termos Fé",
+    "path": "depende-de-termos-fe",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Entrada 27º Domingo do Tempo Comum",
+    "path": "entrada-27-domingo-do-tempo-comum",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Entrada do 25º Domingo do Tempo Comum - Eu sou do povo a salvação, diz o Senhor",
+    "path": "entrada-do-25-domingo-do-tempo-comum-eu-sou-do-povo-a-salvacao-diz-o-senhor",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Entrada do 26º Domingo do Tempo Comum - Tudo quanto vós fizestes, ó Senhor",
+    "path": "entrada-do-26-domingo-do-tempo-comum-tudo-quanto-vos-fizestes-o-senhor",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Entrada do 29º Domingo do Tempo Comum - Eu Vos Chamo, Ó Meu Deus, Porque Me Ouvis",
+    "path": "entrada-do-29-domingo-do-tempo-comum-eu-vos-chamo-o-meu-deus-porque-me-ouvis",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Louva o Senhor!",
+    "path": "louva-o-senhor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Peregrinos, Somos Chamados",
+    "path": "peregrinos-somos-chamados",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Quem Não Toma a Sua Cruz!",
+    "path": "quem-nao-toma-a-sua-cruz",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Salve Ó Cruz Libertadora",
+    "path": "salve-o-cruz-libertadora",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Senhor, Tende Piedade de Nós",
+    "path": "senhor-tende-piedade-de-nos-2",
+    "default-tone": "D",
+    "categories": []
   }
 ]

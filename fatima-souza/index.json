@@ -316,5 +316,17 @@
     "path": "volta-ao-pai",
     "default-tone": "B",
     "categories": []
+  },
+  {
+    "name": "Acendendo Luzes",
+    "path": "acendendo-luzes",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sobre a Rocha",
+    "path": "sobre-a-rocha",
+    "default-tone": "Ab",
+    "categories": []
   }
 ]

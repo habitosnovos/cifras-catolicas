@@ -412,5 +412,11 @@
     "path": "es-o-sentido-cd-acustico",
     "default-tone": "F",
     "categories": []
+  },
+  {
+    "name": "Salva Vidas",
+    "path": "salva-vidas-2",
+    "default-tone": "C",
+    "categories": []
   }
 ]

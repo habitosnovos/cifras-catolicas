@@ -670,5 +670,17 @@
     "path": "viver-santidade",
     "default-tone": "Bb",
     "categories": []
+  },
+  {
+    "name": "O Canto Dos Sinos",
+    "path": "o-canto-dos-sinos",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Salmo 89 - Vós Fostes Ó Senhor Um Refúgio Para Nós!",
+    "path": "salmo-89-vos-fostes-o-senhor-um-refugio-para-nos",
+    "default-tone": "C",
+    "categories": []
   }
 ]

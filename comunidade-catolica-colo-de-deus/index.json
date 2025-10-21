@@ -1768,5 +1768,11 @@
     "path": "eu-e-meu-amor",
     "default-tone": "G",
     "categories": []
+  },
+  {
+    "name": "Eu Vou (Geração Atomika 2015)",
+    "path": "eu-vou-geracao-atomika-2015",
+    "default-tone": "C",
+    "categories": []
   }
 ]

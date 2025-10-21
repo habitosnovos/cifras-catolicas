@@ -238,5 +238,29 @@
     "path": "vinho-novo",
     "default-tone": "G",
     "categories": []
+  },
+  {
+    "name": "Civilização do Amor",
+    "path": "civilizacao-do-amor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Mãe Fiel",
+    "path": "mae-fiel",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Oração de São Francisco",
+    "path": "oracao-de-sao-francisco",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Vem Espírito (Eu Quero Amar / Sozinho Eu Não Posso Mais)",
+    "path": "vem-espirito-eu-quero-amar-sozinho-eu-nao-posso-mais",
+    "default-tone": "C",
+    "categories": []
   }
 ]

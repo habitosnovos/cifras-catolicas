@@ -130,5 +130,17 @@
     "path": "volta-meu-povo",
     "default-tone": "E",
     "categories": []
+  },
+  {
+    "name": "Hino Nossa Senhora de Belém",
+    "path": "hino-nossa-senhora-de-belem",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ó Senhor, Que Te Pede, Recebe (Comunhão - 17º Ao 21º D.t.c. - Ano C)",
+    "path": "o-senhor-que-te-pede-recebe-comunhao-17-ao-21-d-t-c-ano-c",
+    "default-tone": "C",
+    "categories": []
   }
 ]

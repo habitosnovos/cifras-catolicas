@@ -430,5 +430,11 @@
     "path": "vinde-beber",
     "default-tone": "G",
     "categories": []
+  },
+  {
+    "name": "Guarda a Minha Casa",
+    "path": "guarda-a-minha-casa",
+    "default-tone": "Bm",
+    "categories": []
   }
 ]

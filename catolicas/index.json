@@ -12058,5 +12058,233 @@
     "path": "samaritano-que-importa",
     "default-tone": "F",
     "categories": []
+  },
+  {
+    "name": "A Palavra de Deus Que Gera a Vida (Refrão Orante)",
+    "path": "a-palavra-de-deus-que-gera-a-vida-refrao-orante",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "ACLAMAÇÃO – ALELUIA... JESUS CRISTO, SENDO RICO",
+    "path": "aclamacao-aleluia-jesus-cristo-sendo-rico",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Agnus Dei ( Cordeiro de Deus )",
+    "path": "agnus-dei-cordeiro-de-deus",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Aleluia Matanata",
+    "path": "aleluia-matanata",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Amar Como Jesus Amou",
+    "path": "amar-como-jesus-amou",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ato Penitêncial (Senhor Que Viestes Salvar)",
+    "path": "ato-penitencial-senhor-que-viestes-salvar",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro de Deus Que Vences o Mundo",
+    "path": "cordeiro-de-deus-que-vences-o-mundo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Dizimo É Participar",
+    "path": "dizimo-e-participar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Dos Povos Todos, Missionários da Esperança",
+    "path": "dos-povos-todos-missionarios-da-esperanca",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Eu Sou o Pão Que Vem do Céu",
+    "path": "eu-sou-o-pao-que-vem-do-ceu",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Flores a Maria",
+    "path": "flores-a-maria",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Glória - Capella",
+    "path": "gloria-capella",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Glória Litúrgico",
+    "path": "gloria-liturgico-4",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Glória V. Padre Schu",
+    "path": "gloria-v-padre-schu",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Hino a Nossa Senhora da Saúde",
+    "path": "hino-a-nossa-senhora-da-saude",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Hino a São Jorge",
+    "path": "hino-a-sao-jorge-2",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hino Ao Senhor Bom Jesus de Cuiabá",
+    "path": "hino-ao-senhor-bom-jesus-de-cuiaba",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Hino de Nossa Senhora da Boa Viagem",
+    "path": "hino-de-nossa-senhora-da-boa-viagem",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hino de São Roque 3",
+    "path": "hino-de-sao-roque-3",
+    "default-tone": "F#",
+    "categories": []
+  },
+  {
+    "name": "Jesus É Bom Demais",
+    "path": "jesus-e-bom-demais",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ladainha de São Pio X",
+    "path": "ladainha-de-sao-pio-x",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Maria de Nazaré",
+    "path": "maria-de-nazare",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Musica à Nossa Senhora da Boa Viagem",
+    "path": "musica-a-nossa-senhora-da-boa-viagem",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Oferta De Flores",
+    "path": "oferta-de-flores",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Provai e Vede Quão Suave É o Senhor - 119º Tlc",
+    "path": "provai-e-vede-quao-suave-e-o-senhor-119-tlc",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Recordações, Lembranças da Vida",
+    "path": "recordacoes-lembrancas-da-vida",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Salmo 112 - Louvai o Senhor, que eleva os pobres",
+    "path": "salmo-112-louvai-o-senhor-que-eleva-os-pobres",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Salmo 120 - do Senhor É Que Me Vem o Meu Socorro, do Senhor Que Fez o Céu e Fez a Terra",
+    "path": "salmo-120-do-senhor-e-que-me-vem-o-meu-socorro-do-senhor-que-fez-o-ceu-e-fez-a-terra",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Salmo 44 (45) - Escutai Minha Filha, Olhai Ouvi Isto",
+    "path": "salmo-44-45-escutai-minha-filha-olhai-ouvi-isto",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Salmo 89(90),3-4.5-6.12-13.14.17 (R. 1)",
+    "path": "salmo-89-90-3-4-5-6-12-13-14-17-r-1",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Salve Santa Teresinha",
+    "path": "salve-santa-teresinha",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Santo - Toca de Assis Nicole (Versão Litúrgica)",
+    "path": "santo-toca-de-assis-nicole-versao-liturgica",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Santo Antônio, Vede Com Que Alegria",
+    "path": "santo-antonio-vede-com-que-alegria",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Santo Litúrgico",
+    "path": "santo-liturgico",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Tarde Vos Amei",
+    "path": "tarde-vos-amei",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Te Ofertamos Senhor",
+    "path": "te-ofertamos-senhor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Tu És a Razão da Jornada",
+    "path": "tu-es-a-razao-da-jornada",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Virgem Senhora Mãe da Piedade",
+    "path": "virgem-senhora-mae-da-piedade",
+    "default-tone": "A",
+    "categories": []
   }
 ]

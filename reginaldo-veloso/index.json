@@ -166,5 +166,11 @@
     "path": "vida-o-sonho-de-deus",
     "default-tone": "G",
     "categories": []
+  },
+  {
+    "name": "A Minh'alma Engrandece o Senhor",
+    "path": "a-minh-alma-engrandece-o-senhor",
+    "default-tone": "Am",
+    "categories": []
   }
 ]

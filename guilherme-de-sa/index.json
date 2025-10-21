@@ -298,5 +298,11 @@
     "path": "yahweh",
     "default-tone": "B",
     "categories": []
+  },
+  {
+    "name": "Amigo",
+    "path": "amigo",
+    "default-tone": "Eb",
+    "categories": []
   }
 ]

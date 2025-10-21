@@ -2872,5 +2872,23 @@
     "path": "eu-sei-que-estas-no-ceu",
     "default-tone": "A",
     "categories": []
+  },
+  {
+    "name": "Faz de Conta",
+    "path": "faz-de-conta",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ora, Pois Por Mim Maria",
+    "path": "ora-pois-por-mim-maria",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Quietude",
+    "path": "quietude",
+    "default-tone": "E",
+    "categories": []
   }
 ]

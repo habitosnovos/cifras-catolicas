@@ -562,5 +562,35 @@
     "path": "sequencia-corpus-christ",
     "default-tone": "Bb",
     "categories": []
+  },
+  {
+    "name": "À Vossa Proteção",
+    "path": "a-vossa-protecao",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Bela Princesa",
+    "path": "bela-princesa",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Humilde Rainha, Mãe Gloriosa",
+    "path": "humilde-rainha-mae-gloriosa",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Sacrário do Amor",
+    "path": "sacrario-do-amor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Virgem Imaculada",
+    "path": "virgem-imaculada",
+    "default-tone": "C#m",
+    "categories": []
   }
 ]
