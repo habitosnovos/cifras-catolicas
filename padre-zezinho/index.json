@@ -2926,5 +2926,11 @@
     "path": "eu-sigo-a-luz",
     "default-tone": "E",
     "categories": []
+  },
+  {
+    "name": "Mãezinha do Céu",
+    "path": "maezinha-do-ceu",
+    "default-tone": "",
+    "categories": []
   }
 ]
