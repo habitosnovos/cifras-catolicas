@@ -520,5 +520,11 @@
     "path": "yeshua",
     "default-tone": "Gm",
     "categories": []
+  },
+  {
+    "name": "Ninguém Jamais Contemplou",
+    "path": "ninguem-jamais-contemplou",
+    "default-tone": "Bb",
+    "categories": []
   }
 ]

@@ -718,5 +718,23 @@
     "path": "yeshua",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "Em Tua Presença",
+    "path": "em-tua-presenca",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Mãe Guadalupe",
+    "path": "mae-guadalupe",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Conheço Um Coraçao",
+    "path": "conheco-um-coracao",
+    "default-tone": "A",
+    "categories": []
   }
 ]

@@ -334,5 +334,11 @@
     "path": "vou-voltar",
     "default-tone": "D",
     "categories": []
+  },
+  {
+    "name": "Na Presença do Senhor",
+    "path": "na-presenca-do-senhor",
+    "default-tone": "Em",
+    "categories": []
   }
 ]

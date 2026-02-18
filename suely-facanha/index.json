@@ -418,5 +418,11 @@
     "path": "salva-vidas-2",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "Oração do Abandono",
+    "path": "oracao-do-abandono",
+    "default-tone": "G",
+    "categories": []
   }
 ]

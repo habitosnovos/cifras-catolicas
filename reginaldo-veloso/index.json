@@ -172,5 +172,17 @@
     "path": "a-minh-alma-engrandece-o-senhor",
     "default-tone": "Am",
     "categories": []
+  },
+  {
+    "name": "O Passarinho Encontrou Agasalho",
+    "path": "o-passarinho-encontrou-agasalho",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Dizei, Gritai Aos Corações Desanimados",
+    "path": "dizei-gritai-aos-coracoes-desanimados",
+    "default-tone": "Bm",
+    "categories": []
   }
 ]

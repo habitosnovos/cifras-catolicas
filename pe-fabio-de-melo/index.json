@@ -1084,5 +1084,11 @@
     "path": "o-palhaco",
     "default-tone": "E",
     "categories": []
+  },
+  {
+    "name": "Voltar",
+    "path": "voltar",
+    "default-tone": "Am",
+    "categories": []
   }
 ]

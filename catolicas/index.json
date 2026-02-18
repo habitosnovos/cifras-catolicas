@@ -12286,5 +12286,437 @@
     "path": "virgem-senhora-mae-da-piedade",
     "default-tone": "A",
     "categories": []
+  },
+  {
+    "name": "Salmo 118",
+    "path": "salmo-118",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Senhor, Verdadeiro Corpo",
+    "path": "senhor-verdadeiro-corpo",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Kyrie Eleison Missal Romano",
+    "path": "kyrie-eleison-missal-romano",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Kyrie Eleison - 3º Fórmula/ Senhor que vistes não para condenar...",
+    "path": "kyrie-eleison-3-formula-senhor-que-vistes-nao-para-condenar",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "Ladainha de Nossa Senhora de Lourdes - Versao Procissão",
+    "path": "ladainha-de-nossa-senhora-de-lourdes-versao-procissao",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Santo, Santo, Santo, Senhor Deus do Universo",
+    "path": "https-www-youtube-com-watch-v-lbitpa0se2o",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Achei Jesus Nos Braços de Maria",
+    "path": "achei-jesus-nos-bracos-de-maria",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Aleluia - Evangelho",
+    "path": "aleluia-evangelho",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Veni, Sancte Spiritus",
+    "path": "veni-sancte-spiritus",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Gloria a Vós Senhor",
+    "path": "gloria-a-vos-senhor",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Santo, Santo, Santo, Senhor, Deus do Universo",
+    "path": "santo-santo-santo-senhor-deus-do-universo-2",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Senhor Que Sois o Caminho ( Como a Ovelha Perdida )",
+    "path": "senhor-que-sois-o-caminho-como-a-ovelha-perdida",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Amém",
+    "path": "amem-4",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Fruto do Meu Trabalho Senhor",
+    "path": "fruto-do-meu-trabalho-senhor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Nossa Senhora da Conceicao",
+    "path": "nossa-senhora-da-conceicao",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Santo",
+    "path": "santo-3",
+    "default-tone": "Eb",
+    "categories": []
+  },
+  {
+    "name": "Alelua. Bem Aventurado Quem Tem Misericórdia",
+    "path": "alelua-bem-aventurado-quem-tem-misericordia",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Aleluia",
+    "path": "aleluia-2",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ato Penitencial - Senhor Que Vindes Visitar Vosso Povo Na Paz",
+    "path": "ato-penitencial-senhor-que-vindes-visitar-vosso-povo-na-paz",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Bate o Sino",
+    "path": "bate-o-sino",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hino À Nossa Senhora Medianeira de Todas As Graças",
+    "path": "hino-a-nossa-senhora-medianeira-de-todas-as-gracas",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Aleluia (Clamamos)",
+    "path": "aleluia-clamamos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro de Deus",
+    "path": "cordeiro-de-deus-6",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro de Deus",
+    "path": "cordeiro-de-deus-8",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Cordeiro de Deus",
+    "path": "cordeiro-de-deus-7",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Em procissão, em romaria... (No Altar de Aparecida Para Nsa Sra da Penha)",
+    "path": "em-procissao-em-romaria-no-altar-de-aparecida-para-nsa-sra-da-penha",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Hino a São Judas Tadeu - Ó Celeste",
+    "path": "hino-a-sao-judas-tadeu-o-celeste",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Ladainha de Santa Luzia",
+    "path": "ladainha-de-santa-luzia",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Louvor e Glória a Ti Senhor",
+    "path": "louvor-e-gloria-a-ti-senhor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Ó Grande Santa Teresinha!",
+    "path": "o-grande-santa-teresinha",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "SANTO I",
+    "path": "santo-i",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Senhor, Tem Piedade de Nós",
+    "path": "senhor-tem-piedade-de-nos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Aleluia ( Despontou o Santo Dia Para Nós )",
+    "path": "aleluia-despontou-o-santo-dia-para-nos",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Aleluia, Aleluia ( Que a Paz de Cristo Reine em Vossos Corações )",
+    "path": "aleluia-aleluia-que-a-paz-de-cristo-reine-em-vossos-coracoes",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Benditos de Meu Pai",
+    "path": "benditos-de-meu-pai",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Eis Que a Noite Clareou",
+    "path": "eis-que-a-noite-clareou",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hino de Santo Amaro de Ipitanga",
+    "path": "hino-de-santo-amaro-de-ipitanga",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Ladainha de Santo Amaro de Ipitanga",
+    "path": "ladainha-de-santo-amaro-de-ipitanga",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Maria, Mãe do Amparo",
+    "path": "maria-mae-do-amparo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Natal - Simplicidade",
+    "path": "natal-simplicidade",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "O Povo Que Jazia Nas Trevas",
+    "path": "o-povo-que-jazia-nas-trevas",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Oh! Pai Eterno Olhai Por Nós",
+    "path": "oh-pai-eterno-olhai-por-nos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Pai Nosso",
+    "path": "pai-nosso-2",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Piedade, Meu Deus, Piedade",
+    "path": "piedade-meu-deus-piedade",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Salmo 43 (44) - LIBERTAI-NOS, SENHOR",
+    "path": "salmo-43-44-libertai-nos-senhor",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Salmo 45 (46) - Os braços de um rio vêm trazer alegria à cidade de Deus, à morada do altíssimo",
+    "path": "salmo-45-46-os-bracos-de-um-rio-vem-trazer-alegria-a-cidade-de-deus-a-morada-do-altissimo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Santa Luzia Teu Povo Te Pede Com Fé",
+    "path": "santa-luzia-teu-povo-te-pede-com-fe",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Tarde Te Amei",
+    "path": "tarde-te-amei",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Aleluia ao Deus Santo",
+    "path": "aleluia-ao-deus-santo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Cristo, o Rei da Paz, Vem Home ao Mundo",
+    "path": "cristo-o-rei-da-paz-vem-home-ao-mundo",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Dichosa Tu",
+    "path": "dichosa-tu",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Eis que uma Virgem Concebeu",
+    "path": "eis-que-uma-virgem-concebeu",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Flor da Normandia (Teresinha Alma Sublime)",
+    "path": "flor-da-normandia-teresinha-alma-sublime",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "GLÓRIA A DEUS Liturgico",
+    "path": "gloria-a-deus-liturgico",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Hino a Nossa Senhora da Lapa - Cubatão / SP",
+    "path": "hino-a-nossa-senhora-da-lapa-cubatao-sp",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Hino a São Benedito",
+    "path": "hino-a-sao-benedito-2",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Hino ao Padroeiro Cristo Redentor",
+    "path": "hino-ao-padroeiro-cristo-redentor",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Hino de Nossa Senhora da Apresentação - Limoeiro",
+    "path": "hino-de-nossa-senhora-da-apresentacao-limoeiro",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Hino de Santa Ângela Mérici",
+    "path": "hino-de-santa-angela-merici",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Hino do Ano Jubilar 2025",
+    "path": "hino-do-ano-jubilar-2025",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Inovamos Senhor Nosso Lar",
+    "path": "inovamos-senhor-nosso-lar",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Levanta-te, José",
+    "path": "levanta-te-jose",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Mãe da Igreja, Mulher do Sim",
+    "path": "mae-da-igreja-mulher-do-sim",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Natal - o Salvador Nasceu Para Nós",
+    "path": "natal-o-salvador-nasceu-para-nos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Rei Divino, Que À Terra Desceste",
+    "path": "rei-divino-que-a-terra-desceste",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Responsório Sl 71(72),1-2.7-8.10-11.12-13 (R. cf. 11)",
+    "path": "responsorio-sl-71-72-1-2-7-8-10-11-12-13-r-cf-11",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Salmo 21",
+    "path": "salmo-21-2",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Salmo 23(24) o Rei da Glória É o Senhor Onipotente; Abri As Portas Para Que Ele Possa Entrar!",
+    "path": "salmo-23-24-o-rei-da-gloria-e-o-senhor-onipotente-abri-as-portas-para-que-ele-possa-entrar",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Salmo 45 - Os braços de um rio vem trazer alegria à cidade de Deus, à morada do altíssimo",
+    "path": "salmo-45-os-bracos-de-um-rio-vem-trazer-alegria-a-cidade-de-deus-a-morada-do-altissimo",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Senhor Porque Pecamos",
+    "path": "senhor-porque-pecamos",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Senhor Que Nascendo da Virgem Maria",
+    "path": "senhor-que-nascendo-da-virgem-maria",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Vigilia da Assunção",
+    "path": "vigilia-da-assuncao",
+    "default-tone": "E",
+    "categories": []
   }
 ]

@@ -118,5 +118,11 @@
     "path": "eu-nao-esqueco",
     "default-tone": "B",
     "categories": []
+  },
+  {
+    "name": "Aleluia",
+    "path": "aleluia",
+    "default-tone": "C",
+    "categories": []
   }
 ]

@@ -142,5 +142,17 @@
     "path": "o-senhor-que-te-pede-recebe-comunhao-17-ao-21-d-t-c-ano-c",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "Servir Com Jesus",
+    "path": "servir-com-jesus",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "O Espírito de Deus Nos Reúne Num Só Corpo",
+    "path": "o-espirito-de-deus-nos-reune-num-so-corpo",
+    "default-tone": "G",
+    "categories": []
   }
 ]

@@ -304,5 +304,11 @@
     "path": "amigo",
     "default-tone": "Eb",
     "categories": []
+  },
+  {
+    "name": "Acalma a Minha Tempestade",
+    "path": "acalma-a-minha-tempestade",
+    "default-tone": "F#",
+    "categories": []
   }
 ]

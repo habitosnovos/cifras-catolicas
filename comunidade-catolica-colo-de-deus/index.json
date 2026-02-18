@@ -1774,5 +1774,35 @@
     "path": "eu-vou-geracao-atomika-2015",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "Gavetas",
+    "path": "gavetas",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "És Digno",
+    "path": "es-digno",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Não Tô Nem Aí",
+    "path": "nao-to-nem-ai",
+    "default-tone": "C#m",
+    "categories": []
+  },
+  {
+    "name": "João 4,23 (Ao Vivo No Geração Atomika)",
+    "path": "joao-4-23-ao-vivo-no-geracao-atomika",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Minha Resposta (Ao Vivo No Geração Atomika)",
+    "path": "minha-resposta-ao-vivo-no-geracao-atomika",
+    "default-tone": "Am",
+    "categories": []
   }
 ]

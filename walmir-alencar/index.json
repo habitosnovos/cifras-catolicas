@@ -436,5 +436,11 @@
     "path": "vos-sois-meu-pastor",
     "default-tone": "E",
     "categories": []
+  },
+  {
+    "name": "De Coração",
+    "path": "de-coracao",
+    "default-tone": "G",
+    "categories": []
   }
 ]

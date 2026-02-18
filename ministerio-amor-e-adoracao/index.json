@@ -436,5 +436,11 @@
     "path": "o-mundo-vai-ouvir-a-sua-voz",
     "default-tone": "E",
     "categories": []
+  },
+  {
+    "name": "Vou Subir Mais Alto",
+    "path": "vou-subir-mais-alto",
+    "default-tone": "E",
+    "categories": []
   }
 ]

@@ -886,5 +886,11 @@
     "path": "vive-o-menino-jesus",
     "default-tone": "G",
     "categories": []
+  },
+  {
+    "name": "Nossa Senhora",
+    "path": "nossa-senhora",
+    "default-tone": "D",
+    "categories": []
   }
 ]

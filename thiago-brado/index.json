@@ -562,5 +562,17 @@
     "path": "verdades-do-tempo",
     "default-tone": "E",
     "categories": []
+  },
+  {
+    "name": "Vencedor",
+    "path": "vencedor",
+    "default-tone": "Ab",
+    "categories": []
+  },
+  {
+    "name": "Meu Herói",
+    "path": "meu-heroi",
+    "default-tone": "F",
+    "categories": []
   }
 ]

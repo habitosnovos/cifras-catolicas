@@ -1042,5 +1042,35 @@
     "path": "pra-descobrir",
     "default-tone": "A",
     "categories": []
+  },
+  {
+    "name": "Casa",
+    "path": "casa",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Bartim(eu)",
+    "path": "bartim-eu",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Apenas Uma Canção de Amor",
+    "path": "apenas-uma-cancao-de-amor-2",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Bartim(eu)",
+    "path": "bartim-eu-2",
+    "default-tone": "Db",
+    "categories": []
+  },
+  {
+    "name": "Bartim(eu)",
+    "path": "bartim-eu-3",
+    "default-tone": "C",
+    "categories": []
   }
 ]

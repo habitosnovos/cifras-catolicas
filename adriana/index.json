@@ -694,5 +694,11 @@
     "path": "zaqueu-e-jesus",
     "default-tone": "G",
     "categories": []
+  },
+  {
+    "name": "Nossos Caminhos",
+    "path": "nossos-caminhos",
+    "default-tone": "E",
+    "categories": []
   }
 ]

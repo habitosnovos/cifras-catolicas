@@ -1420,5 +1420,53 @@
     "path": "por-nao-termos-sabido",
     "default-tone": "C",
     "categories": []
+  },
+  {
+    "name": "Fala, Senhor, Que Teu Servo Escuta",
+    "path": "fala-senhor-que-teu-servo-escuta",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Sal e Luz ",
+    "path": "sal-e-luz-refrao-orante",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Salmo 71 (72) - Nos Seus Dias A Justiça Florirá",
+    "path": "salmo-71-72-nos-seus-dias-a-justica-florira",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Há Um Lugar de Paz",
+    "path": "ha-um-lugar-de-paz",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Hino a São João Da Cruz",
+    "path": "hino-a-sao-joao-da-cruz",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Por Nós Santa Rita",
+    "path": "por-nos-santa-rita",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Salmo 39 Eu Disse: Eis Que Venho, Senhor! Com Prazer Faço a Vossa Vontade!",
+    "path": "salmo-39-eu-disse-eis-que-venho-senhor-com-prazer-faco-a-vossa-vontade",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Te Deum - A Vós, Ó Deus, Louvamos!",
+    "path": "te-deum-a-vos-o-deus-louvamos",
+    "default-tone": "G",
+    "categories": []
   }
 ]

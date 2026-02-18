@@ -52,5 +52,17 @@
     "path": "proclamacao-da-pascoa",
     "default-tone": "E",
     "categories": []
+  },
+  {
+    "name": "Ato Penitencial (3ª Fórmula do Advento)",
+    "path": "ato-penitencial-2-formula-do-advento",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Ato Penitencial - Natal",
+    "path": "ato-penitencial-natal",
+    "default-tone": "A",
+    "categories": []
   }
 ]

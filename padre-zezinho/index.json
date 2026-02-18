@@ -2890,5 +2890,41 @@
     "path": "quietude",
     "default-tone": "E",
     "categories": []
+  },
+  {
+    "name": "Ide Pelo Mundo",
+    "path": "ide-pelo-mundo",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Os Dois Caminhos",
+    "path": "os-dois-caminhos",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Acolhida",
+    "path": "acolhida",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Hino São Sebastião",
+    "path": "hino-sao-sebastiao",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Por Amor Ao Teu Amor",
+    "path": "por-amor-ao-teu-amor",
+    "default-tone": "E",
+    "categories": []
+  },
+  {
+    "name": "Eu Sigo a Luz",
+    "path": "eu-sigo-a-luz",
+    "default-tone": "E",
+    "categories": []
   }
 ]
