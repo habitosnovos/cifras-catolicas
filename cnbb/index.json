@@ -1852,5 +1852,215 @@
     "path": "senhor-tende-piedade-de-nos-2",
     "default-tone": "D",
     "categories": []
+  },
+  {
+    "name": "Hino da Campanha da Fraternidade 2026",
+    "path": "hino-da-campanha-da-fraternidade-2026",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Converter Ao Evangelho",
+    "path": "converter-ao-evangelho",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Hino Oficial da Campanha da Fraternidade 2026",
+    "path": "hino-oficial-da-campanha-da-fraternidade-2026",
+    "default-tone": "Bm",
+    "categories": []
+  },
+  {
+    "name": "Entrada do 6º Domingo do Tempo Comum - Sois, Senhor, a Fortaleza Que Me Abriga",
+    "path": "entrada-do-6-domingo-do-tempo-comum-sois-senhor-a-fortaleza-que-me-abriga",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Aleluia, Eu Te Louvo, Ó Pai Santo",
+    "path": "aleluia-eu-te-louvo-o-pai-santo",
+    "default-tone": "F",
+    "categories": []
+  },
+  {
+    "name": "Entrada do 5º Domingo do Tempo Comum - Vinde adoremo-nos e prostremo-nos por terra",
+    "path": "entrada-do-5-domingo-do-tempo-comum-vinde-adoremo-nos-e-prostremo-nos-por-terra",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Vosso Jejum, Esmola e Oração",
+    "path": "vosso-jejum-esmola-e-oracao",
+    "default-tone": "Gm",
+    "categories": []
+  },
+  {
+    "name": "Misericórdia, ó Senhor",
+    "path": "misericordia-o-senhor",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Pequei, Senhor, Misericórdia",
+    "path": "pequei-senhor-misericordia",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Entrada da Quarta-feira de Cinzas - Ó Senhor, de Tudo, Tendes Compaixão",
+    "path": "entrada-da-quarta-feira-de-cinzas-o-senhor-de-tudo-tendes-compaixao",
+    "default-tone": "F#m",
+    "categories": []
+  },
+  {
+    "name": "Convertei-vos e Crede No Evangelho",
+    "path": "convertei-vos-e-crede-no-evangelho",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Entrada do 2º Domingo do Tempo Comum - Toda a terra vos adore com respeito",
+    "path": "entrada-do-2-domingo-do-tempo-comum-toda-a-terra-vos-adore-com-respeito",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Entrada do 3º Domingo do Tempo Comum - Cantai Ao Senhor Deus Um Canto Novo!",
+    "path": "entrada-do-3-domingo-do-tempo-comum-cantai-ao-senhor-deus-um-canto-novo",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Eis que uma virgem conceberá (Canto de Comunhão)",
+    "path": "eis-que-uma-virgem-concebera-canto-de-comunhao",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "Entrada da Festa do Batismo do Senhor - Batizado Jesus no Jordão",
+    "path": "entrada-da-festa-do-batismo-do-senhor-batizado-jesus-no-jordao",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Entrada do 4º Domingo do Tempo Comum - Salvai-nos, Ó Senhor, Ó Nosso Deus",
+    "path": "entrada-do-4-domingo-do-tempo-comum-salvai-nos-o-senhor-o-nosso-deus",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Aleluia, Aleluia - 4º Domingo do Advento (Aclamação ao Evangelho)",
+    "path": "aleluia-aleluia-4-domingo-do-advento-aclamacao-ao-evangelho",
+    "default-tone": "Fm",
+    "categories": []
+  },
+  {
+    "name": "Quando Virá, o Senhor",
+    "path": "quando-vira-o-senhor",
+    "default-tone": "Cm",
+    "categories": []
+  },
+  {
+    "name": "A Mesa Santa",
+    "path": "a-mesa-santa",
+    "default-tone": "B",
+    "categories": []
+  },
+  {
+    "name": "Anúncio do Natal",
+    "path": "anuncio-do-natal",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Entrada do 30º Domingo do Tempo Comum - Exulte o Coração Que Busca a Deus",
+    "path": "entrada-do-30-domingo-do-tempo-comum-exulte-o-coracao-que-busca-a-deus",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "A nossa oferta apresentamos (Apresentação das Oferendas)",
+    "path": "a-nossa-oferta-apresentamos-apresentacao-das-oferendas",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Cristãos, Vinde Todos",
+    "path": "cristaos-vinde-todos",
+    "default-tone": "G",
+    "categories": []
+  },
+  {
+    "name": "Entrada do 2º Domingo do Advento - Ó povo eleito, o Senhor vem pra salvar",
+    "path": "entrada-do-2-domingo-do-advento-o-povo-eleito-o-senhor-vem-pra-salvar",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Vimos a Sua Estrela No Oriente!  (Canto da Comunhão)",
+    "path": "vimos-a-sua-estrela-no-oriente-canto-da-comunhao",
+    "default-tone": "D",
+    "categories": []
+  },
+  {
+    "name": "Aleluia, - Maria, Mãe de Deus (Aclamação Ao Evangelho)",
+    "path": "aleluia-maria-mae-de-deus-aclamacao-ao-evangelho",
+    "default-tone": "A",
+    "categories": []
+  },
+  {
+    "name": "Aleluia... É Bendito Aquele Que Vem Vindo",
+    "path": "aleluia-e-bendito-aquele-que-vem-vindo",
+    "default-tone": "Am",
+    "categories": []
+  },
+  {
+    "name": "Aleluia... O Senhor Reconciliou o Mundo Em Cristo",
+    "path": "aleluia-o-senhor-reconciliou-o-mundo-em-cristo",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Eis Que Veio o Senhor",
+    "path": "eis-que-veio-o-senhor-2",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Eis Que Veio o Senhor",
+    "path": "eis-que-veio-o-senhor",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Entrada do 1º Domingo do Advento - A vós, meu Deus, eu elevo a minha alma",
+    "path": "entrada-do-1-domingo-do-advento-a-vos-meu-deus-eu-elevo-a-minha-alma",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Entrada do 33º Domingo do Tempo Comum - Diz o Senhor, Meus Pensamentos São de Paz",
+    "path": "entrada-do-33-domingo-do-tempo-comum-diz-o-senhor-meus-pensamentos-sao-de-paz",
+    "default-tone": "Dm",
+    "categories": []
+  },
+  {
+    "name": "Entrada do 3º Domingo do Advento - Sempre alegrai-vos no Senhor, sempre alegrai-vos!",
+    "path": "entrada-do-3-domingo-do-advento-sempre-alegrai-vos-no-senhor-sempre-alegrai-vos",
+    "default-tone": "C",
+    "categories": []
+  },
+  {
+    "name": "Entrada do 4º Domingo do Advento - Desça Dos Céus Aquele Orvalho Benfazejo",
+    "path": "entrada-do-4-domingo-do-advento-desca-dos-ceus-aquele-orvalho-benfazejo",
+    "default-tone": "Em",
+    "categories": []
+  },
+  {
+    "name": "Senhor, nós te esperamos (Coroa do Advento)",
+    "path": "senhor-nos-te-esperamos-coroa-do-advento",
+    "default-tone": "Am",
+    "categories": []
   }
 ]
